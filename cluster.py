@@ -61,6 +61,10 @@ class Cluster:
                 x = self.get_avg_spplus(lower, -1)
                 txt = 'average SP+ of bottom {}'.format(lower)
                 stxt = 'sp+ {}'.format(round(x, 1))
+            elif spplus == 'average':
+                x = self.get_avg_spplus(1, -1)
+                txt = 'average SP+ of all FBS'
+                stxt = 'sp+ {}'.format(round(x, 1))
             else:
                 x = 0.0
                 txt = 'spplus 0'
