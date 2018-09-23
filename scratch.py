@@ -57,12 +57,12 @@ def make_team_graphs(old=True, scale=None, week=-1):
 
 
 load_schedule()
-#groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
-#current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
-#current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
-#current.make_schedule_ranking_graph(spplus='top25')
+groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
+current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
+current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
+current.make_schedule_ranking_graph(spplus='top25')
 
-#make_conf_graphs(old=True, week=5, order='sp+')
-#make_conf_graphs(old=True, week=5, order='winexp')
+make_conf_graphs(old=True, week=5, order='sp+')
+make_conf_graphs(old=True, week=5, order='winexp')
 make_cluster_graphs(old=True, week=5, order='winexp')
-#make_team_graphs(old=True, week=5)
+make_team_graphs(old=True, week=5)

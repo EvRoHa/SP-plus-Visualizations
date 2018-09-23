@@ -19409,7 +19409,7 @@
                 "id": "2953007",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "north texas",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [0, 7, 0, 0],
                 "startDate": "2018-09-22",
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
@@ -23468,7 +23468,8 @@
             "2018-08-23": 17.0,
             "2018-09-03": 9.0,
             "2018-09-09": 12.3,
-            "2018-09-16": 14.4
+            "2018-09-16": 14.4,
+            "2018-09-23": 17.3
         }
     },
     "miami ohio": {
@@ -29910,11 +29911,11 @@
                 "id": "2953007",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "liberty",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [14, 7, 6, 20],
                 "startDate": "2018-09-22",
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
