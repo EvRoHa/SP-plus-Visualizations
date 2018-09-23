@@ -64,5 +64,5 @@ load_schedule()
 
 #make_conf_graphs(old=True, week=5, order='sp+')
 #make_conf_graphs(old=True, week=5, order='winexp')
-make_cluster_graphs(old=True, week=5, order='winexp+')
+make_cluster_graphs(old=True, week=5, order='winexp')
 #make_team_graphs(old=True, week=5)
