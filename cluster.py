@@ -1,5 +1,6 @@
 import csv
 import os
+from defs import FBS
 from datetime import datetime
 
 from graph import Graph
@@ -17,9 +18,10 @@ class Cluster:
         sp = []
 
         for team in self.schedule:
-            date = max(datetime.strptime(dt, '%Y-%m-%d') for dt in self.schedule[team]['sp+'].keys()).strftime(
+            if self.schedule[team]['conference'] in FBS:
+                date = max(datetime.strptime(dt, '%Y-%m-%d') for dt in self.schedule[team]['sp+'].keys()).strftime(
                 '%Y-%m-%d')
-            sp.append(self.schedule[team]['sp+'][date])
+                sp.append(self.schedule[team]['sp+'][date])
         sp.sort(reverse=True)
         if upper == -1:
             return sum(sp[lower - 1:upper]) / (len(sp) - lower + 1)

@@ -1,64 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/cluster.py" line="119" />
+    <bookmark url="file://$PROJECT_DIR$/cluster.py" line="125" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Fixed Cluster graphs.">
+    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Fixed Miami (FL). Added SOS for top5 and average team.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/boston college - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/boston college - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/duke - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/duke - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia tech - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia tech - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/liberty - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/liberty - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/miami - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/miami - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/mountain west - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/mountain west - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/north carolina - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/north carolina - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/north texas - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/north texas - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/pittsburgh - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/pittsburgh - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia tech - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia tech - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/Strength of Schedule using average sp+ of top 25 - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/Strength of Schedule using average sp+ of top 25 - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/boston college - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/boston college - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/duke - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/duke - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/florida state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/florida state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia tech - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia tech - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/gfive - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/gfive - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/liberty - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/liberty - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/miami - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/miami - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/mountain west - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/mountain west - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/north carolina - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/north carolina - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/north texas - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/north texas - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pittsburgh - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pittsburgh - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia tech - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia tech - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/atlantic coast - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/atlantic coast - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/boston college - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/boston college - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/conference usa - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/conference usa - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/duke - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/duke - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/florida state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/florida state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/georgia tech - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/georgia tech - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/liberty - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/liberty - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/miami - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/miami - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/north carolina - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/north carolina - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/north texas - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/north texas - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/pittsburgh - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/pittsburgh - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/virginia - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/virginia - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/virginia tech - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/virginia tech - sp+ - team.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,16 +45,16 @@
           <entry key="csv" value="1" />
           <entry key="fart" value="41" />
           <entry key="json" value="755" />
-          <entry key="py" value="45954" />
+          <entry key="py" value="46088" />
           <entry key="svg" value="13" />
-          <entry key="txt" value="760" />
+          <entry key="txt" value="817" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="755" />
-          <entry key="PLAIN_TEXT" value="802" />
-          <entry key="Python" value="45954" />
+          <entry key="PLAIN_TEXT" value="859" />
+          <entry key="Python" value="46088" />
           <entry key="SVG" value="13" />
         </counts>
       </usages-collector>
@@ -118,7 +66,7 @@
           <entry key="jpg" value="1" />
           <entry key="json" value="107" />
           <entry key="png" value="4" />
-          <entry key="py" value="150" />
+          <entry key="py" value="152" />
           <entry key="svg" value="17" />
           <entry key="txt" value="47" />
         </counts>
@@ -128,7 +76,7 @@
           <entry key="Image" value="5" />
           <entry key="JSON" value="108" />
           <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="150" />
+          <entry key="Python" value="152" />
           <entry key="SVG" value="17" />
         </counts>
       </usages-collector>
@@ -139,21 +87,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="146">
+              <caret line="63" column="51" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="51" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1537733747774" expanded="true" signature="154:278" ph="..." />
+                <marker date="1537737452968" expanded="true" signature="154:278" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="29913" column="41" selection-start-line="29913" selection-start-column="41" selection-end-line="29913" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cluster.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1537738813058" expanded="true" signature="475:988" ph="..." />
+                <marker date="1537738813058" expanded="true" signature="1042:1051" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/defs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -199,8 +170,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>umass&quot;:</find>
-      <find>oklahoma state&quot;:</find>
       <find>overwrite</find>
       <find>csv</find>
       <find>&quot;alabama&quot;:</find>
@@ -227,8 +196,10 @@
       <find>miami&quot;</find>
       <find>miami (fl</find>
       <find>miami&quot;:</find>
-      <find>new schedule</find>
       <find>north texas&quot;:</find>
+      <find>new schedule</find>
+      <find>liberty&quot;:</find>
+      <find>top</find>
     </findStrings>
     <replaceStrings>
       <replace>state</replace>
@@ -321,10 +292,10 @@
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/team.py" />
         <option value="$PROJECT_DIR$/conference.py" />
-        <option value="$PROJECT_DIR$/cluster.py" />
         <option value="$PROJECT_DIR$/schedule.py" />
-        <option value="$PROJECT_DIR$/scratch.py" />
         <option value="$PROJECT_DIR$/schedule.json" />
+        <option value="$PROJECT_DIR$/scratch.py" />
+        <option value="$PROJECT_DIR$/cluster.py" />
       </list>
     </option>
   </component>
@@ -489,20 +460,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531750812156</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Fixed Cluster, Conference, and Team so that text correctly animates to change color on mouseover.">
-      <created>1533307257962</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1533307257962</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Fixed Cluster, Conference, and Team so that text correctly animates to change color on mouseover.">
-      <created>1533307909951</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1533307909951</updated>
     </task>
     <task id="LOCAL-00031" summary="Fixed Cluster, Conference, and Team so that text correctly animates to change color on mouseover.">
       <created>1533308002158</created>
@@ -833,12 +790,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537731769262</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Fixed Miami (FL).">
+      <created>1537737228183</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1537737228183</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Fixed Miami (FL). Added SOS for top5 and average team.">
+      <created>1537737644376</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1537737644376</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -911,8 +881,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added prototype for cumulative win total probability." />
-    <MESSAGE value="Added subfolders for red-blue and team-color scales." />
     <MESSAGE value="Remainder of pre season data added." />
     <MESSAGE value="Added missing indpendents to fbs graph." />
     <MESSAGE value="Added missing independents to fbs graph." />
@@ -936,7 +904,9 @@
     <MESSAGE value="Fixed additional canceled games." />
     <MESSAGE value="Updated as of 9/23/2018." />
     <MESSAGE value="Fixed Cluster graphs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Cluster graphs." />
+    <MESSAGE value="Fixed Miami (FL)." />
+    <MESSAGE value="Fixed Miami (FL). Added SOS for top5 and average team." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Miami (FL). Added SOS for top5 and average team." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1082,13 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/defs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1097,18 +1060,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fart.csv" />
-    <entry file="file://$PROJECT_DIR$/cluster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8551">
-          <caret line="509" column="29" selection-start-line="509" selection-start-column="25" selection-end-line="509" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1537205721463" expanded="true" signature="454:902" ph="..." />
-            <marker date="1537205721463" expanded="true" signature="956:965" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -11910,21 +11861,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1537733747774" expanded="true" signature="154:278" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="29913" column="41" selection-start-line="29913" selection-start-column="41" selection-end-line="29913" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="63" column="51" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1537737452968" expanded="true" signature="154:278" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1537738813058" expanded="true" signature="475:988" ph="..." />
+            <marker date="1537738813058" expanded="true" signature="1042:1051" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
