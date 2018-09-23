@@ -12,7 +12,7 @@ def load_schedule():
         schedule = json.load(file)
 
 
-def make_cluster_graphs(absolute=False, old=None, scale=None, week=-1):
+def make_cluster_graphs(absolute=False, old=None, scale=None, week=-1, order='winexp'):
     groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
     for cluster in groups:
         current = Cluster(schedule=schedule,
@@ -20,26 +20,26 @@ def make_cluster_graphs(absolute=False, old=None, scale=None, week=-1):
         if not scale:
             for color in ['team', 'red-green', 'red-blue']:
                 current.make_standings_projection_graph(method='sp+', absolute=absolute, old=old, file=cluster,
-                                                        scale=color, week=week)
+                                                        scale=color, week=week, order=order)
         else:
             current.make_standings_projection_graph(method='sp+', absolute=absolute, old=old, file=cluster, scale=scale,
-                                                    week=week)
+                                                    week=week, order=order)
 
 
-def make_conf_graphs(absolute=False, old=None, scale=None, week=-1):
+def make_conf_graphs(absolute=False, old=None, scale=None, week=-1, order='winexp'):
     for conference in PFIVE + GFIVE:
         conf = Conference(name=conference, schedule=schedule)
         if not scale:
             for color in ['team', 'red-green', 'red-blue']:
                 try:
                     conf.make_standings_projection_graph(absolute=absolute, method='sp+', file=conference, old=old,
-                                                         scale=color, week=week)
+                                                         scale=color, week=week, order=order)
                 except KeyError:
                     print('problem with {}'.format(conf))
         else:
             try:
                 conf.make_standings_projection_graph(absolute=absolute, method='sp+', file=conference, old=old,
-                                                     scale=scale, week=week)
+                                                     scale=scale, week=week, order=order)
             except KeyError:
                 print('problem with {}'.format(conf))
 
@@ -57,11 +57,11 @@ def make_team_graphs(old=True, scale=None, week=-1):
 
 
 load_schedule()
-# groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
-# current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
-# current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
-# current.make_schedule_ranking_graph(spplus='top25')
+groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
+current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
+current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
+current.make_schedule_ranking_graph(spplus='top25')
 
-# make_conf_graphs(old=True, week=4)
-# make_cluster_graphs(old=True, week=4)
+make_conf_graphs(old=True, week=4, order='sp+')
+make_cluster_graphs(old=True, week=4, order='sp+')
 make_team_graphs(old=True, week=4)

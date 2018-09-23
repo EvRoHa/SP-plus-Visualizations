@@ -26,16 +26,18 @@ class Cluster:
         else:
             return sum(sp[lower:upper]) / (upper - lower)
 
-    def get_record_array(self, week=None):
+    def get_record_array(self, week=None, order='winexp'):
         # get the records for the final week for each team
         record = []
 
         for t in self.teams:
             record.append([t, t.project_win_totals(week=week)[-1], t.project_win_totals(week=week - 1)[-1]])
 
-        # sort teams by their weighted average number of wins
-        record.sort(key=lambda x: sum([x[1][z] * z for z in range(len(x[1]))]), reverse=True)
-
+        if order == 'winexp':
+            # sort teams by their weighted average number of wins
+            record.sort(key=lambda x: sum([x[1][z] * z for z in range(len(x[1]))]), reverse=True)
+        elif order == 'sp+':
+            record.sort(key=lambda x: x[0].latest_spplus, reverse=True)
         return record
 
     def make_schedule_ranking_graph(self, file=None, week=None, hstep=50, vstep=50, margin=5, logowidth=40,
@@ -91,7 +93,7 @@ class Cluster:
         else:
             offset = 0
         graph.add_text(margin + hstep * (cols + 1) / 2, margin + vstep * 0.5 - offset, size=13, alignment='middle',
-                       text='Strength of Schedule as projected by {} using {}'.format(method.upper(), txt))
+                       text='Strength of Schedule as projected by {} ordered by {}'.format(method.upper(), txt))
 
         foo = []
         for i in range(len(record)):
@@ -231,33 +233,33 @@ class Cluster:
             graph.add_line(x1=margin, y1=margin + vstep * i, x2=margin + hstep * cols,
                            y2=margin + vstep * i)
 
-            # Draw the outline box for the table
-            graph.add_rect(margin, margin + vstep, hstep * cols, vstep * (rows - 1), color=(0, 0, 0), fill='none',
-                           stroke_width=2)
+        # Draw the outline box for the table
+        graph.add_rect(margin, margin + vstep, hstep * cols, vstep * (rows - 1), color=(0, 0, 0), fill='none',
+                       stroke_width=2)
 
-            # Draw the outline box for the win total sub-table
-            graph.add_rect(margin + hstep, margin + vstep, hstep * (cols - 1), vstep * (rows - 1), color=(0, 0, 0),
-                           fill='none', stroke_width=2)
+        # Draw the outline box for the win total sub-table
+        graph.add_rect(margin + hstep, margin + vstep, hstep * (cols - 1), vstep * (rows - 1), color=(0, 0, 0),
+                       fill='none', stroke_width=2)
 
-            # Draw the outline box for the column headers
-            graph.add_rect(margin, margin + vstep, hstep * cols, vstep, color=(0, 0, 0), fill='none', stroke_width=2)
+        # Draw the outline box for the column headers
+        graph.add_rect(margin, margin + vstep, hstep * cols, vstep, color=(0, 0, 0), fill='none', stroke_width=2)
 
-            # Draw the outline box for the win total header label
-            graph.add_rect(margin + hstep, margin, hstep * (cols - 2), 2 * vstep, color=(0, 0, 0), fill='none',
-                           stroke_width=2)
-            graph.write_file()
+        # Draw the outline box for the win total header label
+        graph.add_rect(margin + hstep, margin, hstep * (cols - 2), 2 * vstep, color=(0, 0, 0), fill='none',
+                       stroke_width=2)
+        graph.write_file()
 
     def make_standings_projection_graph(self, file='out', week=None, hstep=50, vstep=50, margin=5, logowidth=40,
-                                        old=None,
-                                        method='sp+', logoheight=40, absolute=False, scale='red-green', record=None):
+                                        old=None, method='sp+', logoheight=40, absolute=False, scale='red-green',
+                                        record=None, order='winexp'):
         if not record:
             # get the records for the final week for each team
-            record = self.get_record_array(week)
+            record = self.get_record_array(week, order)
 
         if not os.path.exists(".\svg output\{} - {}".format(method, scale)):
             os.makedirs(".\svg output\{} - {}".format(method, scale))
         path = os.path.join(".\svg output\{} - {}".format(method, scale),
-                            '{} - {} - {}.svg'.format(file, method, scale))
+                            '{} - {} - {} using {}.svg'.format(file, method, scale, order))
 
         if not old:
             rows, cols = len(record) + 2, max([len(x[1]) for x in record]) + 1
@@ -268,7 +270,7 @@ class Cluster:
 
         # Add the horizontal header label; it is at the very top of the svg and covers all but the first column, with centered text
         graph.add_text(margin + hstep * (cols + 1) / 2, margin + vstep * 0.5 - 4, size=13, alignment='middle',
-                       text='Total Wins as projected by {}'.format(method.upper()))
+                       text='Total Wins as projected by {} ordered by {}'.format(method.upper(), order.upper()))
 
         if not week or week == 0:
             first_week = 0

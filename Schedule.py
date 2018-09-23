@@ -367,7 +367,7 @@ class Schedule(object):
                     foo['startDate'] = game['startDate']
                     foo['startTime'] = game['startTime']
                     foo['winner'] = game['home']['winner']
-                    self.data[away]['schedule'].append(foo)
+                    self.data[home]['schedule'].append(foo)
 
     def update_game(self, game_id, field, new_val):
         c = 0
@@ -483,5 +483,5 @@ class Schedule(object):
 
 
 s = Schedule('schedule.json')
-s.update_from_NCAA()
+s.update_spplus()
 s.save_to_file()

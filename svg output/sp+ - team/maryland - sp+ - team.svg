@@ -474,9 +474,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>45 - 14</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>14 - 35</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+6.6</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>31.9%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-23.0%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='277.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>42 - 13</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='350' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+21.2</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='328.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>5.2%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='338.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-5.4%)</text>
@@ -586,7 +585,7 @@
 <image x='110.0' y='260.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAC90lEQVR42u2YS2gTURSGh6BJjEIXIr4yfdhWE+0rj64UF9bQXUGN4kIoBd0UdOFGkAhdVMRNS1uVVrBRDBWkugi0PhAswUejdGOR6EaFQBDx0YpU7SPX+0+uIeTOZG4yVQRn8cNlzn/+881JZwYqEUKkf1mSCWgCmoAm4P8OmI53ZPQwoKWq+bt7U19H9+jqx3hLivrbIJxFepCNGVrzpfTjYEb3m7VU8/JUHemRnLqa7HAT6j8E4SzSg2zM0JpvApqAaP4w5CFP293k0REXGbDL3JAHbVuVerK3MQuIM66hlu9HBrJQR7ZRQAdVgOrys2PqWxlvqcWQOPOtZ8I5jppaD7KQyXwOI4DQum83fcmLa8pVh/VanOTtuYZF6vPl9PhwDTW1HmQhE9mFZosChu8Eagv+LQ07K8nCmH+Seq0QzrhWqAeZyDYK6H13XnsTuZrq3I6BxyGc9fzIRDZmlAqobCIs85sYcVdx1y6slsnnq54vEM4iPcjO2XzRgKqbuLK5gszd9pERFz8wurtGEQdHvehBb4HNFwW44VPYM6O2iTdnG5ZovfP9paa5Pqus+1PCAy960Ku2eczCzGIAB6O7+E2M+qpxtxH2ahicOLhNFxAeeFlPBBnc5uks5hECbFW9Uwe902HPLK1vpOpK9TeRxOk60rdSe4uowQMvetCLDGRp/DKteoArfkb9L65V8g/Gk3bl5Rpivq5bzdVCnzMIXgaI3hCy8j2YidlgKAR4MnbYxT8YmyrI/Jj/Oa3blgHQhixk5vswGwy5gDsVZVa7b+a692O/jV//q1A9GruZz2IA0MIyupGZ78NsMIAFPmkpFpyG4kfdysf7xo4tXNPQ2nKlBs1GvBhkNwBoR8bvPGTne8GAGpikhYkD09DAKlloULKnMQuI8+sz9UJifQogziKzwGQEsIxKLlJlfxNQKlGlAeJtjo+3npYLUGQWmKT01Iko9P3e/oSIFmPBBH3qrdnXU/GyIkN0nvmfBRPQBDQB/7B+ASTB6jVdESctAAAAAElFTkSuQmCC'/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Ann Arbor</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MI</text>

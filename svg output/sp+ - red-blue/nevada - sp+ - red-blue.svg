@@ -474,9 +474,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>10 - 41</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>37 - 35</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+6.9</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>14.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+8.3%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='277.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>44 - 63</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='350' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-11.0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='328.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>48.8%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='338.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-4.0%)</text>
@@ -586,7 +585,7 @@
 <image x='110.0' y='260.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAACRUlEQVR42u3WS0hUURzH8TsmPS0UTCgpekGJFBLVoufGoBYFuiqJFqkVGinEkEG2qCACUyoIxIlcRC8FFxHag0J6iljgUsoWgUFQBEERPW7fv/yEyzCTzswtgs7ig473nnt+93/O+Y+e7/vev8xzAV1AF9AFdAFdQBfw/wz4bPC119rx0EzBcmxDNepRh0ps9do6H406Hbv9t2SjtLyu9dTiLY29+AA/iW/e5qqzo/jwp0SQg2U4g7f4hB4cRRlKUIh1GFS4H9gddsBp2IgGXFaIJ/iiCe+gCvlx4yZhD16hD19xwK6FEXAedqIeL9CNWqzGOVXsBBYmGb8e/ejEeQzrJb1MAtqybcIR7MJx3MIaXV+Bp2jGnMC4GajABhThKp7jMO7hJhYE50onYDb2K1AMN9CILF0vx33tq7Exq1Sdj/iOxxhAFJfwEjsSzZfpEufrwRF9tmVtw3RMVbV6tP/GTqa92EG0YARNyEs2Rxh7cCX2qbJZOomxQPv4HAg4oqUcqIhejNJu8sZrS+kGtCClqsY7LNLfa/BTYeznFVzXKe7W6bZ9GrEmPaFvkhQD5uqEDqkyHVgbWO73qtY1VbZF95bEPyvsgNZEj+ENHuiQzI27x1pKl06o9cMLqmBBomeGFdAma9fxt302O8l9M7FUvxepp5X97qUzCWj7aztO4hCWTHD5J2Ovetqs8e5PJ2Cuurq9+fwU+6KNqUzwFZZ5wKb2uzmmobmrEF4ailGQ6rje/iH3D6sL6AK6gC6gC+gC+t4vqKf/U52eKuMAAAAASUVORK5CYII='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> U.S. Air Force Academy</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> CO</text>

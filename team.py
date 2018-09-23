@@ -19,6 +19,11 @@ class Team:
             self.conference = self.schedule[self.name]['conference']
             self.logo_URI = self.schedule[self.name]['logoURI']
             self.spplus = self.schedule[self.name]['sp+']
+            best_match = max(
+                datetime.strptime(dt, '%Y-%m-%d') for dt in self.spplus.keys() if
+                datetime.strptime(dt, '%Y-%m-%d') <= datetime.now()).strftime('%Y-%m-%d')
+
+            self.latest_spplus = self.schedule[self.name]['sp+'][best_match]
 
             # Create an array of individual game win probabilities
             # Each vector corresponds to an entry in the S&P+ values list, indicating chronological change

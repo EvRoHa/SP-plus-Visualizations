@@ -472,9 +472,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>38 - 31</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='177.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>13 - 16</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='250' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+15.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='228.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>46.7%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='238.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-7.5%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>35 - 21</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-17.8</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>98.4%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-0.7%)</text>
@@ -580,7 +579,7 @@
 <image x='110.0' y='210.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAABcklEQVR42mP4//8/Azo+XtrIsM0nhhgcD8SXicQZyHrvrtnCgM1udMwwJB24NyabYaW2HTG4GIj/E4lrkfVen7ts1IEgLAnEFkAcgsdhsVA1MgPhQBhWweNAfWx6KHVgPNCQJiKwCwkOdEPWuy8hr+li73QMfHv5+lhiHLiLyHTVRoIDO4kxE2j39mHhwCCg4gIgXoXDoC1QeWsSHGgD1bMVh7qVIHmg3YGkZJIMHIZVUpBJqnGoSwXJg+wedeCoA0cdOOrAUQeOOnDUgaMOHHXgoHfgJyB+hoRf4nHgazS1n+jhQFpgshwYS0cHRhHtwAdbdoH7rUDMtDs8rZfWjgPa0QWyC2QnyG6CDkTGp2o7mIGGLKahAxcC7WAiqeOO5kBQVIMcOZUGjpsMMhtkB6UOBGEWaBHRgwXPxRdC2PQAo7UKaDYLyPx767dRxYGDZ2xm1IF0dCAoXXIBsS4eB5pD1bAOhAMLSMix1aMOHAgHAgCKPtGvxLYyjQAAAABJRU5ErkJggg=='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 3</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:30 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> East Lansing</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MI</text>

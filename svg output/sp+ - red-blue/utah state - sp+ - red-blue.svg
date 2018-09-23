@@ -474,9 +474,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>60 - 13</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>73 - 0</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-11.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>84.8%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+9.6%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='277.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>42 - 32</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='350' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+3.9</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='328.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>44.4%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='338.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-6.1%)</text>
@@ -586,7 +585,7 @@
 <image x='110.0' y='260.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAACS0lEQVR42u2YSyhEURiAL+OZ8krWVlgqiWJDbLw2ZqM8ysLCgmyQzWyUlMhiWIyVsBELWRB5lQ1l45HSsEEeJRrRjMf1n+m/deZ3H2cu1x2Zxbf5zz3/+eaee/7zN5Isy5LC/VNAyutZFmEc2EdGBeeE4Nk8k/i1tZD+lOCdzy9JzXNGJAE+QEbugXiBeSEMLZ1YJljHySlURpLghIrgSKQIsu29VBH0AnGRIFilIqdQFgmCbh3BYbsFY4BzHcFjuwULiNAFcEtieXYK9hMZDzBNYt12Cu4SmRrASWJbdgnmA++cyA2QAqQDD1w8AOTYIdhH3tQkNzZLxrow3oZFXZUi19pEm2dPC7fv5TU5HMFtItHAjTWRsRWMz+iceCMC4JImKpgNvHGTX4FCPLGMErL9ftz6XxNsNrGA8zcF500sMI1vuR7oJWM7GKdcmxHMAB5NCN7hKWc5SsnYnMZ37jUjSA/AFbChwbXGQbJUUKuEhFOKRAUrgFqkGlzijAQTSBH+MCjC+USE3dOOMARDYC5GguUk8aFAYi+ZU2yl4BhJPCCQeITMGRQU7MR7vMNIMBYGc3G7TkniFizMuSp9olK028mcA6CRxJa55xWmaNOrJZiKF75eCXkhgg78PuUfICpouSCr/qs6xXiD61Z4wXWd5/dVbpktwoWQ4LP/LdhIfhfXwhH/A0ROcbBiQI84rORgLl8EfwpSrkQEi1jXBI1qoW5HbaNgEBCUooJRwf8kmAlksd6OCC5inJFol6AD/xo2ujlao4JWC34CnIyR+ecjRP8AAAAASUVORK5CYII='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>10:30 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Provo</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> UT</text>

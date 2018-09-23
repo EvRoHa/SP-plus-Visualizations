@@ -474,9 +474,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>3 - 52</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>14 - 55</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+2.3</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>20.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-16.5%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='277.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>13 - 42</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='350' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+15.0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='328.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>5.7%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='338.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-10.2%)</text>
@@ -586,7 +585,7 @@
 <image x='110.0' y='260.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAC/ElEQVR42mP4//8/w2DGDKMOHHXgqANHHTjqwFEHUseBl5581O3ccbuMaLxoq3lnZycDTrz2RDBBM5btccJnxqVLlxAOnHvkYRJD6sb/RGOz+AoGfMCvYzNBM+xy+/AZMXfuXCQHrtwkziBvZgPG7rUrsRoY1H+MQdHKBaxGUFYGrwMltLTA6hQs7Bki59yEm5Gw4g3QDCewnLCSEvEOBHFgQD+oCEeotTKQA5BDM3TaRWK1kePAFio48MKoAxm0vRMZ3KpXEo3jljxFpMGV74Fiy4F4KRAvBuKFDK4V84AZZjaDdXong7pLOAMrJwdlDrTLnURSjicVh884zyCiooHbgbr+GVg1WqV1geW5BMUYBKTVGQTlNBh82rZiVWuf3wfMqbZgHDr1KFw8at4duDgIK1i4MJjGVDAkrn6Hoj902mncDpTSMwMq+odhqVfjeoyEYhRejtWB+kHZcDX+3bvh4oF9h7EmONPYajQz/s1dvIIHuwMZGRmAZeEiDEtT1v9kkDW2QTFYP6gUrwN5xcQZktZ8hosbRxZidaBReAmK/uS1n+cuXMyK3YEgwCnAB8x9mNGXsOIVg25ACgOvuBheB5onVAMLZFeGoInHkNLWYQZRVVlg8hCFY24RMQYNt3CG+OUvkEOPwSKxCncUI4ekgoUTg0f9Kow0AsKJq94A8XuqZpDYxXcYlGxc8OdibICdl4tB2sCaQcsrAZioaxhssnqBuXk6Q0DPCawWRcy+BoyBnQSxf/d+oCffouiNnHMdmIGcSHMgLkAoDRID2Li4gBlwLUYaXLVFYnA4EAQULNzQzZh76F744HGgumsYFgeGkedATgFhBnFNMwZJbXMGr6Z1OArqGcB05EsQq9gHMVgkNQBLh5doUfyF/ChWd4mmaVUXveA+MCd7oGSSU6dOMZSVlRGHu2fplq25WgfE9UDcAMWNUNwExc1Q3ALFrUDcBsXtUNwBxZ1gvOpSTdnsHcFltU08IHtAbhrt1Y06cNSBow4cdeAgdyAAovxT05cIqAMAAAAASUVORK5CYII='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Piscataway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NJ</text>

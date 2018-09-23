@@ -474,9 +474,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>7 - 62</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>56 - 0</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+2.9</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>2.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-5.0%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='277.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>21 - 51</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='350' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+2.5</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='328.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>4.9%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='338.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-3.1%)</text>
@@ -586,7 +585,7 @@
 <image x='110.0' y='260.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAADA0lEQVR42mP4//8/w2DGDEPagYcPH2aYO3cuKl66TnXuusPBFOFFKyUuXbpEuQOTkpIYUACPlL2BVfDb2QnO/8nF0+Nd/ssYBt4pqevUunHjBgMMP3/+nEIH8kiZGlkHv71davb/S60hRfh0geV/RZPgRwwcgmow40F2ke9AfgVXE5uQ908rTCh2HAyDPKphEfIC6HFLyhzII2VlZhvy8X6ZKdUcB8M3Ssz/61sFv2HgljAhz4EFDe6WdsGfXlQaU91xMAyKFXNgAIDsIt2BdfNmHMixppnjYBhkB8gushx4NM+K5g4E2UFTB65MccCL31UbDawDGdRDLjEIqiVhxSr+xx6Wmw6wA5W9tzLgAvIui0YdSKkDS4O9/teHe+LEaf6+A+hAdgFVBi5xawLYLCmjQIGWmeQ8MENEEI2h1RsyIK8mIdKBCxKdSMJ+bkG/GUR10+jmQFLxmyrj/0Hugb8ZhNRCKXbg3mwbmtQeH2qMQI78BQzJJPIdmFdjC2qgPi43oYkjQSHp7x70CxiSgeQ3t7hEjUCOvEOFhio2/B5YDQLT5K+kkq4I8huswKa+sXXQW2o2WJHxkVxyWzPITX4uMSNjYKv6bpnZIGrNoHea+BWc9K1D3xcGef8nBb+qMqaTA0GAjU8SWPLrEI2VvDfRri7Or7MFFgPpBLGAsueANRY6otwJNkhHm1vD34GakfcYZGz6sGKNsGsD7sDLRRZ48ceaAe40DWS3c/qWDDuaOxBkB8gu0h2YU66jYBz84FqxOc0cd7HQ4r+sUdBdkF3k1STsAvKyxsH3TuVbUt1x+3Ns/kvoB15nYOORpmz4jVNYQ9og4PYlYIKnluMOA1swwjp+F0ABQPn4ILgO5pGRNAi8CWoaUeq4dWn2//m1/E8wsHAKMjAyMjKwcPBS7kBIF1IFFCWktmaQcW6gz39ude8DQMeJgM3kldFikLEtTUrL5ifZgaBxY+RxZDC+fY/vxv3n6hThW3c4Fi9ezFBWVsZQVtMkXNY0SW/16jWM2NwAALw14DGJUQ0EAAAAAElFTkSuQmCC'/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>4:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> East Hartford</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> CT</text>

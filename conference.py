@@ -18,7 +18,7 @@ class Conference:
         if len(self.divisions) == 0:
             self.divisions['all'] = self.teams
 
-    def get_record_array(self, week=-1):
+    def get_record_array(self, week=-1, order='winexp'):
         # get the records for the final week for each team
         record = []
 
@@ -26,9 +26,16 @@ class Conference:
             record.append([t, t.project_win_totals(week=week)[-1], t.project_win_totals(week=week - 1)[-1]])
 
         # sort teams by their weighted average number of wins and division
-        record.sort(key=lambda x: (x[0].division, sum([x[1][z] * z for z in range(len(x[1]))])), reverse=True)
+        if order == 'winexp':
+            record.sort(key=lambda x: (x[0].division, sum([x[1][z] * z for z in range(len(x[1]))])), reverse=True)
+        elif order == 'sp+':
+            record.sort(key=lambda x: (x[0].division, x[0].latest_spplus), reverse=True)
         new = [x[0].name for x in record]
-        last = sorted(record, key=lambda x: (x[0].division, sum([x[2][z] * z for z in range(len(x[2]))])), reverse=True)
+        if order == 'winexp':
+            last = sorted(record, key=lambda x: (x[0].division, sum([x[2][z] * z for z in range(len(x[2]))])), reverse=True)
+        elif order == 'sp+':
+            last = sorted(record, key=lambda x: (x[0].division, sum([x[2][z] * z for z in range(len(x[2]))])),
+                          reverse=True)
         # find the team's last divisional rank
         last = [x[0].name for x in last]
         div_size = len(list(self.divisions.items())[0][1])
@@ -42,15 +49,15 @@ class Conference:
 
     def make_standings_projection_graph(self, file='out', week=None, hstep=50, vstep=50, margin=5, logowidth=40,
                                         method='sp+', logoheight=40, absolute=False,
-                                        scale='red-green', old=None):
+                                        scale='red-green', old=None, order='winexp'):
 
         # get the records for the final week for each team
-        record = self.get_record_array(week=week)
+        record = self.get_record_array(week=week, order=order)
 
         if not os.path.exists(".\svg output\{} - {}".format(method, scale)):
             os.makedirs(".\svg output\{} - {}".format(method, scale))
         path = os.path.join(".\svg output\{} - {}".format(method, scale),
-                            '{} - {} - {}.svg'.format(file, method, scale))
+                            '{} - {} - {} using {}.svg'.format(file, method, scale, order))
 
         if not old:
             rows, cols = len(record) + 2, max([len(x[1]) for x in record]) + 1
@@ -61,7 +68,7 @@ class Conference:
 
         # Add the horizontal header label; it is at the very top of the svg and covers the win columns, with centered text
         graph.add_text(margin + hstep * (cols / 2), margin + vstep * 0.5 - 4, size=13, alignment='middle',
-                       text='Total Wins as projected by {}'.format(method.upper()))
+                       text='Total Wins as projected by {} ordered by {}'.format(method.upper(), order.upper()))
 
         if not week or week == 0:
             first_week = 0

@@ -473,9 +473,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>28 - 33</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='227.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>19 - 24</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='300' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+21.2</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='278.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>16.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='288.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-5.5%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='277.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>10 - 56</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='350' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+4.3</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='328.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>61.8%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='338.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-18.0%)</text>
@@ -585,7 +584,7 @@
 <image x='110.0' y='260.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAADBElEQVR42mP4//8/w2DGDKMOHHXgqANHHUhHBxZ2Lpia09i+kRBOru7e4BeVbubn58dAEo5MNQbpJcaOlLoZMzEcmF6efOP/JZb/hPCX0xz/Tb1d7jIwc/AxEAuY2XkM3V1ufTrJ+Z8YOyKyQu+S7UAQvrRV5D+nss10BgZGotzHrmg16dxmsf/Emk+xA0F4ap/2fwYR7VSCrhPWSpjQpfuPFLOp4sC/F1n/hybZf2BgF1DEHXR8cgHxDu/+XGD9T3cHgvD7E1z/FSxdjjEwsXJhOI6JlUPWzOXw22Pc/0k1l2oOBOGdS+X+s8pZdKO7j0XGvG3LIoX/5JiJ1YEWobm7XcMc77qGOz9eOkOVJAM72wz+MvAruMNdxyfn1Nxk9JcUM1bOUvkPtPsJyA1qbgn7MRyorq4OMZxL3LCl2ZAkB/4+z/bf0s/lAQMbrxQDK484qBj6dY6NRE/q/wfabQZygoiICANVHQjC9/cK/Jc0dtkjZui8485uQZL1U82Bzw7x4pRbN1cJHFXk6KWaA5sajf6vATqE1BDauEDxf129Ce0d2NBg/F/cMuj2i8O8RDvu1VGe/1KWfrera0zp40AGASUXt3CnF7/OsxGVgbyjHV8z8Mo40c+BXOI6DIKqIS1EFCWdrcAiSEg9koGdX52+DgQXxmatR9ZI4VR7Yp0EqBDvglR7A+BAUHWmbu964fVRzOrs3XGu/1pOLpeBajgHzoEgwCms4Rvj+OYfmrrABPt3DJwi2oiGA4UONPFJXmboZHnE0NX+/JxJmjgNmtGv9R+o5hxIrYi+yxFIk0ozev4UDbiaJdPV/gObWYlgKX2XA2BzXWzPTunVxmnugqnqIHMvgtQq2oSsokpjIb3A5j8sgLjV7BacWi/x/+wmsf+8Gg5LYeJJOXa/Bqw1g+xABhZOQR0X16v6bq43GFi5RAafA8HpUUSXgUvUAFlocDkQCxh14KBxYGrdlGU5tSVHSMH+WfVHrK2tGfBhv6z6A6SaG17UvWp0bGbUgaMOHA4OBAAK5VX5KYu4lwAAAABJRU5ErkJggg=='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Lincoln </text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NE</text>
