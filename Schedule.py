@@ -20,7 +20,8 @@ class Schedule(object):
         with open(file, 'r', encoding='utf8') as infile:
             self.data = json.load(infile)
 
-    def clean_team_name(self, name):
+    @staticmethod
+    def clean_team_name(name, display: bool = False):
         # various data sources uses different aliases for the same team (much to my irritation) or special characters
         # this method will try to enforce some kind of sensible naming standard
 
@@ -108,6 +109,14 @@ class Schedule(object):
         # remove any leading, trailing, or consecutive whitespaces
         result = re.sub(' +', ' ', result).strip()
 
+        if display:
+            if result == 'texas am':
+                result = 'Texas A&M'
+            elif result.split()[0] != 'utah' and (result[0] == 'u' or result[-1] == 'u'):
+                result = result.upper()
+            else:
+                result = result.title()
+
         # TODO: build a structure of aliases so we can reference them
         '''
         # take the dictionary of aliases and attempt to find the best match
@@ -165,7 +174,77 @@ class Schedule(object):
             json.dump(result, file, indent=4, sort_keys=True)
         return result
 
-    def normalize_schedule(self, method='spplus', week=-1):
+    def export_game_results(self, file: str = 'out', fbs=False, conference=None):
+        def find(t, o):
+            try:
+                for i, dict in enumerate(self.data[t]['schedule']):
+                    if dict['opponent'] == o:
+                        return i
+            except KeyError:
+                return -2
+            return -1
+
+        if not file.endswith('.csv'):
+            file += '.csv'
+        with open(file, 'w+', newline='') as outfile:
+            cw = csv.writer(outfile)
+            cw.writerow(['orig_team','dest_team', 'flow'])
+
+            recorded_ids = set()
+
+            for team in self.data:
+                try:
+                    conf = self.data[team]['conference']
+                except KeyError:
+                    continue
+                if conference:
+                    if not conf.lower() == conference.lower():
+                        continue
+                if conf in FBS:
+                    for i in range(len(self.data[team]['schedule'])):
+                        opp = self.data[team]['schedule'][i]['opponent']
+                        if conference:
+                            if not self.data[opp]['conference'].lower() == conference.lower():
+                                continue
+                        if fbs:
+                            try:
+                                if self.data[opp]['conference'] not in FBS:
+                                    continue
+                            except KeyError:
+                                continue
+                        j = find(opp, team)
+                        if j > 0:
+                            pf = sum(self.data[team]['schedule'][i]['scoreBreakdown'])
+                            pa = sum(self.data[opp]['schedule'][j]['scoreBreakdown'])
+                            flow = pf-pa
+                            cw.writerow([Schedule.clean_team_name(team, display=True),
+                                         Schedule.clean_team_name(opp, display=True), flow])
+
+    def export_teams_by_division_and_conference(self, file: str = 'out'):
+        result = []
+        if not file.endswith('.csv'):
+            file += '.csv'
+        for team in self.data:
+            try:
+                conf = self.data[team]['conference']
+            except KeyError:
+                conf = 'independent'
+            if conf in FBS:
+                try:
+                    div = self.data[team]['division']
+                except KeyError:
+                    div = ''
+                color = self.data[team]['color']
+                team = Schedule.clean_team_name(team, display=True)
+                result.append([team, conf.title(), div.title(), color])
+        result.sort(key=lambda x: (x[1], x[2], x[3]))
+        with open(file, 'w+', newline='') as outfile:
+            cw = csv.writer(outfile)
+            cw.writerow(['team', 'conference', 'division'])
+            for row in result:
+                cw.writerow(row)
+
+    def normalize_schedule(self, method: str = 'spplus', week: int = -1):
         # A method to ensure that all games have a total win probability equal to one
 
         # local helper function to locate the opponent within the schedule
@@ -393,7 +472,6 @@ class Schedule(object):
 
         print('Found {} occurrences of game id {} '.format(c, game_id))
 
-
     def update_rankings(self, year=datetime.now().year, week=None) -> None:
         if not week:
             date = max(
@@ -448,7 +526,6 @@ class Schedule(object):
             print('Teams not appearing in the AP poll:')
             pp.pprint(not_in_poll)
 
-
     def update_spplus(self):
         new = Schedule.scrape_spplus()
 
@@ -457,7 +534,6 @@ class Schedule(object):
                 self.data[team['name'].lower()]['sp+'][datetime.now().strftime("%Y-%m-%d")] = team['sp+']
             except KeyError:
                 print(team)
-
 
     def to_csv(self, csv_file):
         with open(csv_file, 'w+', newline='') as outfile:
