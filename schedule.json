@@ -19657,7 +19657,7 @@
                 "winner": "false"
             },
             {
-                "canceled": "false",
+                "canceled": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
@@ -19674,7 +19674,7 @@
                 "id": "2953007",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "north texas",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [0, 7, 0, 0],
                 "startDate": "2018-09-22",
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
@@ -28555,6 +28555,18 @@
             },
             {
                 "canceled": "false",
+                "home-away": "home",
+                "id": "",
+                "location": "Memorial Stadium (Lincoln, NE), Lincoln , NE",
+                "opponent": "bethune cookman",
+                "scoreBreakdown": [],
+                "startDate": "2018-10-27",
+                "startTime": "TBA",
+                "teamRank": "0",
+                "winner": "false"
+            },
+            {
+                "canceled": "false",
                 "home-away": "away",
                 "id": "2953228",
                 "location": "Ohio Stadium, Columbus , OH",
@@ -30295,7 +30307,7 @@
                 "id": "2953007",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "liberty",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [14,7,6,20],
                 "startDate": "2018-09-22",
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
