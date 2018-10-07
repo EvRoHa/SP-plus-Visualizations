@@ -476,9 +476,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>13 - 20</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='327.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>37 - 35</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='400' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+2.7</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='378.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>20.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='388.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+2.8%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='377.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>6 - 49</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='450' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+8.0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='428.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>19.5%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='438.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+5.0%)</text>
@@ -596,7 +595,7 @@
 <image x='110.0' y='360.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAABoklEQVR42mP4//8/Awz/ePlW9O2xi9YDjX+9/SgIcxPDkHLgwwWbYjdxWPwfaPx88yGvoe/AI84Z/69VTaEbBtlHkgNvdcz/T08Asm94OvDzrYf/N/Pa0AyDzKfMgTcf0DRDgMynmgN3qwX8PxtXixNvE3EEq9sh5Y5X3S5FH9o4EGQ4PrBHMxis7pBNEl51J/wLRx34/4hT+v99euEoYtgcCJIHqTtsl0JfB+5U8IYU6I5peB0IkgenS2n3EebAUyFl/x/MXv//ZuscuMZD1olgMRDeJuZMkgO3CTvC9e43ioKbCTIfJAayjyaNBWIdOGCtmVEHjjpw1IGjDhx14KgDRx1IXwfuUvL9f9QtC44vF/bgdSBIHlk9SD8hOzpCkr3KysoYQJhkByI7iJwmP0g/ITvMmQS9GGBg2DlwF7AlDUpX2PAWATtI41TECaeaXdCWOM0cSA9MkQM3c1lRNtwB1D9gaZAYMKCZZFA4cL9BxP8L6a1kY5B+Yhwowcgho8LErTkoM4kLs1hYHZvG5ApWtZZB6UAHZpHgAlbldiCuAgAjVZ1uj6EgCwAAAABJRU5ErkJggg=='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 6</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-06</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Greenville</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NC</text>

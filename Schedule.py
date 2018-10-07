@@ -169,10 +169,68 @@ class Schedule(object):
                         if response.status_code == 404:
                             continue
                         else:
-                            result += [json.loads(response.text)]
-        with open('new schedule.json', 'w+') as file:
+                            try:
+                                result += [json.loads(response.text)]
+                            except json.decoder.JSONDecodeError:
+                                continue
+        with open('{} schedule.json'.format(year), 'w+') as file:
             json.dump(result, file, indent=4, sort_keys=True)
         return result
+
+    @staticmethod
+    def export_game_times_from_raw(file, year=None):
+        with open(file, 'r') as infile:
+            data = json.load(infile)
+        if not year:
+            try:
+                year = [x for x in file.split() if x.isdigit()][0]
+            except KeyError:
+                year = 'null'
+        with open('{} game times.csv'.format(year), 'w+', newline='', encoding='utf8') as outfile:
+            cw = csv.writer(outfile)
+            cw.writerow(
+                ['Home Team', 'Home Team Rank', 'Home Team Conference', 'Away Team', 'Away Team Rank',
+                 'Away Team Conference', 'Conference Game?', 'Date',
+                 'Time', 'Location'])
+            for g in data:
+                try:
+                    home = g['home']['name_raw']
+                except KeyError:
+                    try:
+                        home = g['home']['nameRaw']
+                    except KeyError:
+                        home = g['home']['name']
+                try:
+                    away = g['away']['name_raw']
+                except KeyError:
+                    try:
+                        away = g['away']['nameRaw']
+                    except KeyError:
+                        away = g['away']['name']
+                confs = g['conference'].split()[1:]
+                if confs[0] == 'top-25':
+                    confs = confs[1:]
+                h_conf = confs[0]
+                if len(confs) == 1:
+                    a_conf = confs[0]
+                    conf_game = True
+                else:
+                    a_conf = confs[1]
+                    conf_game = False
+                h_rank = g['home']['teamRank']
+                a_rank = g['away']['teamRank']
+                startTime = g['startTime']
+                if len(startTime.split(':')[0]) == 1:
+                    startTime = '0' + startTime
+                if startTime.endswith('PM ET') and int(startTime.split(':')[0]) < 12:
+                    startTime = str(int(startTime.split(':')[0]) + 12) + startTime[2:]
+                match = re.compile('[a-zA-Z]').search(startTime)
+                startTime = startTime[:match.start()].strip()
+                if len(startTime) > 0:
+                    startTime = datetime.strptime(startTime, '%H:%M').strftime('%H:%M')
+                startDate = g['startDate']
+                location = g['location']
+                cw.writerow([home, h_rank, h_conf, away, a_rank, a_conf, conf_game, startDate, startTime, location])
 
     def export_game_results(self, file: str = 'out', fbs=False, conference=None):
         def find(t, o):
@@ -188,9 +246,7 @@ class Schedule(object):
             file += '.csv'
         with open(file, 'w+', newline='') as outfile:
             cw = csv.writer(outfile)
-            cw.writerow(['orig_team','dest_team', 'flow'])
-
-            recorded_ids = set()
+            cw.writerow(['orig_team', 'dest_team', 'flow'])
 
             for team in self.data:
                 try:
@@ -216,7 +272,7 @@ class Schedule(object):
                         if j > 0:
                             pf = sum(self.data[team]['schedule'][i]['scoreBreakdown'])
                             pa = sum(self.data[opp]['schedule'][j]['scoreBreakdown'])
-                            flow = pf-pa
+                            flow = pf - pa
                             cw.writerow([Schedule.clean_team_name(team, display=True),
                                          Schedule.clean_team_name(opp, display=True), flow])
 
@@ -520,8 +576,12 @@ class Schedule(object):
         if len(ap.ballots['results']) > 0:
             print('Portions of the poll couldn\'t be found:')
             pp.pprint(ap.ballots['results'])
-        if input('Display the full AP results? (Y/N) ')[0].lower() == 'y':
+        response = ''
+        while len(response) == 0:
+            response = input('Display the full AP results? (Y/N) ')
+        if response[0].lower() == 'y':
             pp.pprint(copy)
+
         if input('Display teams not found in the AP Poll? (Y/N) ')[0].lower() == 'y':
             print('Teams not appearing in the AP poll:')
             pp.pprint(not_in_poll)
@@ -531,6 +591,28 @@ class Schedule(object):
 
         for team in new:
             try:
+                if team['name'] == 'Central Florida':
+                    team['name'] = 'UCF'
+                elif team['name'] == 'Miami-FL':
+                    team['name'] = 'Miami'
+                elif team['name'] == 'Texas A&M':
+                    team['name'] = 'Texas AM'
+                elif team['name'] == 'NC State':
+                    team['name'] = 'North Carolina State'
+                elif team['name'] == 'Southern Miss':
+                    team['name'] = 'Southern Mississippi'
+                elif team['name'] == 'Miami-OH':
+                    team['name'] = 'Miami Ohio'
+                elif team['name'] == 'UL-Lafayette':
+                    team['name'] = 'Louisiana'
+                elif team['name'] == 'Massachusetts':
+                    team['name'] = 'UMass'
+                elif team['name'] == 'UL-Monroe':
+                    team['name'] = 'Louisiana Monroe'
+                elif team['name'] == 'UTSA':
+                    team['name'] = 'UT San Antonio'
+                elif team['name'] == 'Connecticut':
+                    team['name'] = 'Uconn'
                 self.data[team['name'].lower()]['sp+'][datetime.now().strftime("%Y-%m-%d")] = team['sp+']
             except KeyError:
                 print(team)
@@ -558,6 +640,6 @@ class Schedule(object):
                     csvwriter.writerow(row)
 
 
-s = Schedule('schedule.json')
+s = Schedule(file='schedule.json')
 s.update_spplus()
 s.save_to_file()
