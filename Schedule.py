@@ -276,6 +276,26 @@ class Schedule(object):
                             cw.writerow([Schedule.clean_team_name(team, display=True),
                                          Schedule.clean_team_name(opp, display=True), flow])
 
+    def export_stadium_names(self, file: str = 'stadiums'):
+        if not file.endswith('.json'):
+            file += '.json'
+
+        result = {}
+
+        for team in self.data:
+            try:
+                conf = self.data[team]['conference']
+            except KeyError:
+                conf = 'independent'
+            if conf in FBS:
+                name = Schedule.clean_team_name(team, display=True)
+                result[name] = []
+                for i in range(len(self.data[team]['schedule'])):
+                    if self.data[team]['schedule'][i]['home-away'] == 'home'and self.data[team]['schedule'][i]['location'] not in result[name]:
+                        result[name].append(self.data[team]['schedule'][i]['location'])
+        with open(file, 'w+') as outfile:
+            json.dump(result, outfile, indent=4, sort_keys=True)
+
     def export_teams_by_division_and_conference(self, file: str = 'out'):
         result = []
         if not file.endswith('.csv'):
@@ -462,7 +482,10 @@ class Schedule(object):
                     foo['home-away'] = 'away'
                     foo['location'] = game['location']
                     foo['opponent'] = game['home']['nameSeo']
-                    foo['scoreBreakdown'] = [int(x) if len(x) > 0 else 0 for x in game[away]['scoreBreakdown']]
+                    try:
+                        foo['scoreBreakdown'] = [int(x) if len(x) > 0 else 0 for x in game[away]['scoreBreakdown']]
+                    except KeyError as e:
+                        print(e)
                     foo['startDate'] = game['startDate']
                     foo['startTime'] = game['startTime']
                     foo['winner'] = game['away']['winner']
@@ -498,7 +521,10 @@ class Schedule(object):
                     foo['home-away'] = 'home'
                     foo['location'] = game['location']
                     foo['opponent'] = game['away']['nameSeo']
-                    foo['scoreBreakdown'] = [int(x) if len(x) > 0 else 0 for x in game[home]['scoreBreakdown']]
+                    try:
+                        foo['scoreBreakdown'] = [int(x) if len(x) > 0 else 0 for x in game[home]['scoreBreakdown']]
+                    except KeyError as e:
+                        print(e)
                     foo['startDate'] = game['startDate']
                     foo['startTime'] = game['startTime']
                     foo['winner'] = game['home']['winner']
@@ -641,5 +667,6 @@ class Schedule(object):
 
 
 s = Schedule(file='schedule.json')
+s.update_from_NCAA()
 s.update_spplus()
 s.save_to_file()

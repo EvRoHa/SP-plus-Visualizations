@@ -203,7 +203,12 @@
                 "id": "2953578",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "san diego state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    2,
+                    7,
+                    0,
+                    8
+                ],
                 "startDate": "2018-10-12",
                 "startTime": "9:00 PM ET",
                 "teamRank": "0",
@@ -303,7 +308,8 @@
             "2018-09-16": -11.0,
             "2018-09-23": -14.0,
             "2018-09-30": -14.3,
-            "2018-10-07": -7.9
+            "2018-10-07": -7.9,
+            "2018-10-14": -7.7
         }
     },
     "akron": {
@@ -438,9 +444,14 @@
                 "id": "2953208",
                 "location": "UB Stadium, Buffalo, NY",
                 "opponent": "buffalo",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    3,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -538,7 +549,8 @@
             "2018-09-16": -10.1,
             "2018-09-23": -13.5,
             "2018-09-30": -12.3,
-            "2018-10-07": -14.5
+            "2018-10-07": -14.5,
+            "2018-10-14": -13.2
         }
     },
     "alabama": {
@@ -2148,11 +2160,16 @@
                 "id": "2953684",
                 "location": "Bryant-Denny Stadium, Tuscaloosa, AL",
                 "opponent": "missouri",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    13,
+                    17,
+                    2,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "1",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -2237,7 +2254,8 @@
             "2018-09-16": 35.7,
             "2018-09-23": 33.4,
             "2018-09-30": 30.3,
-            "2018-10-07": 29.6
+            "2018-10-07": 29.6,
+            "2018-10-14": 27.0
         }
     },
     "alabama am": {
@@ -2691,11 +2709,16 @@
                 "id": "2953394",
                 "location": "Centennial Bank Stadium, Jonesboro, AR",
                 "opponent": "arkansas state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    21,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-09",
                 "startTime": "8:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -2789,7 +2812,8 @@
             "2018-09-16": 13.7,
             "2018-09-23": 16.0,
             "2018-09-30": 15.9,
-            "2018-10-07": 16.8
+            "2018-10-07": 16.8,
+            "2018-10-14": 15.6
         }
     },
     "arizona": {
@@ -2974,7 +2998,12 @@
                 "id": "2953244",
                 "location": "Rice-Eccles Stadium, Salt Lake City, UT",
                 "opponent": "utah",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    3,
+                    7
+                ],
                 "startDate": "2018-10-12",
                 "startTime": "10:00 PM ET",
                 "teamRank": "0",
@@ -3062,7 +3091,8 @@
             "2018-09-16": -3.0,
             "2018-09-23": 5.4,
             "2018-09-30": 1.2,
-            "2018-10-07": -0.8
+            "2018-10-07": -0.8,
+            "2018-10-14": -3.6
         }
     },
     "arizona state": {
@@ -3475,7 +3505,8 @@
             "2018-09-16": 4.2,
             "2018-09-23": 1.6,
             "2018-09-30": 3.9,
-            "2018-10-07": 4.1
+            "2018-10-07": 4.1,
+            "2018-10-14": 3.0
         }
     },
     "arkansas": {
@@ -3627,9 +3658,14 @@
                 "id": "2954451",
                 "location": "War Memorial Stadium (AR), Little Rock, AR",
                 "opponent": "ole miss",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    17,
+                    10,
+                    6,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -3715,7 +3751,8 @@
             "2018-09-16": 1.6,
             "2018-09-23": 1.9,
             "2018-09-30": 0.5,
-            "2018-10-07": -0.4
+            "2018-10-07": -0.4,
+            "2018-10-14": -0.8
         }
     },
     "arkansas pine bluff": {
@@ -3927,7 +3964,12 @@
                 "id": "2953394",
                 "location": "Centennial Bank Stadium, Jonesboro, AR",
                 "opponent": "appalachian state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    6,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-09",
                 "startTime": "8:00 PM ET",
                 "teamRank": "0",
@@ -4027,7 +4069,8 @@
             "2018-09-16": -6.6,
             "2018-09-23": -2.0,
             "2018-09-30": -2.4,
-            "2018-10-07": -3.1
+            "2018-10-07": -3.1,
+            "2018-10-14": -3.5
         }
     },
     "army": {
@@ -4162,11 +4205,16 @@
                 "id": "2953796",
                 "location": "CEFCU Stadium, San Jose, CA",
                 "opponent": "san jose state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    14,
+                    24,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -4262,7 +4310,8 @@
             "2018-09-16": -9.0,
             "2018-09-23": -8.4,
             "2018-09-30": -3.3,
-            "2018-10-07": -3.4
+            "2018-10-07": -3.4,
+            "2018-10-14": -1.5
         }
     },
     "auburn": {
@@ -5872,10 +5921,15 @@
                 "id": "2953905",
                 "location": "Jordan-Hare Stadium, Auburn, AL",
                 "opponent": "tennessee",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    7,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "9",
+                "startTime": "12:00 PM ET",
+                "teamRank": "21",
                 "winner": "false"
             },
             {
@@ -5961,7 +6015,8 @@
             "2018-09-16": 19.5,
             "2018-09-23": 18.5,
             "2018-09-30": 17.4,
-            "2018-10-07": 13.7
+            "2018-10-07": 13.7,
+            "2018-10-14": 11.2
         }
     },
     "austin peay": {
@@ -6187,11 +6242,16 @@
                 "id": "2954110",
                 "location": "Kelly/Shorts Stadium, Mount Pleasant, MI",
                 "opponent": "central michigan",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    17
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -6276,7 +6336,8 @@
             "2018-09-16": -13.3,
             "2018-09-23": -13.1,
             "2018-09-30": -10.3,
-            "2018-10-07": -12.0
+            "2018-10-07": -12.0,
+            "2018-10-14": -11.2
         }
     },
     "baylor": {
@@ -6427,9 +6488,14 @@
                 "id": "2953659",
                 "location": "Darrell K Royal-Texas Memorial Stadium, Austin, TX",
                 "opponent": "texas",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    3,
+                    7,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -6516,7 +6582,8 @@
             "2018-09-16": 1.1,
             "2018-09-23": 7.1,
             "2018-09-30": 3.4,
-            "2018-10-07": 1.2
+            "2018-10-07": 1.2,
+            "2018-10-14": 2.2
         }
     },
     "bethune cookman": {
@@ -7678,11 +7745,16 @@
                 "id": "2953975",
                 "location": "Mackay Stadium, Reno, NV",
                 "opponent": "nevada",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    10,
+                    14,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "10:30 PM ET",
-                "teamRank": "22",
-                "winner": "false"
+                "teamRank": "0",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -7779,7 +7851,8 @@
             "2018-09-16": 17.6,
             "2018-09-23": 15.4,
             "2018-09-30": 13.0,
-            "2018-10-07": 9.3
+            "2018-10-07": 9.3,
+            "2018-10-14": 7.7
         }
     },
     "boston college": {
@@ -8196,11 +8269,16 @@
                 "id": "2954181",
                 "location": "Alumni Stadium, Chestnut Hill, MA",
                 "opponent": "louisville",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    10,
+                    0,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -8285,7 +8363,8 @@
             "2018-09-16": 17.6,
             "2018-09-23": 8.5,
             "2018-09-30": 6.7,
-            "2018-10-07": 5.4
+            "2018-10-07": 5.4,
+            "2018-10-14": 6.1
         }
     },
     "bowling green": {
@@ -8437,7 +8516,12 @@
                 "id": "2954238",
                 "location": "Doyt L. Perry Stadium, Bowling Green, OH",
                 "opponent": "western michigan",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    14,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:00 PM ET",
                 "teamRank": "0",
@@ -8526,7 +8610,8 @@
             "2018-09-16": -26.4,
             "2018-09-23": -25.8,
             "2018-09-30": -25.1,
-            "2018-10-07": -23.4
+            "2018-10-07": -23.4,
+            "2018-10-14": -18.8
         }
     },
     "buffalo": {
@@ -8691,11 +8776,16 @@
                 "id": "2953208",
                 "location": "UB Stadium, Buffalo, NY",
                 "opponent": "akron",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    3,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -8779,7 +8869,8 @@
             "2018-09-16": 2.3,
             "2018-09-23": 5.9,
             "2018-09-30": 0.4,
-            "2018-10-07": 1.8
+            "2018-10-07": 1.8,
+            "2018-10-14": 4.2
         }
     },
     "byu": {
@@ -9214,11 +9305,16 @@
                 "id": "2953275",
                 "location": "LaVell Edwards Stadium, Provo, UT",
                 "opponent": "hawaii",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    14,
+                    7,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "10:15 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -9301,7 +9397,8 @@
             "2018-09-16": 3.9,
             "2018-09-23": 3.6,
             "2018-09-30": -2.0,
-            "2018-10-07": -4.2
+            "2018-10-07": -4.2,
+            "2018-10-14": -1.7
         }
     },
     "california": {
@@ -9571,9 +9668,14 @@
                 "id": "2953575",
                 "location": "California Memorial Stadium, Berkeley, CA",
                 "opponent": "ucla",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    7,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -9671,7 +9773,8 @@
             "2018-09-16": 2.0,
             "2018-09-23": 4.3,
             "2018-09-30": 2.2,
-            "2018-10-07": 4.0
+            "2018-10-07": 4.0,
+            "2018-10-14": 0.5
         }
     },
     "campbell": {
@@ -10036,9 +10139,14 @@
                 "id": "2954110",
                 "location": "Kelly/Shorts Stadium, Mount Pleasant, MI",
                 "opponent": "ball state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    17,
+                    0,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -10125,7 +10233,8 @@
             "2018-09-16": -17.8,
             "2018-09-23": -18.7,
             "2018-09-30": -15.6,
-            "2018-10-07": -15.1
+            "2018-10-07": -15.1,
+            "2018-10-14": -12.2
         }
     },
     "charleston southern": {
@@ -10329,11 +10438,16 @@
                 "id": "2953425",
                 "location": "Jerry Richardson Stadium, Charlotte, NC",
                 "opponent": "western kentucky",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    6,
+                    3,
+                    21,
+                    10
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -10418,7 +10532,8 @@
             "2018-09-16": -22.0,
             "2018-09-23": -21.9,
             "2018-09-30": -20.7,
-            "2018-10-07": -20.6
+            "2018-10-07": -20.6,
+            "2018-10-14": -13.9
         }
     },
     "chattanooga": {
@@ -10781,7 +10896,8 @@
             "2018-09-16": 2.5,
             "2018-09-23": 2.2,
             "2018-09-30": 4.7,
-            "2018-10-07": 7.7
+            "2018-10-07": 7.7,
+            "2018-10-14": 8.5
         }
     },
     "citadel": {
@@ -12547,7 +12663,8 @@
             "2018-09-16": 29.2,
             "2018-09-23": 28.6,
             "2018-09-30": 25.4,
-            "2018-10-07": 26.2
+            "2018-10-07": 26.2,
+            "2018-10-14": 23.7
         }
     },
     "coastal carolina": {
@@ -12677,9 +12794,14 @@
                 "id": "2953594",
                 "location": "Brooks Stadium, Conway, SC",
                 "opponent": "louisiana monroe",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    10,
+                    7,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "6:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -12775,7 +12897,8 @@
             "2018-09-16": -9.8,
             "2018-09-23": -8.3,
             "2018-09-30": -10.1,
-            "2018-10-07": -8.4
+            "2018-10-07": -8.4,
+            "2018-10-14": -9.5
         }
     },
     "colgate": {
@@ -13353,10 +13476,15 @@
                 "id": "2953310",
                 "location": "Los Angeles Memorial Coliseum, Los Angeles, CA",
                 "opponent": "usc",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    13
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "0",
+                "startTime": "10:30 PM ET",
+                "teamRank": "19",
                 "winner": "false"
             },
             {
@@ -13453,7 +13581,8 @@
             "2018-09-16": 7.6,
             "2018-09-23": 6.2,
             "2018-09-30": 6.8,
-            "2018-10-07": 6.5
+            "2018-10-07": 6.5,
+            "2018-10-14": 4.0
         }
     },
     "colorado state": {
@@ -13605,11 +13734,16 @@
                 "id": "2953290",
                 "location": "Sonny Lubick Field at Colorado State Stadium, Fort Collins, CO",
                 "opponent": "new mexico",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    7,
+                    3,
+                    3
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "4:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -13693,7 +13827,8 @@
             "2018-09-16": -14.2,
             "2018-09-23": -14.9,
             "2018-09-30": -14.2,
-            "2018-10-07": -12.9
+            "2018-10-07": -12.9,
+            "2018-10-14": -10.0
         }
     },
     "delaware state": {
@@ -14208,11 +14343,16 @@
                 "id": "2953626",
                 "location": "Bobby Dodd Stadium at Historic Grant Field, Atlanta, GA",
                 "opponent": "georgia tech",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    21,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:20 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -14309,7 +14449,8 @@
             "2018-09-16": 11.3,
             "2018-09-23": 12.4,
             "2018-09-30": 7.6,
-            "2018-10-07": 7.3
+            "2018-10-07": 7.3,
+            "2018-10-14": 8.4
         }
     },
     "duquesne": {
@@ -14548,9 +14689,14 @@
                 "id": "2953671",
                 "location": "Bagwell Field at Dowdy-Ficklen Stadium, Greenville, NC",
                 "opponent": "houston",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    3,
+                    3,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -14636,7 +14782,8 @@
             "2018-09-16": -13.7,
             "2018-09-23": -11.8,
             "2018-09-30": -9.1,
-            "2018-10-07": -12.8
+            "2018-10-07": -12.8,
+            "2018-10-14": -11.7
         }
     },
     "east tennessee state": {
@@ -15016,11 +15163,16 @@
                 "id": "2953102",
                 "location": "Rynearson Stadium, Ypsilanti, MI",
                 "opponent": "toledo",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    21,
+                    7,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -15104,7 +15256,8 @@
             "2018-09-16": -2.0,
             "2018-09-23": -0.9,
             "2018-09-30": -3.9,
-            "2018-10-07": -3.3
+            "2018-10-07": -3.3,
+            "2018-10-14": -0.8
         }
     },
     "eastern washington": {
@@ -15789,11 +15942,16 @@
                 "id": "2953481",
                 "location": "Vanderbilt Stadium, Nashville, TN",
                 "opponent": "vanderbilt",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    13,
+                    7,
+                    17
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "0",
-                "winner": "false"
+                "startTime": "12:00 PM ET",
+                "teamRank": "14",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -15878,7 +16036,8 @@
             "2018-09-16": 11.6,
             "2018-09-23": 14.9,
             "2018-09-30": 14.9,
-            "2018-10-07": 14.7
+            "2018-10-07": 14.7,
+            "2018-10-14": 13.8
         }
     },
     "florida am": {
@@ -16241,7 +16400,8 @@
             "2018-09-16": 0.8,
             "2018-09-23": 0.9,
             "2018-09-30": -1.2,
-            "2018-10-07": 1.5
+            "2018-10-07": 1.5,
+            "2018-10-14": 0.7
         }
     },
     "florida international": {
@@ -16376,11 +16536,16 @@
                 "id": "2953023",
                 "location": "Riccardo Silva Stadium, Miami, FL",
                 "opponent": "middle tennessee",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    10,
+                    0,
+                    11
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -16477,7 +16642,8 @@
             "2018-09-16": -4.4,
             "2018-09-23": -9.7,
             "2018-09-30": -4.7,
-            "2018-10-07": -4.7
+            "2018-10-07": -4.7,
+            "2018-10-14": -5.1
         }
     },
     "florida state": {
@@ -16953,7 +17119,8 @@
             "2018-09-16": -2.9,
             "2018-09-23": 1.1,
             "2018-09-30": 0.1,
-            "2018-10-07": -0.7
+            "2018-10-07": -0.7,
+            "2018-10-14": -1.1
         }
     },
     "fordham": {
@@ -17171,11 +17338,16 @@
                 "id": "2953035",
                 "location": "Bulldog Stadium at Jim Sweeney Field, Fresno, CA",
                 "opponent": "wyoming",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    6,
+                    7,
+                    14,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "10:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -17271,7 +17443,8 @@
             "2018-09-16": 10.1,
             "2018-09-23": 9.1,
             "2018-09-30": 12.0,
-            "2018-10-07": 13.4
+            "2018-10-07": 13.4,
+            "2018-10-14": 14.4
         }
     },
     "furman": {
@@ -19025,10 +19198,15 @@
                 "id": "2953055",
                 "location": "Tiger Stadium, Baton Rouge, LA",
                 "opponent": "lsu",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    9,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "3",
+                "startTime": "3:30 PM ET",
+                "teamRank": "2",
                 "winner": "false"
             },
             {
@@ -19114,7 +19292,8 @@
             "2018-09-16": 30.2,
             "2018-09-23": 27.0,
             "2018-09-30": 24.1,
-            "2018-10-07": 25.2
+            "2018-10-07": 25.2,
+            "2018-10-14": 19.7
         }
     },
     "georgia southern": {
@@ -19249,11 +19428,16 @@
                 "id": "2954401",
                 "location": "Jim Wacker Field at Bobcat Stadium, San Marcos, TX",
                 "opponent": "texas state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    10,
+                    5,
+                    0
+                ],
                 "startDate": "2018-10-11",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -19347,7 +19531,8 @@
             "2018-09-16": -8.7,
             "2018-09-23": -6.0,
             "2018-09-30": -3.8,
-            "2018-10-07": 0.5
+            "2018-10-07": 0.5,
+            "2018-10-14": -1.2
         }
     },
     "georgia state": {
@@ -19585,7 +19770,8 @@
             "2018-09-16": -20.2,
             "2018-09-23": -20.2,
             "2018-09-30": -15.2,
-            "2018-10-07": -15.5
+            "2018-10-07": -15.5,
+            "2018-10-14": -13.9
         }
     },
     "georgia tech": {
@@ -19737,9 +19923,14 @@
                 "id": "2953626",
                 "location": "Bobby Dodd Stadium at Historic Grant Field, Atlanta, GA",
                 "opponent": "duke",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:20 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -19825,7 +20016,8 @@
             "2018-09-16": 7.1,
             "2018-09-23": 0.6,
             "2018-09-30": 2.6,
-            "2018-10-07": 3.5
+            "2018-10-07": 3.5,
+            "2018-10-14": 1.4
         }
     },
     "grambling": {
@@ -20106,9 +20298,14 @@
                 "id": "2953275",
                 "location": "LaVell Edwards Stadium, Provo, UT",
                 "opponent": "byu",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    3,
+                    14,
+                    6
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "10:15 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -20194,7 +20391,8 @@
             "2018-09-16": -10.6,
             "2018-09-23": -8.4,
             "2018-09-30": -8.4,
-            "2018-10-07": -5.3
+            "2018-10-07": -5.3,
+            "2018-10-14": -6.8
         }
     },
     "holy cross": {
@@ -20467,11 +20665,16 @@
                 "id": "2953671",
                 "location": "Bagwell Field at Dowdy-Ficklen Stadium, Greenville, NC",
                 "opponent": "east carolina",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    7,
+                    7,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -20568,7 +20771,8 @@
             "2018-09-16": 8.1,
             "2018-09-23": 8.7,
             "2018-09-30": 8.0,
-            "2018-10-07": 9.8
+            "2018-10-07": 9.8,
+            "2018-10-14": 9.6
         }
     },
     "houston baptist": {
@@ -21007,9 +21211,14 @@
                 "id": "2954282",
                 "location": "Memorial Stadium (Champaign, IL), Champaign, IL",
                 "opponent": "purdue",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -21108,7 +21317,8 @@
             "2018-09-16": -8.9,
             "2018-09-23": -10.4,
             "2018-09-30": -9.1,
-            "2018-10-07": -6.4
+            "2018-10-07": -6.4,
+            "2018-10-14": -8.7
         }
     },
     "illinois state": {
@@ -21417,7 +21627,12 @@
                 "id": "2953979",
                 "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN",
                 "opponent": "iowa",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    7,
+                    6,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "12:00 PM ET",
                 "teamRank": "0",
@@ -21505,7 +21720,8 @@
             "2018-09-16": 15.0,
             "2018-09-23": 8.1,
             "2018-09-30": 5.9,
-            "2018-10-07": 3.8
+            "2018-10-07": 3.8,
+            "2018-10-14": 0.7
         }
     },
     "indiana state": {
@@ -21889,11 +22105,16 @@
                 "id": "2953979",
                 "location": "Memorial Stadium (Bloomington, IN), Bloomington, IN",
                 "opponent": "indiana",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    7,
+                    14,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -21990,7 +22211,8 @@
             "2018-09-16": 11.1,
             "2018-09-23": 10.6,
             "2018-09-30": 10.9,
-            "2018-10-07": 11.3
+            "2018-10-07": 11.3,
+            "2018-10-14": 11.3
         }
     },
     "iowa state": {
@@ -22159,11 +22381,16 @@
                 "id": "2953672",
                 "location": "Jack Trice Stadium, Ames, IA",
                 "opponent": "west virginia",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    13,
+                    7,
+                    0,
+                    10
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -22248,7 +22475,8 @@
             "2018-09-16": 3.5,
             "2018-09-23": 5.7,
             "2018-09-30": 6.0,
-            "2018-10-07": 6.1
+            "2018-10-07": 6.1,
+            "2018-10-14": 6.9
         }
     },
     "jackson state": {
@@ -22637,7 +22865,8 @@
             "2018-09-16": -4.2,
             "2018-09-23": -6.6,
             "2018-09-30": -8.0,
-            "2018-10-07": -9.0
+            "2018-10-07": -9.0,
+            "2018-10-14": -8.8
         }
     },
     "kansas state": {
@@ -22810,11 +23039,16 @@
                 "id": "2953358",
                 "location": "Bill Snyder Family Football Stadium, Manhattan, KS",
                 "opponent": "oklahoma state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    3,
+                    14,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -22899,7 +23133,8 @@
             "2018-09-16": -2.3,
             "2018-09-23": -7.4,
             "2018-09-30": -8.6,
-            "2018-10-07": -6.3
+            "2018-10-07": -6.3,
+            "2018-10-14": -3.9
         }
     },
     "kennesaw state": {
@@ -23116,9 +23351,14 @@
                 "id": "2953263",
                 "location": "Fred C. Yager Stadium, Oxford, OH",
                 "opponent": "miami ohio",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    0,
+                    6
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "2:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -23204,7 +23444,8 @@
             "2018-09-16": -16.7,
             "2018-09-23": -19.7,
             "2018-09-30": -17.5,
-            "2018-10-07": -15.7
+            "2018-10-07": -15.7,
+            "2018-10-14": -15.7
         }
     },
     "kentucky": {
@@ -24035,7 +24276,8 @@
             "2018-09-16": 15.2,
             "2018-09-23": 17.5,
             "2018-09-30": 15.9,
-            "2018-10-07": 12.0
+            "2018-10-07": 12.0,
+            "2018-10-14": 11.2
         }
     },
     "lafayette": {
@@ -24342,7 +24584,12 @@
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "north texas",
-                "scoreBreakdown": [0, 7, 0, 0],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    0
+                ],
                 "startDate": "2018-09-22",
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
@@ -24385,10 +24632,10 @@
             {
                 "canceled": "false",
                 "home-away": "home",
-                "id": "2953157",
+                "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "troy",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [0, 14, 0, 8],
                 "startDate": "2018-10-13",
                 "startTime": "2:00 PM ET",
                 "teamRank": "0",
@@ -24474,7 +24721,8 @@
             "2018-09-16": -8.7,
             "2018-09-23": -12.9,
             "2018-09-30": -11.5,
-            "2018-10-07": -13.1
+            "2018-10-07": -13.1,
+            "2018-10-14": -10.4
         }
     },
     "louisiana": {
@@ -24608,11 +24856,16 @@
                 "id": "2953577",
                 "location": "Cajun Field, Lafayette, LA",
                 "opponent": "new mexico state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    28,
+                    17,
+                    7,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "5:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -24708,7 +24961,8 @@
             "2018-09-16": -6.5,
             "2018-09-23": -8.9,
             "2018-09-30": -13.3,
-            "2018-10-07": -8.7
+            "2018-10-07": -8.7,
+            "2018-10-14": -5.5
         }
     },
     "louisiana monroe": {
@@ -24860,11 +25114,16 @@
                 "id": "2953594",
                 "location": "Brooks Stadium, Conway, SC",
                 "opponent": "coastal carolina",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    10,
+                    7,
+                    14
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "6:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -24948,7 +25207,8 @@
             "2018-09-16": -13.1,
             "2018-09-23": -14.7,
             "2018-09-30": -15.6,
-            "2018-10-07": -17.3
+            "2018-10-07": -17.3,
+            "2018-10-14": -12.2
         }
     },
     "louisiana tech": {
@@ -25083,11 +25343,16 @@
                 "id": "2953264",
                 "location": "Alamodome, San Antonio, TX",
                 "opponent": "ut san antonio",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    10,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -25184,7 +25449,8 @@
             "2018-09-16": -0.4,
             "2018-09-23": -2.7,
             "2018-09-30": -3.0,
-            "2018-10-07": -5.1
+            "2018-10-07": -5.1,
+            "2018-10-14": -0.8
         }
     },
     "louisville": {
@@ -25336,9 +25602,14 @@
                 "id": "2954181",
                 "location": "Alumni Stadium, Chestnut Hill, MA",
                 "opponent": "boston college",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    13,
+                    7,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -25425,7 +25696,8 @@
             "2018-09-16": -2.8,
             "2018-09-23": -5.6,
             "2018-09-30": -5.8,
-            "2018-10-07": -6.3
+            "2018-10-07": -6.3,
+            "2018-10-14": -6.9
         }
     },
     "lsu": {
@@ -26887,11 +27159,16 @@
                 "id": "2953055",
                 "location": "Tiger Stadium, Baton Rouge, LA",
                 "opponent": "georgia",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    13,
+                    3,
+                    17
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "25",
-                "winner": "false"
+                "startTime": "3:30 PM ET",
+                "teamRank": "13",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -26976,7 +27253,8 @@
             "2018-09-16": 15.6,
             "2018-09-23": 16.8,
             "2018-09-30": 15.5,
-            "2018-10-07": 13.6
+            "2018-10-07": 13.6,
+            "2018-10-14": 13.3
         }
     },
     "maine": {
@@ -27213,11 +27491,16 @@
                 "id": "2954074",
                 "location": "Foreman Field at S. B. Ballard Stadium, Norfolk, VA",
                 "opponent": "old dominion",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    14,
+                    7,
+                    21
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -27301,7 +27584,8 @@
             "2018-09-16": 0.7,
             "2018-09-23": -0.8,
             "2018-09-30": 0.9,
-            "2018-10-07": -1.6
+            "2018-10-07": -1.6,
+            "2018-10-14": 1.8
         }
     },
     "maryland": {
@@ -27492,11 +27776,16 @@
                 "id": "2953989",
                 "location": "Capital One Field at Maryland Stadium, College Park, MD",
                 "opponent": "rutgers",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    14,
+                    10,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -27592,7 +27881,8 @@
             "2018-09-16": -3.9,
             "2018-09-23": 2.4,
             "2018-09-30": 3.2,
-            "2018-10-07": -0.4
+            "2018-10-07": -0.4,
+            "2018-10-14": 3.2
         }
     },
     "mcneese": {
@@ -27828,9 +28118,14 @@
                 "id": "2953066",
                 "location": "Liberty Bowl Memorial Stadium, Memphis, TN",
                 "opponent": "ucf",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    17,
+                    13,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -27916,7 +28211,8 @@
             "2018-09-16": 20.4,
             "2018-09-23": 15.9,
             "2018-09-30": 8.3,
-            "2018-10-07": 9.7
+            "2018-10-07": 9.7,
+            "2018-10-14": 9.7
         }
     },
     "mercer": {
@@ -29503,10 +29799,15 @@
                 "id": "2953803",
                 "location": "Scott Stadium, Charlottesville, VA",
                 "opponent": "virginia",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    6,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "8",
+                "startTime": "7:00 PM ET",
+                "teamRank": "16",
                 "winner": "false"
             },
             {
@@ -29591,7 +29892,8 @@
             "2018-09-16": 14.4,
             "2018-09-23": 17.3,
             "2018-09-30": 15.1,
-            "2018-10-07": 14.1
+            "2018-10-07": 14.1,
+            "2018-10-14": 12.7
         }
     },
     "miami ohio": {
@@ -29743,11 +30045,16 @@
                 "id": "2953263",
                 "location": "Fred C. Yager Stadium, Oxford, OH",
                 "opponent": "kent state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    21,
+                    10,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "2:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -29831,7 +30138,8 @@
             "2018-09-16": -6.9,
             "2018-09-23": -7.8,
             "2018-09-30": -6.2,
-            "2018-10-07": -2.8
+            "2018-10-07": -2.8,
+            "2018-10-14": 0.3
         }
     },
     "michigan": {
@@ -31389,11 +31697,16 @@
                 "id": "2953819",
                 "location": "Michigan Stadium, Ann Arbor, MI",
                 "opponent": "wisconsin",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    13,
+                    8,
+                    17
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "14",
-                "winner": "false"
+                "startTime": "7:30 PM ET",
+                "teamRank": "12",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -31477,7 +31790,8 @@
             "2018-09-16": 21.2,
             "2018-09-23": 24.9,
             "2018-09-30": 21.6,
-            "2018-10-07": 22.7
+            "2018-10-07": 22.7,
+            "2018-10-14": 20.4
         }
     },
     "michigan state": {
@@ -32662,11 +32976,16 @@
                 "id": "2954022",
                 "location": "Beaver Stadium, University Park, PA",
                 "opponent": "penn state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "11",
-                "winner": "false"
+                "startTime": "3:30 PM ET",
+                "teamRank": "0",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -32763,7 +33082,8 @@
             "2018-09-16": 16.1,
             "2018-09-23": 17.0,
             "2018-09-30": 13.8,
-            "2018-10-07": 9.6
+            "2018-10-07": 9.6,
+            "2018-10-14": 8.3
         }
     },
     "middle tennessee": {
@@ -32898,7 +33218,12 @@
                 "id": "2953023",
                 "location": "Riccardo Silva Stadium, Miami, FL",
                 "opponent": "florida international",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    14,
+                    7,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
@@ -32998,7 +33323,8 @@
             "2018-09-16": -12.7,
             "2018-09-23": -14.6,
             "2018-09-30": -10.4,
-            "2018-10-07": -6.2
+            "2018-10-07": -6.2,
+            "2018-10-14": -4.3
         }
     },
     "minnesota": {
@@ -33133,9 +33459,14 @@
                 "id": "2954301",
                 "location": "Ohio Stadium, Columbus , OH",
                 "opponent": "ohio state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    7,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -33234,7 +33565,8 @@
             "2018-09-16": 6.6,
             "2018-09-23": 2.0,
             "2018-09-30": 3.3,
-            "2018-10-07": 3.1
+            "2018-10-07": 3.1,
+            "2018-10-14": 3.9
         }
     },
     "mississippi state": {
@@ -34629,7 +34961,8 @@
             "2018-09-16": 28.9,
             "2018-09-23": 21.0,
             "2018-09-30": 14.6,
-            "2018-10-07": 14.4
+            "2018-10-07": 14.4,
+            "2018-10-14": 13.3
         }
     },
     "missouri": {
@@ -34791,9 +35124,14 @@
                 "id": "2953684",
                 "location": "Bryant-Denny Stadium, Tuscaloosa, AL",
                 "opponent": "alabama",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    0,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -34892,7 +35230,8 @@
             "2018-09-16": 12.2,
             "2018-09-23": 12.6,
             "2018-09-30": 11.6,
-            "2018-10-07": 12.5
+            "2018-10-07": 12.5,
+            "2018-10-14": 7.6
         }
     },
     "missouri state": {
@@ -35314,7 +35653,12 @@
                 "id": "2953767",
                 "location": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
                 "opponent": "temple",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    10,
+                    7,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
@@ -35426,7 +35770,8 @@
             "2018-09-16": -1.6,
             "2018-09-23": -2.9,
             "2018-09-30": -1.5,
-            "2018-10-07": -6.1
+            "2018-10-07": -6.1,
+            "2018-10-14": -8.1
         }
     },
     "nebraska": {
@@ -35578,7 +35923,13 @@
                 "id": "2954422",
                 "location": "Ryan Field, Evanston, IL",
                 "opponent": "northwestern",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    6,
+                    7,
+                    11,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "12:00 PM ET",
                 "teamRank": "0",
@@ -35678,7 +36029,8 @@
             "2018-09-16": 6.9,
             "2018-09-23": -0.8,
             "2018-09-30": 0.1,
-            "2018-10-07": -0.9
+            "2018-10-07": -0.9,
+            "2018-10-14": -0.5
         }
     },
     "nevada": {
@@ -35830,7 +36182,12 @@
                 "id": "2953975",
                 "location": "Mackay Stadium, Reno, NV",
                 "opponent": "boise state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    7,
+                    10,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "10:30 PM ET",
                 "teamRank": "0",
@@ -35919,7 +36276,8 @@
             "2018-09-16": -9.0,
             "2018-09-23": -8.4,
             "2018-09-30": -5.9,
-            "2018-10-07": -5.2
+            "2018-10-07": -5.2,
+            "2018-10-14": -4.5
         }
     },
     "new hampshire": {
@@ -36122,7 +36480,12 @@
                 "id": "2953290",
                 "location": "Sonny Lubick Field at Colorado State Stadium, Fort Collins, CO",
                 "opponent": "colorado state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    3,
+                    8,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "4:00 PM ET",
                 "teamRank": "0",
@@ -36222,7 +36585,8 @@
             "2018-09-16": -15.3,
             "2018-09-23": -13.8,
             "2018-09-30": -10.1,
-            "2018-10-07": -2.8
+            "2018-10-07": -2.8,
+            "2018-10-14": -3.5
         }
     },
     "new mexico state": {
@@ -36373,9 +36737,14 @@
                 "id": "2953577",
                 "location": "Cajun Field, Lafayette, LA",
                 "opponent": "louisiana",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    7,
+                    10,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "5:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -36461,7 +36830,8 @@
             "2018-09-16": -23.0,
             "2018-09-23": -21.2,
             "2018-09-30": -19.4,
-            "2018-10-07": -15.2
+            "2018-10-07": -15.2,
+            "2018-10-14": -14.9
         }
     },
     "nicholls state": {
@@ -36751,9 +37121,14 @@
                 "id": "2953711",
                 "location": "Kenan Memorial Stadium, Chapel Hill, NC",
                 "opponent": "virginia tech",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    6,
+                    3,
+                    7,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -36852,7 +37227,8 @@
             "2018-09-16": -6.2,
             "2018-09-23": -2.6,
             "2018-09-30": -5.6,
-            "2018-10-07": -6.3
+            "2018-10-07": -6.3,
+            "2018-10-14": -4.1
         }
     },
     "north carolina at": {
@@ -37455,7 +37831,8 @@
             "2018-09-16": 6.4,
             "2018-09-23": 11.8,
             "2018-09-30": 12.3,
-            "2018-10-07": 12.7
+            "2018-10-07": 12.7,
+            "2018-10-14": 11.8
         }
     },
     "north dakota": {
@@ -37675,11 +38052,16 @@
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "liberty",
-                "scoreBreakdown": [14, 7, 6, 20],
+                "scoreBreakdown": [
+                    14,
+                    7,
+                    6,
+                    20
+                ],
                 "startDate": "2018-09-22",
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -37721,11 +38103,16 @@
                 "id": "2954345",
                 "location": "Apogee Stadium, Denton, TX",
                 "opponent": "southern mississippi",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    10,
+                    6,
+                    14
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "2:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -37810,7 +38197,8 @@
             "2018-09-16": 5.1,
             "2018-09-23": 8.3,
             "2018-09-30": 9.3,
-            "2018-10-07": 5.5
+            "2018-10-07": 5.5,
+            "2018-10-14": 7.2
         }
     },
     "northern arizona": {
@@ -38039,11 +38427,16 @@
                 "id": "2954199",
                 "location": "Brigham Field at Huskie Stadium, DeKalb, IL",
                 "opponent": "ohio",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    6,
+                    0,
+                    15
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -38127,7 +38520,8 @@
             "2018-09-16": -7.4,
             "2018-09-23": -9.8,
             "2018-09-30": -6.6,
-            "2018-10-07": -3.5
+            "2018-10-07": -3.5,
+            "2018-10-14": -2.1
         }
     },
     "northern iowa": {
@@ -38393,11 +38787,17 @@
                 "id": "2954422",
                 "location": "Ryan Field, Evanston, IL",
                 "opponent": "nebraska",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    14,
+                    0,
+                    17,
+                    3
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -38494,7 +38894,8 @@
             "2018-09-16": 1.9,
             "2018-09-23": 3.1,
             "2018-09-30": 2.4,
-            "2018-10-07": 2.9
+            "2018-10-07": 2.9,
+            "2018-10-14": -0.1
         }
     },
     "northwestern state": {
@@ -40175,11 +40576,16 @@
                 "id": "2954149",
                 "location": "Notre Dame Stadium, South Bend, IN",
                 "opponent": "pittsburgh",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    6,
+                    6,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "2:30 PM ET",
-                "teamRank": "12",
-                "winner": "false"
+                "teamRank": "5",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -40262,7 +40668,8 @@
             "2018-09-16": 17.4,
             "2018-09-23": 19.8,
             "2018-09-30": 19.5,
-            "2018-10-07": 18.5
+            "2018-10-07": 18.5,
+            "2018-10-14": 16.3
         }
     },
     "ohio": {
@@ -40397,7 +40804,12 @@
                 "id": "2954199",
                 "location": "Brigham Field at Huskie Stadium, DeKalb, IL",
                 "opponent": "northern illinois",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    14,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
@@ -40497,7 +40909,8 @@
             "2018-09-16": -20.0,
             "2018-09-23": -10.4,
             "2018-09-30": -5.6,
-            "2018-10-07": -5.5
+            "2018-10-07": -5.5,
+            "2018-10-14": -4.8
         }
     },
     "ohio state": {
@@ -42107,11 +42520,16 @@
                 "id": "2954301",
                 "location": "Ohio Stadium, Columbus , OH",
                 "opponent": "minnesota",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    7,
+                    3,
+                    10
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "5",
-                "winner": "false"
+                "startTime": "12:00 PM ET",
+                "teamRank": "3",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -42195,7 +42613,8 @@
             "2018-09-16": 31.7,
             "2018-09-23": 30.4,
             "2018-09-30": 24.7,
-            "2018-10-07": 24.1
+            "2018-10-07": 24.1,
+            "2018-10-14": 20.0
         }
     },
     "oklahoma": {
@@ -43894,7 +44313,8 @@
             "2018-09-16": 23.6,
             "2018-09-23": 22.8,
             "2018-09-30": 22.0,
-            "2018-10-07": 22.1
+            "2018-10-07": 22.1,
+            "2018-10-14": 21.1
         }
     },
     "oklahoma state": {
@@ -44731,9 +45151,14 @@
                 "id": "2953358",
                 "location": "Bill Snyder Family Football Stadium, Manhattan, KS",
                 "opponent": "kansas state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    3,
+                    0,
+                    6
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -44820,7 +45245,8 @@
             "2018-09-16": 25.5,
             "2018-09-23": 17.6,
             "2018-09-30": 16.7,
-            "2018-10-07": 13.4
+            "2018-10-07": 13.4,
+            "2018-10-14": 10.3
         }
     },
     "old dominion": {
@@ -44967,7 +45393,12 @@
                 "id": "2954074",
                 "location": "Foreman Field at S. B. Ballard Stadium, Norfolk, VA",
                 "opponent": "marshall",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    3,
+                    7,
+                    10
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
@@ -45054,7 +45485,8 @@
             "2018-09-16": -13.7,
             "2018-09-23": -11.3,
             "2018-09-30": -9.7,
-            "2018-10-07": -12.1
+            "2018-10-07": -12.1,
+            "2018-10-14": -11.9
         }
     },
     "ole miss": {
@@ -45233,11 +45665,16 @@
                 "id": "2954451",
                 "location": "War Memorial Stadium (AR), Little Rock, AR",
                 "opponent": "arkansas",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    14,
+                    7,
+                    13
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -45322,7 +45759,8 @@
             "2018-09-16": 6.2,
             "2018-09-23": 9.5,
             "2018-09-30": 6.0,
-            "2018-10-07": 8.2
+            "2018-10-07": 8.2,
+            "2018-10-14": 7.5
         }
     },
     "oregon": {
@@ -46644,11 +47082,17 @@
                 "id": "2953201",
                 "location": "Autzen Stadium, Eugene, OR",
                 "opponent": "washington",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    7,
+                    7,
+                    0,
+                    6
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "24",
-                "winner": "false"
+                "startTime": "3:30 PM ET",
+                "teamRank": "17",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -46744,7 +47188,8 @@
             "2018-09-16": 11.3,
             "2018-09-23": 9.6,
             "2018-09-30": 8.6,
-            "2018-10-07": 8.9
+            "2018-10-07": 8.9,
+            "2018-10-14": 8.1
         }
     },
     "oregon state": {
@@ -46985,7 +47430,8 @@
             "2018-09-16": -7.0,
             "2018-09-23": -11.7,
             "2018-09-30": -11.8,
-            "2018-10-07": -12.3
+            "2018-10-07": -12.3,
+            "2018-10-14": -11.3
         }
     },
     "penn state": {
@@ -48575,10 +49021,15 @@
                 "id": "2954022",
                 "location": "Beaver Stadium, University Park, PA",
                 "opponent": "michigan state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    7,
+                    0,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "10",
+                "startTime": "3:30 PM ET",
+                "teamRank": "8",
                 "winner": "false"
             },
             {
@@ -48676,7 +49127,8 @@
             "2018-09-16": 24.2,
             "2018-09-23": 25.0,
             "2018-09-30": 21.2,
-            "2018-10-07": 21.8
+            "2018-10-07": 21.8,
+            "2018-10-14": 17.5
         }
     },
     "pittsburgh": {
@@ -48829,7 +49281,12 @@
                 "id": "2954149",
                 "location": "Notre Dame Stadium, South Bend, IN",
                 "opponent": "notre dame",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    7,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "2:30 PM ET",
                 "teamRank": "0",
@@ -48918,7 +49375,8 @@
             "2018-09-16": 2.6,
             "2018-09-23": -1.0,
             "2018-09-30": -4.1,
-            "2018-10-07": -1.1
+            "2018-10-07": -1.1,
+            "2018-10-14": -2.7
         }
     },
     "portland state": {
@@ -49228,11 +49686,16 @@
                 "id": "2954282",
                 "location": "Memorial Stadium (Champaign, IL), Champaign, IL",
                 "opponent": "illinois",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    15,
+                    7,
+                    10
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -49329,7 +49792,8 @@
             "2018-09-16": 4.3,
             "2018-09-23": 7.9,
             "2018-09-30": 5.2,
-            "2018-10-07": 5.6
+            "2018-10-07": 5.6,
+            "2018-10-14": 7.5
         }
     },
     "rhode island": {
@@ -49549,7 +50013,12 @@
                 "id": "2953949",
                 "location": "Rice Stadium, Houston, TX",
                 "opponent": "uab",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "1:00 PM ET",
                 "teamRank": "0",
@@ -49649,7 +50118,8 @@
             "2018-09-16": -27.9,
             "2018-09-23": -24.7,
             "2018-09-30": -25.0,
-            "2018-10-07": -24.7
+            "2018-10-07": -24.7,
+            "2018-10-14": -22.8
         }
     },
     "richmond": {
@@ -49876,7 +50346,12 @@
                 "id": "2953989",
                 "location": "Capital One Field at Maryland Stadium, College Park, MD",
                 "opponent": "maryland",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "12:00 PM ET",
                 "teamRank": "0",
@@ -49965,7 +50440,8 @@
             "2018-09-16": -14.4,
             "2018-09-23": -16.9,
             "2018-09-30": -13.6,
-            "2018-10-07": -15.5
+            "2018-10-07": -15.5,
+            "2018-10-14": -15.9
         }
     },
     "sacramento state": {
@@ -50281,11 +50757,16 @@
                 "id": "2953578",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "air force",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    7,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-12",
                 "startTime": "9:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -50381,7 +50862,8 @@
             "2018-09-16": 3.2,
             "2018-09-23": 2.4,
             "2018-09-30": 2.1,
-            "2018-10-07": 3.8
+            "2018-10-07": 3.8,
+            "2018-10-14": 4.1
         }
     },
     "san jose state": {
@@ -50521,9 +51003,14 @@
                 "id": "2953796",
                 "location": "CEFCU Stadium, San Jose, CA",
                 "opponent": "army",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    0,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -50621,7 +51108,8 @@
             "2018-09-16": -23.8,
             "2018-09-23": -24.4,
             "2018-09-30": -17.1,
-            "2018-10-07": -17.9
+            "2018-10-07": -17.9,
+            "2018-10-14": -18.1
         }
     },
     "savannah state": {
@@ -50952,7 +51440,8 @@
             "2018-09-16": -16.6,
             "2018-09-23": -14.1,
             "2018-09-30": -8.5,
-            "2018-10-07": -9.3
+            "2018-10-07": -9.3,
+            "2018-10-14": -9.5
         }
     },
     "south alabama": {
@@ -51104,11 +51593,16 @@
                 "id": "2953026",
                 "location": "Ladd-Peebles Stadium, Mobile, AL",
                 "opponent": "alabama state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    21,
+                    10,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "5:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -51190,7 +51684,8 @@
             "2018-09-16": -9.8,
             "2018-09-23": -8.5,
             "2018-09-30": -11.1,
-            "2018-10-07": -13.8
+            "2018-10-07": -13.8,
+            "2018-10-14": -11.3
         }
     },
     "south carolina": {
@@ -51647,9 +52142,14 @@
                 "id": "2953268",
                 "location": "Williams-Brice Stadium, Columbia, SC",
                 "opponent": "texas am",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    16,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "3:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -51736,7 +52236,8 @@
             "2018-09-16": 12.6,
             "2018-09-23": 14.9,
             "2018-09-30": 10.3,
-            "2018-10-07": 6.0
+            "2018-10-07": 6.0,
+            "2018-10-14": 3.4
         }
     },
     "south carolina state": {
@@ -52301,11 +52802,16 @@
                 "id": "2954010",
                 "location": "Skelly Field at H.A. Chapman Stadium, Tulsa , OK",
                 "opponent": "tulsa",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    0,
+                    7,
+                    15
+                ],
                 "startDate": "2018-10-12",
                 "startTime": "7:00 PM ET",
-                "teamRank": "0",
-                "winner": "false"
+                "teamRank": "23",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -52402,7 +52908,8 @@
             "2018-09-16": 9.7,
             "2018-09-23": 7.3,
             "2018-09-30": 8.7,
-            "2018-10-07": 10.0
+            "2018-10-07": 10.0,
+            "2018-10-14": 7.4
         }
     },
     "southeast missouri state": {
@@ -52865,7 +53372,12 @@
                 "id": "2954345",
                 "location": "Apogee Stadium, Denton, TX",
                 "opponent": "north texas",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "2:00 PM ET",
                 "teamRank": "0",
@@ -52964,7 +53476,8 @@
             "2018-09-09": -4.1,
             "2018-09-23": 0.2,
             "2018-09-30": -1.3,
-            "2018-10-07": -1.0
+            "2018-10-07": -1.0,
+            "2018-10-14": -2.1
         }
     },
     "southern utah": {
@@ -54750,7 +55263,8 @@
             "2018-09-16": 12.8,
             "2018-09-23": 14.4,
             "2018-09-30": 9.8,
-            "2018-10-07": 7.6
+            "2018-10-07": 7.6,
+            "2018-10-14": 7.4
         }
     },
     "stephen f austin": {
@@ -55303,7 +55817,8 @@
             "2018-09-16": 2.9,
             "2018-09-23": 6.2,
             "2018-09-30": 4.8,
-            "2018-10-07": 2.5
+            "2018-10-07": 2.5,
+            "2018-10-14": 2.6
         }
     },
     "tcu": {
@@ -56443,10 +56958,15 @@
                 "id": "2953497",
                 "location": "Amon G. Carter Stadium, Fort Worth, TX",
                 "opponent": "texas tech",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-11",
                 "startTime": "7:30 PM ET",
-                "teamRank": "16",
+                "teamRank": "0",
                 "winner": "false"
             },
             {
@@ -56544,7 +57064,8 @@
             "2018-09-16": 14.0,
             "2018-09-23": 11.1,
             "2018-09-30": 9.0,
-            "2018-10-07": 8.5
+            "2018-10-07": 8.5,
+            "2018-10-14": 6.7
         }
     },
     "temple": {
@@ -56696,11 +57217,16 @@
                 "id": "2953767",
                 "location": "Navy-Marine Corps Memorial Stadium, Annapolis, MD",
                 "opponent": "navy",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    10,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -56784,7 +57310,8 @@
             "2018-09-16": -0.7,
             "2018-09-23": 1.8,
             "2018-09-30": 2.7,
-            "2018-10-07": 5.5
+            "2018-10-07": 5.5,
+            "2018-10-14": 6.8
         }
     },
     "tennessee": {
@@ -56919,11 +57446,16 @@
                 "id": "2953905",
                 "location": "Jordan-Hare Stadium, Auburn, AL",
                 "opponent": "auburn",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    10,
+                    14,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -57020,7 +57552,8 @@
             "2018-09-16": 8.9,
             "2018-09-23": 3.3,
             "2018-09-30": 1.7,
-            "2018-10-07": 2.3
+            "2018-10-07": 2.3,
+            "2018-10-14": 0.2
         }
     },
     "tennessee state": {
@@ -57933,11 +58466,16 @@
                 "id": "2953659",
                 "location": "Darrell K Royal-Texas Memorial Stadium, Austin, TX",
                 "opponent": "baylor",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    20,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "23",
-                "winner": "false"
+                "startTime": "3:30 PM ET",
+                "teamRank": "9",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -58022,7 +58560,8 @@
             "2018-09-16": 7.8,
             "2018-09-23": 10.1,
             "2018-09-30": 10.2,
-            "2018-10-07": 8.3
+            "2018-10-07": 8.3,
+            "2018-10-14": 7.1
         }
     },
     "texas am": {
@@ -58609,11 +59148,16 @@
                 "id": "2953268",
                 "location": "Williams-Brice Stadium, Columbia, SC",
                 "opponent": "south carolina",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    10,
+                    3,
+                    10
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "0",
-                "winner": "false"
+                "startTime": "3:30 PM ET",
+                "teamRank": "22",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -58698,7 +59242,8 @@
             "2018-09-16": 16.8,
             "2018-09-23": 14.8,
             "2018-09-30": 13.4,
-            "2018-10-07": 14.0
+            "2018-10-07": 14.0,
+            "2018-10-14": 12.2
         }
     },
     "texas southern": {
@@ -58917,7 +59462,12 @@
                 "id": "2954401",
                 "location": "Jim Wacker Field at Bobcat Stadium, San Marcos, TX",
                 "opponent": "georgia southern",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    7,
+                    6
+                ],
                 "startDate": "2018-10-11",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
@@ -59015,7 +59565,8 @@
             "2018-09-16": -26.0,
             "2018-09-23": -21.0,
             "2018-09-30": -18.5,
-            "2018-10-07": -18.7
+            "2018-10-07": -18.7,
+            "2018-10-14": -11.9
         }
     },
     "texas tech": {
@@ -59246,11 +59797,16 @@
                 "id": "2953497",
                 "location": "Amon G. Carter Stadium, Fort Worth, TX",
                 "opponent": "tcu",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    0,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-11",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -59346,7 +59902,8 @@
             "2018-09-16": 5.4,
             "2018-09-23": 10.2,
             "2018-09-30": 9.1,
-            "2018-10-07": 10.0
+            "2018-10-07": 10.0,
+            "2018-10-14": 7.7
         }
     },
     "toledo": {
@@ -59481,9 +60038,14 @@
                 "id": "2953102",
                 "location": "Rynearson Stadium, Ypsilanti, MI",
                 "opponent": "eastern michigan",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    0,
+                    3,
+                    20
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -59581,7 +60143,8 @@
             "2018-09-16": 6.9,
             "2018-09-23": 5.9,
             "2018-09-30": 0.2,
-            "2018-10-07": -1.8
+            "2018-10-07": -1.8,
+            "2018-10-14": -3.3
         }
     },
     "towson": {
@@ -59810,10 +60373,10 @@
             {
                 "canceled": "false",
                 "home-away": "away",
-                "id": "2953157",
+                "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "liberty",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [7,3,3,3],
                 "startDate": "2018-10-13",
                 "startTime": "2:00 PM ET",
                 "teamRank": "0",
@@ -59901,7 +60464,8 @@
             "2018-09-16": -7.3,
             "2018-09-23": -5.7,
             "2018-09-30": -1.1,
-            "2018-10-07": 0.3
+            "2018-10-07": 0.3,
+            "2018-10-14": 1.1
         }
     },
     "tulane": {
@@ -60143,7 +60707,8 @@
             "2018-09-16": -3.6,
             "2018-09-23": -8.6,
             "2018-09-30": -1.5,
-            "2018-10-07": -3.0
+            "2018-10-07": -3.0,
+            "2018-10-14": -2.9
         }
     },
     "tulsa": {
@@ -60278,7 +60843,12 @@
                 "id": "2954010",
                 "location": "Skelly Field at H.A. Chapman Stadium, Tulsa , OK",
                 "opponent": "south florida",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    3,
+                    14,
+                    0
+                ],
                 "startDate": "2018-10-12",
                 "startTime": "7:00 PM ET",
                 "teamRank": "0",
@@ -60379,7 +60949,8 @@
             "2018-09-16": -8.7,
             "2018-09-23": -8.0,
             "2018-09-30": -5.9,
-            "2018-10-07": -5.5
+            "2018-10-07": -5.5,
+            "2018-10-14": -4.7
         }
     },
     "uab": {
@@ -60514,11 +61085,16 @@
                 "id": "2953949",
                 "location": "Rice Stadium, Houston, TX",
                 "opponent": "rice",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    14,
+                    14,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "1:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -60614,7 +61190,8 @@
             "2018-09-16": -3.7,
             "2018-09-23": -4.9,
             "2018-09-30": 0.6,
-            "2018-10-07": 2.5
+            "2018-10-07": 2.5,
+            "2018-10-14": 4.5
         }
     },
     "uc davis": {
@@ -62265,11 +62842,16 @@
                 "id": "2953066",
                 "location": "Liberty Bowl Memorial Stadium, Memphis, TN",
                 "opponent": "memphis",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    10,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "21",
-                "winner": "false"
+                "startTime": "3:30 PM ET",
+                "teamRank": "10",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -62353,7 +62935,8 @@
             "2018-09-09": 14.9,
             "2018-09-23": 17.1,
             "2018-09-30": 17.9,
-            "2018-10-07": 18.5
+            "2018-10-07": 18.5,
+            "2018-10-14": 16.5
         }
     },
     "ucla": {
@@ -62488,11 +63071,16 @@
                 "id": "2953575",
                 "location": "California Memorial Stadium, Berkeley, CA",
                 "opponent": "california",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    6,
+                    7,
+                    17
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -62589,7 +63177,8 @@
             "2018-09-16": -5.3,
             "2018-09-23": -5.3,
             "2018-09-30": -4.6,
-            "2018-10-07": -3.8
+            "2018-10-07": -3.8,
+            "2018-10-14": -1.6
         }
     },
     "uconn": {
@@ -62830,7 +63419,8 @@
             "2018-09-16": -28.1,
             "2018-09-23": -27.1,
             "2018-09-30": -25.2,
-            "2018-10-07": -26.5
+            "2018-10-07": -26.5,
+            "2018-10-14": -24.6
         }
     },
     "umass": {
@@ -63075,7 +63665,8 @@
             "2018-09-16": -15.7,
             "2018-09-23": -11.1,
             "2018-09-30": -12.0,
-            "2018-10-07": -11.9
+            "2018-10-07": -11.9,
+            "2018-10-14": -10.4
         }
     },
     "unlv": {
@@ -63210,7 +63801,12 @@
                 "id": "2953909",
                 "location": "Merlin Olsen Field at Maverik Stadium, Logan, UT",
                 "opponent": "utah state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    7,
+                    14
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "4:00 PM ET",
                 "teamRank": "0",
@@ -63310,7 +63906,8 @@
             "2018-09-16": -6.6,
             "2018-09-23": -7.7,
             "2018-09-30": -6.0,
-            "2018-10-07": -9.9
+            "2018-10-07": -9.9,
+            "2018-10-14": -10.0
         }
     },
     "usc": {
@@ -64108,11 +64705,16 @@
                 "id": "2953310",
                 "location": "Los Angeles Memorial Coliseum, Los Angeles, CA",
                 "opponent": "colorado",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    21,
+                    7,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "15",
-                "winner": "false"
+                "startTime": "10:30 PM ET",
+                "teamRank": "0",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -64208,7 +64810,8 @@
             "2018-09-16": 9.6,
             "2018-09-23": 10.1,
             "2018-09-30": 10.4,
-            "2018-10-07": 8.4
+            "2018-10-07": 8.4,
+            "2018-10-14": 8.7
         }
     },
     "ut martin": {
@@ -64451,7 +65054,12 @@
                 "id": "2953264",
                 "location": "Alamodome, San Antonio, TX",
                 "opponent": "louisiana tech",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    3,
+                    0
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "7:00 PM ET",
                 "teamRank": "0",
@@ -64537,7 +65145,8 @@
             "2018-09-16": -27.3,
             "2018-09-23": -24.0,
             "2018-09-30": -20.7,
-            "2018-10-07": -18.9
+            "2018-10-07": -18.9,
+            "2018-10-14": -17.5
         }
     },
     "utah": {
@@ -64897,11 +65506,16 @@
                 "id": "2953244",
                 "location": "Rice-Eccles Stadium, Salt Lake City, UT",
                 "opponent": "arizona",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    14,
+                    7,
+                    7
+                ],
                 "startDate": "2018-10-12",
                 "startTime": "10:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -64998,7 +65612,8 @@
             "2018-09-16": 9.7,
             "2018-09-23": 9.7,
             "2018-09-30": 7.4,
-            "2018-10-07": 8.5
+            "2018-10-07": 8.5,
+            "2018-10-14": 10.2
         }
     },
     "utah state": {
@@ -65133,11 +65748,16 @@
                 "id": "2953909",
                 "location": "Merlin Olsen Field at Maverik Stadium, Logan, UT",
                 "opponent": "unlv",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    14,
+                    28,
+                    7,
+                    10
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "4:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -65234,7 +65854,8 @@
             "2018-09-16": 4.0,
             "2018-09-23": 8.1,
             "2018-09-30": 8.3,
-            "2018-10-07": 11.5
+            "2018-10-07": 11.5,
+            "2018-10-14": 11.7
         }
     },
     "utep": {
@@ -65474,7 +66095,8 @@
             "2018-09-16": -34.4,
             "2018-09-23": -29.8,
             "2018-09-30": -26.1,
-            "2018-10-07": -20.0
+            "2018-10-07": -20.0,
+            "2018-10-14": -18.1
         }
     },
     "vanderbilt": {
@@ -65626,9 +66248,14 @@
                 "id": "2953481",
                 "location": "Vanderbilt Stadium, Nashville, TN",
                 "opponent": "florida",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    14,
+                    0,
+                    6
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "12:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -65715,7 +66342,8 @@
             "2018-09-16": 10.3,
             "2018-09-23": 3.5,
             "2018-09-30": 1.1,
-            "2018-10-07": -1.6
+            "2018-10-07": -1.6,
+            "2018-10-14": -2.7
         }
     },
     "villanova": {
@@ -65925,11 +66553,16 @@
                 "id": "2953803",
                 "location": "Scott Stadium, Charlottesville, VA",
                 "opponent": "miami",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    13,
+                    0,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -66025,7 +66658,8 @@
             "2018-09-16": 5.3,
             "2018-09-23": 7.6,
             "2018-09-30": 6.4,
-            "2018-10-07": 6.7
+            "2018-10-07": 6.7,
+            "2018-10-14": 5.5
         }
     },
     "virginia tech": {
@@ -67263,11 +67897,16 @@
                 "id": "2953711",
                 "location": "Kenan Memorial Stadium, Chapel Hill, NC",
                 "opponent": "north carolina",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    7,
+                    8
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "20",
-                "winner": "false"
+                "startTime": "7:00 PM ET",
+                "teamRank": "0",
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -67352,7 +67991,8 @@
             "2018-09-16": 8.6,
             "2018-09-23": 6.0,
             "2018-09-30": 8.8,
-            "2018-10-07": 5.6
+            "2018-10-07": 5.6,
+            "2018-10-14": 3.1
         }
     },
     "vmi": {
@@ -67754,7 +68394,8 @@
             "2018-09-16": 3.9,
             "2018-09-23": -5.3,
             "2018-09-30": -1.0,
-            "2018-10-07": -5.1
+            "2018-10-07": -5.1,
+            "2018-10-14": -4.1
         }
     },
     "washington": {
@@ -69364,10 +70005,16 @@
                 "id": "2953201",
                 "location": "Autzen Stadium, Eugene, OR",
                 "opponent": "oregon",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    10,
+                    7,
+                    7,
+                    0,
+                    3
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "6",
+                "startTime": "3:30 PM ET",
+                "teamRank": "7",
                 "winner": "false"
             },
             {
@@ -69453,7 +70100,8 @@
             "2018-09-16": 24.4,
             "2018-09-23": 24.2,
             "2018-09-30": 22.4,
-            "2018-10-07": 17.8
+            "2018-10-07": 17.8,
+            "2018-10-14": 16.4
         }
     },
     "washington state": {
@@ -69729,7 +70377,8 @@
             "2018-09-16": 12.0,
             "2018-09-23": 8.6,
             "2018-09-30": 8.6,
-            "2018-10-07": 9.1
+            "2018-10-07": 9.1,
+            "2018-10-14": 8.7
         }
     },
     "weber state": {
@@ -71387,10 +72036,15 @@
                 "id": "2953672",
                 "location": "Jack Trice Stadium, Ames, IA",
                 "opponent": "iowa state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    7,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "17",
+                "startTime": "7:00 PM ET",
+                "teamRank": "6",
                 "winner": "false"
             },
             {
@@ -71476,7 +72130,8 @@
             "2018-09-16": 19.5,
             "2018-09-23": 20.4,
             "2018-09-30": 16.0,
-            "2018-10-07": 17.5
+            "2018-10-07": 17.5,
+            "2018-10-14": 10.6
         }
     },
     "western carolina": {
@@ -71752,7 +72407,12 @@
                 "id": "2953425",
                 "location": "Jerry Richardson Stadium, Charlotte, NC",
                 "opponent": "charlotte",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    0,
+                    7
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:30 PM ET",
                 "teamRank": "0",
@@ -71853,7 +72513,8 @@
             "2018-09-16": -12.5,
             "2018-09-23": -10.8,
             "2018-09-30": -9.2,
-            "2018-10-07": -9.8
+            "2018-10-07": -9.8,
+            "2018-10-14": -11.1
         }
     },
     "western michigan": {
@@ -72005,11 +72666,16 @@
                 "id": "2954238",
                 "location": "Doyt L. Perry Stadium, Bowling Green, OH",
                 "opponent": "bowling green",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    21,
+                    14
+                ],
                 "startDate": "2018-10-13",
                 "startTime": "3:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -72092,7 +72758,8 @@
             "2018-09-16": -6.5,
             "2018-09-23": -3.1,
             "2018-09-30": -3.4,
-            "2018-10-07": -2.3
+            "2018-10-07": -2.3,
+            "2018-10-14": -2.6
         }
     },
     "william and mary": {
@@ -73753,10 +74420,15 @@
                 "id": "2953819",
                 "location": "Michigan Stadium, Ann Arbor, MI",
                 "opponent": "michigan",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    7,
+                    0,
+                    6
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
-                "teamRank": "4",
+                "startTime": "7:30 PM ET",
+                "teamRank": "15",
                 "winner": "false"
             },
             {
@@ -73854,7 +74526,8 @@
             "2018-09-16": 19.7,
             "2018-09-23": 19.2,
             "2018-09-30": 16.7,
-            "2018-10-07": 15.3
+            "2018-10-07": 15.3,
+            "2018-10-14": 13.2
         }
     },
     "wofford": {
@@ -74075,9 +74748,14 @@
                 "id": "2953035",
                 "location": "Bulldog Stadium at Jim Sweeney Field, Fresno, CA",
                 "opponent": "fresno state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    0,
+                    0,
+                    0
+                ],
                 "startDate": "2018-10-13",
-                "startTime": "TBA",
+                "startTime": "10:30 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -74163,7 +74841,8 @@
             "2018-09-16": -5.1,
             "2018-09-23": -5.0,
             "2018-09-30": -4.3,
-            "2018-10-07": -4.8
+            "2018-10-07": -4.8,
+            "2018-10-14": -7.4
         }
     },
     "youngstown state": {

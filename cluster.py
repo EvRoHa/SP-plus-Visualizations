@@ -529,3 +529,15 @@ class Cluster:
                     rank += 1
 
         return record
+
+    def write_expected_win_csv(self, file='out'):
+        result = [['Team', 'Week', 'Expected Wins']]
+        for team in self.teams:
+            for w in range(0, 13):
+                rec = team.project_win_totals(w)[-1]
+                row = [team.name.title(),w,Team.expected_wins(rec)]
+                result.append(row)
+        with open("{}.csv".format(file), 'w', newline='') as outfile:
+            writer = csv.writer(outfile)
+            for r in result:
+                writer.writerow(r)

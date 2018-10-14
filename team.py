@@ -94,6 +94,7 @@ class Team:
             for y in self.schedule[x['opponent']]['schedule']:
                 if x['id'] == y['id']:
                     pa = sum(y['scoreBreakdown'])
+
             if datetime.strptime(x['startDate'], '%Y-%m-%d') < datetime.now():
                 if x['canceled'] == 'true':
                     status = 'canceled'
