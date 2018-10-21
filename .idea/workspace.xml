@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 6.">
+    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 7.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" afterDir="false" />
@@ -464,7 +462,6 @@
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/western michigan - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/western michigan - sp+ - team.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/wisconsin - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/wisconsin - sp+ - team.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/wyoming - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/wyoming - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.py" beforeDir="false" afterPath="$PROJECT_DIR$/team.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -476,9 +473,9 @@
     <session id="-2052528850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="87" />
+          <entry key="project.closed" value="89" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="7" />
           <entry key="project.open.time.12" value="5" />
@@ -494,25 +491,25 @@
           <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="8" />
-          <entry key="project.open.time.9" value="8" />
-          <entry key="project.opened" value="89" />
+          <entry key="project.open.time.9" value="9" />
+          <entry key="project.opened" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="1" />
           <entry key="fart" value="41" />
-          <entry key="json" value="1049" />
-          <entry key="py" value="52238" />
+          <entry key="json" value="1050" />
+          <entry key="py" value="52249" />
           <entry key="svg" value="13" />
-          <entry key="txt" value="914" />
+          <entry key="txt" value="915" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1049" />
-          <entry key="PLAIN_TEXT" value="956" />
-          <entry key="Python" value="52238" />
+          <entry key="JSON" value="1050" />
+          <entry key="PLAIN_TEXT" value="957" />
+          <entry key="Python" value="52249" />
           <entry key="SVG" value="13" />
         </counts>
       </usages-collector>
@@ -522,7 +519,7 @@
           <entry key="csv" value="27" />
           <entry key="fart" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="json" value="134" />
+          <entry key="json" value="135" />
           <entry key="png" value="6" />
           <entry key="py" value="161" />
           <entry key="svg" value="17" />
@@ -532,7 +529,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="7" />
-          <entry key="JSON" value="135" />
+          <entry key="JSON" value="136" />
           <entry key="PLAIN_TEXT" value="75" />
           <entry key="Python" value="161" />
           <entry key="SVG" value="17" />
@@ -545,11 +542,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
+            <state relative-caret-position="313">
               <caret line="72" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1539545953476" expanded="true" signature="154:278" ph="..." />
+                <marker date="1540126172800" expanded="true" signature="154:278" ph="..." />
               </folding>
             </state>
           </provider>
@@ -558,7 +555,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cluster.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
+            <state relative-caret-position="9010">
               <caret line="537" column="17" selection-start-line="537" selection-start-column="17" selection-end-line="537" selection-end-column="17" />
             </state>
           </provider>
@@ -567,24 +564,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="528" column="40" selection-start-line="528" selection-start-column="40" selection-end-line="528" selection-end-column="40" />
+            <state relative-caret-position="257">
+              <caret line="660" column="67" selection-start-line="660" selection-start-column="67" selection-end-line="660" selection-end-column="67" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#295#410#0" />
                 <element signature="e#4192#4778#0" />
-                <marker date="1539545650728" expanded="true" signature="6432:8850" ph="..." />
-                <marker date="1539545650728" expanded="true" signature="10869:11666" ph="..." />
+                <marker date="1540139489445" expanded="true" signature="6432:8850" ph="..." />
+                <marker date="1540139489445" expanded="true" signature="10869:11666" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
             </state>
           </provider>
         </entry>
@@ -593,7 +581,7 @@
         <entry file="file://$PROJECT_DIR$/schedule.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="24577" column="32" selection-start-line="24577" selection-start-column="32" selection-end-line="24577" selection-end-column="32" />
+              <caret line="61034" column="13" selection-start-line="61034" selection-start-column="13" selection-end-line="61034" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -629,8 +617,6 @@
       <find>alabama</find>
       <find>nebraska&quot;:</find>
       <find>north texas&quot;:</find>
-      <find>liberty&quot;:</find>
-      <find>north-texas</find>
       <find>north texas</find>
       <find>&quot;id&quot;:</find>
       <find>&quot;id&quot;: &quot;&quot;</find>
@@ -640,6 +626,8 @@
       <find>nul</find>
       <find>new mexico</find>
       <find>troy&quot;:</find>
+      <find>liberty&quot;:</find>
+      <find>north-texas</find>
     </findStrings>
     <replaceStrings>
       <replace>international</replace>
@@ -734,9 +722,9 @@
         <option value="$PROJECT_DIR$/2011 schedule.json" />
         <option value="$PROJECT_DIR$/cluster.py" />
         <option value="$PROJECT_DIR$/stadiums.json" />
-        <option value="$PROJECT_DIR$/schedule.py" />
-        <option value="$PROJECT_DIR$/scratch.py" />
         <option value="$PROJECT_DIR$/team.py" />
+        <option value="$PROJECT_DIR$/scratch.py" />
+        <option value="$PROJECT_DIR$/schedule.py" />
         <option value="$PROJECT_DIR$/schedule.json" />
       </list>
     </option>
@@ -752,6 +740,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -768,7 +757,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -903,13 +891,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531750812156</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Added subfolders for red-blue and team-color scales.">
-      <created>1533325802960</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1533325802960</updated>
     </task>
     <task id="LOCAL-00039" summary="Added subfolders for red-blue and team-color scales.">
       <created>1533325933112</created>
@@ -1247,7 +1228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538931689890</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Updated for week 7.">
+      <created>1539549560550</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1539549560551</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1256,7 +1244,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.30580357" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.30580357" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.43862522" />
@@ -1265,7 +1253,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32569557" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49841017" visible="true" weight="0.23731588" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" sideWeight="0.49841017" visible="true" weight="0.23731588" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32569557" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158983" side_tool="true" weight="0.35188216" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32893288" />
@@ -1325,7 +1313,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added additional team color graphs." />
     <MESSAGE value="Finished implementing FPI graphing." />
     <MESSAGE value="Updated column headers to make FPI and S&amp;P+ clear." />
     <MESSAGE value="Fixed stupid damned ampersand that broke S&amp;P+ graphs." />
@@ -1350,7 +1337,8 @@
     <MESSAGE value="Minor fix to how average SP+ was calculated (restrict to FBS teams only)." />
     <MESSAGE value="Updated for week 5." />
     <MESSAGE value="Updated for week 6." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 6." />
+    <MESSAGE value="Updated for week 7." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 7." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1574,19 +1562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cluster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="9010">
           <caret line="537" column="17" selection-start-line="537" selection-start-column="17" selection-end-line="537" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1539545953476" expanded="true" signature="154:278" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1597,16 +1574,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1540126172800" expanded="true" signature="154:278" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="528" column="40" selection-start-line="528" selection-start-column="40" selection-end-line="528" selection-end-column="40" />
+        <state relative-caret-position="257">
+          <caret line="660" column="67" selection-start-line="660" selection-start-column="67" selection-end-line="660" selection-end-column="67" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <element signature="e#295#410#0" />
             <element signature="e#4192#4778#0" />
-            <marker date="1539545650728" expanded="true" signature="6432:8850" ph="..." />
-            <marker date="1539545650728" expanded="true" signature="10869:11666" ph="..." />
+            <marker date="1540139489445" expanded="true" signature="6432:8850" ph="..." />
+            <marker date="1540139489445" expanded="true" signature="10869:11666" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1614,7 +1602,7 @@
     <entry file="file://$PROJECT_DIR$/schedule.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="24577" column="32" selection-start-line="24577" selection-start-column="32" selection-end-line="24577" selection-end-column="32" />
+          <caret line="61034" column="13" selection-start-line="61034" selection-start-column="13" selection-end-line="61034" selection-end-column="13" />
         </state>
       </provider>
     </entry>
