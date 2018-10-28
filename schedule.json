@@ -36383,7 +36383,7 @@
                 "id": "2954146",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "notre dame",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [0, 0, 14, 8],
                 "startDate": "2018-10-27",
                 "startTime": "8:00 PM ET",
                 "teamRank": "0",
@@ -41396,11 +41396,11 @@
                 "id": "2954146",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "navy",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [13, 14, 10, 7],
                 "startDate": "2018-10-27",
                 "startTime": "8:00 PM ET",
                 "teamRank": "12",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
