@@ -7,11 +7,11 @@
 	style='shape-rendering:crispEdges;'>
 <rect width='100%' height='100%' style='fill:rgb(255,255,255)' />
 <image x='10.0' y='10.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,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'/>
-<text text-anchor='left' alignment-baseline='middle' x='55' y='20.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>SP+: -1.2</text>
-<text text-anchor='left' alignment-baseline='middle' x='55' y='30.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>as of 2018-10-21</text>
-<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-10-14: +0.3</text>
+<text text-anchor='left' alignment-baseline='middle' x='55' y='20.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>SP+: -1.0</text>
+<text text-anchor='left' alignment-baseline='middle' x='55' y='30.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>as of 2018-10-28</text>
+<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-10-21: +0.2</text>
 <text text-anchor='middle' alignment-baseline='middle' x='530.0' y='26.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Total Wins as projected by SP+</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 8 games)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 9 games)</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>When?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Where?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='130.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>OPP</text>
@@ -207,11 +207,11 @@
 <text text-anchor='end' alignment-baseline='middle' x='404.0' y='450' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='405' y='405' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='430.0' y='428.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='438.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-48.4%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='438.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='450' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='455' y='405' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='480.0' y='428.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>100.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='438.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+48.4)%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='438.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='504.0' y='450' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='505' y='405' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='530.0' y='428.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
@@ -226,8 +226,8 @@
 <rect x='705' y='405' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='755' y='405' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='805' y='405' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='428.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>5.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='438.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.5)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='428.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>5.0</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='438.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0)</text>
 <rect x='205' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='478.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='488.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -246,16 +246,16 @@
 <text text-anchor='end' alignment-baseline='middle' x='404.0' y='500' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='405' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='430.0' y='478.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='488.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-27.8%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='488.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='500' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='455' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='478.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>60.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='488.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+10.2)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='504.0' y='500' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
-<rect x='505' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(166.91860384245192,139.42612791545983,31.419972487990947);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='478.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>39.6%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='488.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+17.6)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='554.0' y='500' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>39.6%</text>
+<rect x='455' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='478.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='488.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-60.4%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='504.0' y='500' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
+<rect x='505' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='478.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>100.0%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='488.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+60.4)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='554.0' y='500' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='555' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='580.0' y='478.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='580.0' y='488.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -268,8 +268,8 @@
 <rect x='705' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='755' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='805' y='455' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='478.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>5.4</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='488.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.5)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='478.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>6.0</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='488.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6)</text>
 <rect x='205' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -288,20 +288,20 @@
 <text text-anchor='end' alignment-baseline='middle' x='404.0' y='550' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='405' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='430.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-8.5%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='550' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='455' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(101.16793977866867,84.50498499159383,19.043376899514104);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>21.1%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-13.5%)</text>
+<rect x='455' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-21.1%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='504.0' y='550' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='505' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='528.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>53.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='538.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+11.5)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='554.0' y='550' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>78.9%</text>
-<rect x='555' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(123.57030766227498,103.21755110613557,23.260293207016467);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>25.8%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+10.5)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='604.0' y='550' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>25.8%</text>
+<rect x='505' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(139.29953496193139,116.35608214467211,26.221088934010616);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>35.3%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-17.8%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='554.0' y='550' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
+<rect x='555' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='528.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>64.7%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='538.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+38.9)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='604.0' y='550' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>64.7%</text>
 <rect x='605' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='630.0' y='528.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='630.0' y='538.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -313,8 +313,8 @@
 <rect x='705' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='755' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='805' y='505' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='528.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>6.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='538.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.4)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='528.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>6.6</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='538.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6)</text>
 <rect x='205' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -333,24 +333,24 @@
 <text text-anchor='end' alignment-baseline='middle' x='404.0' y='600' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='405' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='430.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-2.2%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='600' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='455' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(29.449560087563324,24.599044308435246,5.543446604717802);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>5.3%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-9.9%)</text>
+<rect x='455' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-5.3%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='504.0' y='600' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='505' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(161.1264171557412,134.58794844773678,30.32967852343364);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>29.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='588.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-7.2%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='554.0' y='600' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>94.7%</text>
-<rect x='555' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>46.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='588.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+11.4)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='604.0' y='600' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>65.5%</text>
-<rect x='605' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(106.13924029613909,88.65748307089265,19.979151114567358);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>19.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+7.9)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='654.0' y='600' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>19.2%</text>
+<rect x='505' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(46.277530332662565,38.65534886610638,8.711064533207072);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>8.8%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-20.4%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='554.0' y='600' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
+<rect x='555' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(224.01460768671788,187.11808406772906,42.16745556455866);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>42.6%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='588.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-3.6%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='604.0' y='600' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>91.2%</text>
+<rect x='605' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>48.5%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='588.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+29.3)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='654.0' y='600' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>48.5%</text>
 <rect x='655' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='680.0' y='578.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='680.0' y='588.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -361,8 +361,8 @@
 <text text-anchor='end' alignment-baseline='middle' x='754.0' y='600' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>0.0%</text>
 <rect x='755' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
 <rect x='805' y='555' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='578.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>6.8</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='588.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.4)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='578.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>7.4</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='588.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6)</text>
 <rect x='205' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -381,28 +381,28 @@
 <text text-anchor='end' alignment-baseline='middle' x='404.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='405' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='430.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-0.6%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='455' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(8.746688314469633,7.306057297968753,1.6464354474295781);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>1.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-4.2%)</text>
+<rect x='455' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-1.4%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='504.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='505' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(73.66437612973314,61.53142006130651,13.866235506773299);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>11.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-9.3%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='554.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>98.6%</text>
-<rect x='555' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(216.94388702139176,181.21195268845665,40.83649638049727);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>33.5%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='638.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-2.5%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='604.0' y='650' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>87.3%</text>
+<rect x='505' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(12.698501622615398,10.606983708302273,2.390306187786428);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>2.2%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-9.2%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='554.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
+<rect x='555' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(99.69298700209086,83.27296561351119,18.76573872980534);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>17.2%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-16.3%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='604.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>97.8%</text>
 <rect x='605' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>39.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='638.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+10.7)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='654.0' y='650' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>53.8%</text>
-<rect x='655' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(93.01794805753718,77.69734484806047,17.50926081083053);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>14.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+6.0)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='704.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>14.4%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>44.1%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='638.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+4.7)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='654.0' y='650' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>80.6%</text>
+<rect x='655' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(210.62114893951394,175.93060676124105,39.64633391802615);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>36.4%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='638.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+22.1)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='704.0' y='650' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>36.4%</text>
 <rect x='705' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='730.0' y='628.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='730.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -412,8 +412,8 @@
 <text text-anchor='middle' alignment-baseline='middle' x='780.0' y='638.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='804.0' y='650' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>0.0%</text>
 <rect x='805' y='605' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(150,150,150);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='628.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>7.5</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='638.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.4)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='628.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>8.1</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='638.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6)</text>
 <rect x='205' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -432,32 +432,32 @@
 <text text-anchor='end' alignment-baseline='middle' x='404.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='405' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='430.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-0.2%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='430.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='455' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(3.987326018088585,3.330589968050465,0.7505554857578512);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.6%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-2.0%)</text>
+<rect x='455' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-0.6%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='504.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='505' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(39.175399174310726,32.722980486777196,7.374192785752608);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>5.5%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-6.2%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='554.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>99.4%</text>
-<rect x='555' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(146.01213297700866,121.96307578079548,27.48463679567222);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>20.6%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-6.3%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='604.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>93.9%</text>
-<rect x='605' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>36.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+2.9)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='654.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>73.3%</text>
-<rect x='655' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(205.49783506685813,171.65113282055208,38.68194542434976);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>29.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+8.5)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='704.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>37.4%</text>
-<rect x='705' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(59.4928306579798,49.694011490783126,11.198650476796198);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>8.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+3.4)%</text>
-<text text-anchor='end' alignment-baseline='middle' x='754.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>8.4%</text>
+<rect x='505' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(5.1323614348575495,4.2870313161751294,0.9660915642084799);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.8%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-4.7%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='554.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
+<rect x='555' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(48.75232685195662,40.72253184104612,9.176908583897717);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>7.9%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-12.7%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='604.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>99.2%</text>
+<rect x='605' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(169.4758973831122,141.5622201670702,31.901345389762295);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>27.4%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-8.6%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='654.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>91.3%</text>
+<rect x='655' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255.0,213.0,48.0);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>41.2%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='680.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+12.2)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='704.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>63.9%</text>
+<rect x='705' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(140.30929832098528,117.19953153870534,26.411162036891344);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>22.7%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+14.3)%</text>
+<text text-anchor='end' alignment-baseline='middle' x='754.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>22.7%</text>
 <rect x='755' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,0.0,0.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='780.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='780.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -466,8 +466,8 @@
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='678.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='688.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='854.0' y='700' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>8.1</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.4)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>8.8</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6)</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='127.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>14 - 34</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='177.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
@@ -482,21 +482,20 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>52 - 3</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='427.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>31 - 30</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='500' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+0.8</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='478.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>39.6%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='488.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-3.0%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='550' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-5.3</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='528.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>65.1%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='538.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-4.5%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='477.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>37 - 22</text>
+<text text-anchor='end' alignment-baseline='middle' x='202.5' y='550' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-4.9</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='528.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>64.7%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='538.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-0.4%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='600' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-10</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>74.7%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='588.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>75.1%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='588.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.4%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='650' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-10</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>74.7%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='638.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.6%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='700' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-7.3</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>58.4%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='688.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-1.1%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>75.1%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='638.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.4%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='202.5' y='700' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-8.8</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>62.2%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='688.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+3.9%)</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='73.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='87.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Wins</text>
 <text text-anchor='middle' alignment-baseline='middle' x='280.0' y='73.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>1</text>
@@ -610,7 +609,7 @@
 <image x='110.0' y='460.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAACY0lEQVR42mP4//8/w2DGDEPSgc8/vJE4//Cm4UDgV5/eiRF0YOuWBfW8WY7/BwJP3rOqcNSBow4c9A7s37U8Tr7Ufy8Mi+Z7PCZksGi++zNkPfiwbInfFYocuOT4dgbP/gI41qwOn0LIgepVofOQ9eDCCXObGGrWzYgclA4EOW7rxaMMrZvnDz4Hghy388oJhkM3z1PuwEVHt1HVgbCQAzmOKg6ce3gTxQ70nlDIkLmokyFnSTfDilO7GW6+eMhw59UTMN515SRvxeqpqtjw4VsXBGjuQJDjCpf3M7RtWQDHwJBhOHr7EsODN88ZDgJDEVkOGZ+8d5WBpg4EOa5k5SSslrdvXciw++qpgXMgtpDD5sglx7bT34Ea1WHzcIUcKZhmDpQq8n5q2BC7iwD2BWIGZOzQmcnQsnke7R1IJM4CYgZ0bNwYz9C4cc7gdSCyI0/cvTI4HQjCPFkODJOAxdGgdSAIT6aVA0Xy3b8plAU8J4ATgJgBGQvlutLHgUaNcfM2nDvAAKyqiMIrTu5i8J9UyiCY60IfB4IK6pBplQwrgfUurFGAC/ftXMbAn+1E3yiGVXUgR647ewCvA4GtGfqnQeTGAjgkT+4evA4E4dBpVQx7r53G5UABoB4dbBjoQBGCDtwDNNh3UjHZDvSZWMQwbd9afCFIWYMV1GabdXADsOlURLIDvYAtGnyOo5oDQQaBHAkKSWIdSCjkqO5AmCO1ayKJam4R4zhqdZoiXXtyt8CwUnnQfUIOVCgNeISsBx8GFurnRsdmRh046kBaOvDxu5eyx+9ethoI/OzDa0lktwAAi8rcHXiIW6MAAAAASUVORK5CYII='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 8</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-27</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> West Point</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NY</text>

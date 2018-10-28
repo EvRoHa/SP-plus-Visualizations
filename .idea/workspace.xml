@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 7.">
+    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 8.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sp plus visualization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sp plus visualization.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" afterDir="false" />
@@ -473,7 +476,7 @@
     <session id="-2052528850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="89" />
+          <entry key="project.closed" value="90" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="6" />
@@ -486,13 +489,13 @@
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="5" />
-          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="91" />
+          <entry key="project.opened" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -500,16 +503,16 @@
           <entry key="csv" value="1" />
           <entry key="fart" value="41" />
           <entry key="json" value="1050" />
-          <entry key="py" value="52249" />
+          <entry key="py" value="52250" />
           <entry key="svg" value="13" />
-          <entry key="txt" value="915" />
+          <entry key="txt" value="916" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="1050" />
-          <entry key="PLAIN_TEXT" value="957" />
-          <entry key="Python" value="52249" />
+          <entry key="PLAIN_TEXT" value="958" />
+          <entry key="Python" value="52250" />
           <entry key="SVG" value="13" />
         </counts>
       </usages-collector>
@@ -519,8 +522,8 @@
           <entry key="csv" value="27" />
           <entry key="fart" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="json" value="135" />
-          <entry key="png" value="6" />
+          <entry key="json" value="136" />
+          <entry key="png" value="7" />
           <entry key="py" value="161" />
           <entry key="svg" value="17" />
           <entry key="txt" value="47" />
@@ -528,8 +531,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="7" />
-          <entry key="JSON" value="136" />
+          <entry key="Image" value="8" />
+          <entry key="JSON" value="137" />
           <entry key="PLAIN_TEXT" value="75" />
           <entry key="Python" value="161" />
           <entry key="SVG" value="17" />
@@ -539,14 +542,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="322">
+              <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1540126172800" expanded="true" signature="154:278" ph="..." />
+                <marker date="1540734002830" expanded="true" signature="154:278" ph="..." />
               </folding>
             </state>
           </provider>
@@ -564,24 +567,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="660" column="67" selection-start-line="660" selection-start-column="67" selection-end-line="660" selection-end-column="67" />
+            <state relative-caret-position="159">
+              <caret line="670" column="10" selection-start-line="670" selection-start-column="10" selection-end-line="670" selection-end-column="10" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#295#410#0" />
                 <element signature="e#4192#4778#0" />
-                <marker date="1540139489445" expanded="true" signature="6432:8850" ph="..." />
-                <marker date="1540139489445" expanded="true" signature="10869:11666" ph="..." />
+                <marker date="1540743042977" expanded="true" signature="6432:8850" ph="..." />
+                <marker date="1540743042977" expanded="true" signature="10869:11666" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="61034" column="13" selection-start-line="61034" selection-start-column="13" selection-end-line="61034" selection-end-column="13" />
+            <state relative-caret-position="1275">
+              <caret line="38957" column="13" selection-start-line="38957" selection-start-column="13" selection-end-line="38957" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -625,9 +628,9 @@
       <find>null</find>
       <find>nul</find>
       <find>new mexico</find>
-      <find>troy&quot;:</find>
       <find>liberty&quot;:</find>
       <find>north-texas</find>
+      <find>troy&quot;:</find>
     </findStrings>
     <replaceStrings>
       <replace>international</replace>
@@ -735,12 +738,25 @@
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -757,13 +773,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CFB Poll Compiler" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="tasks" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -891,13 +908,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531750812156</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Added subfolders for red-blue and team-color scales.">
-      <created>1533325933112</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1533325933112</updated>
     </task>
     <task id="LOCAL-00040" summary="Remainder of pre season data added.">
       <created>1533581122756</created>
@@ -1235,16 +1245,22 @@
       <option name="project" value="LOCAL" />
       <updated>1539549560551</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Updated for week 8.">
+      <created>1540140970086</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1540140970086</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.30580357" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.30580357" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.43862522" />
@@ -1253,7 +1269,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32569557" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" sideWeight="0.49841017" visible="true" weight="0.23731588" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49841017" visible="true" weight="0.23731588" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32569557" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158983" side_tool="true" weight="0.35188216" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32893288" />
@@ -1313,7 +1329,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Finished implementing FPI graphing." />
     <MESSAGE value="Updated column headers to make FPI and S&amp;P+ clear." />
     <MESSAGE value="Fixed stupid damned ampersand that broke S&amp;P+ graphs." />
     <MESSAGE value="Fixed some faulty win prob values." />
@@ -1338,7 +1353,8 @@
     <MESSAGE value="Updated for week 5." />
     <MESSAGE value="Updated for week 6." />
     <MESSAGE value="Updated for week 7." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 7." />
+    <MESSAGE value="Updated for week 8." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 8." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1384,7 +1400,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fbs schedules.csv" />
     <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/new mexico state - sp+ - red-green.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1447,20 +1462,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/json/decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="356" selection-start-line="356" selection-end-line="356" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/encodings/cp1252.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/json/decoder.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/encodings/cp1252.py" />
     <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/alabama - sp+ - red-green.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1539,13 +1542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/_strptime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6052">
-          <caret line="364" selection-start-line="364" selection-end-line="364" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/_strptime.py" />
     <entry file="file://$PROJECT_DIR$/out.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1560,13 +1557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9010">
-          <caret line="537" column="17" selection-start-line="537" selection-start-column="17" selection-end-line="537" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/team.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -1574,35 +1564,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.py">
+    <entry file="file://$PROJECT_DIR$/cluster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1540126172800" expanded="true" signature="154:278" ph="..." />
-          </folding>
+        <state relative-caret-position="9010">
+          <caret line="537" column="17" selection-start-line="537" selection-start-column="17" selection-end-line="537" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/png output/sp+ - red-green/iowa - sp+ - red-green.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="660" column="67" selection-start-line="660" selection-start-column="67" selection-end-line="660" selection-end-column="67" />
+        <state relative-caret-position="159">
+          <caret line="670" column="10" selection-start-line="670" selection-start-column="10" selection-end-line="670" selection-end-column="10" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <element signature="e#295#410#0" />
             <element signature="e#4192#4778#0" />
-            <marker date="1540139489445" expanded="true" signature="6432:8850" ph="..." />
-            <marker date="1540139489445" expanded="true" signature="10869:11666" ph="..." />
+            <marker date="1540743042977" expanded="true" signature="6432:8850" ph="..." />
+            <marker date="1540743042977" expanded="true" signature="10869:11666" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="61034" column="13" selection-start-line="61034" selection-start-column="13" selection-end-line="61034" selection-end-column="13" />
+        <state relative-caret-position="1275">
+          <caret line="38957" column="13" selection-start-line="38957" selection-start-column="13" selection-end-line="38957" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1540734002830" expanded="true" signature="154:278" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
