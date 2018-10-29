@@ -6769,6 +6769,18 @@
                 "startTime": "6:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
+            },
+            {
+                "canceled": "false",
+                "home-away": "away",
+                "id": "",
+                "location": "Memorial Stadium (Lincoln, NE), Lincoln , NE",
+                "opponent": "nebraska",
+                "scoreBreakdown": [3, 0, 0, 6],
+                "startDate": "2018-10-27",
+                "startTime": "TBA",
+                "teamRank": "0",
+                "winner": "false"
             }
         ],
         "secondaryColor": "#feb65f",
@@ -10001,12 +10013,12 @@
         },
         "schedule": [
             {
-                "canceled": "true",
+                "canceled": "false",
                 "home-away": "away",
                 "id": "2953773",
                 "location": "Brooks Stadium, Conway, SC",
                 "opponent": "coastal carolina",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [14, 7, 0, 0],
                 "startDate": "2018-09-15",
                 "startTime": "7:00 PM ET",
                 "teamRank": "0",
@@ -12977,16 +12989,16 @@
                 "winner": "true"
             },
             {
-                "canceled": "true",
+                "canceled": "false",
                 "home-away": "home",
                 "id": "2953773",
                 "location": "Brooks Stadium, Conway, SC",
                 "opponent": "campbell",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [7, 17, 21, 13],
                 "startDate": "2018-09-15",
                 "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -36661,11 +36673,11 @@
                 "id": "",
                 "location": "Memorial Stadium (Lincoln, NE), Lincoln , NE",
                 "opponent": "bethune cookman",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [28, 10, 0, 7],
                 "startDate": "2018-10-27",
                 "startTime": "TBA",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",

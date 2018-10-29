@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 9.">
+    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 9. Fixed Notre Dame and Navy.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using winexp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/coastal carolina - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/coastal carolina - sp+ - red-blue.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/fbs - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/fbs - sp+ - red-blue using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/nebraska - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/nebraska - sp+ - red-blue.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/pfive - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/pfive - sp+ - red-blue using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using winexp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/coastal carolina - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/coastal carolina - sp+ - red-green.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using winexp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/nebraska - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/nebraska - sp+ - red-green.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using winexp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using sp+.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/big ten - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/big ten - sp+ - team using winexp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/coastal carolina - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/coastal carolina - sp+ - team.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/nebraska - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/nebraska - sp+ - team.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/pfive - sp+ - team using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/pfive - sp+ - team using sp+.svg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +63,16 @@
         <counts>
           <entry key="csv" value="1" />
           <entry key="fart" value="41" />
-          <entry key="json" value="1054" />
+          <entry key="json" value="1161" />
           <entry key="py" value="52250" />
           <entry key="svg" value="13" />
-          <entry key="txt" value="920" />
+          <entry key="txt" value="949" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1054" />
-          <entry key="PLAIN_TEXT" value="962" />
+          <entry key="JSON" value="1161" />
+          <entry key="PLAIN_TEXT" value="991" />
           <entry key="Python" value="52250" />
           <entry key="SVG" value="13" />
         </counts>
@@ -61,7 +84,7 @@
           <entry key="fart" value="1" />
           <entry key="jpg" value="1" />
           <entry key="json" value="136" />
-          <entry key="png" value="7" />
+          <entry key="png" value="9" />
           <entry key="py" value="161" />
           <entry key="svg" value="17" />
           <entry key="txt" value="47" />
@@ -69,7 +92,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="8" />
+          <entry key="Image" value="10" />
           <entry key="JSON" value="137" />
           <entry key="PLAIN_TEXT" value="75" />
           <entry key="Python" value="161" />
@@ -83,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+            <state relative-caret-position="401">
+              <caret line="70" column="27" selection-start-line="67" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <marker date="1540734002830" expanded="true" signature="154:278" ph="..." />
@@ -121,8 +144,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schedule.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="41398" column="35" selection-start-line="41398" selection-start-column="35" selection-end-line="41398" selection-end-column="35" />
+            <state relative-caret-position="85">
+              <caret line="13000" column="31" selection-start-line="13000" selection-start-column="31" selection-end-line="13000" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -139,8 +162,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ET&quot;</find>
-      <find>name_raw</find>
       <find>&quot;name&quot;: &quot;[a-z.]+&quot;</find>
       <find>#</find>
       <find>Home Team,</find>
@@ -169,6 +190,8 @@
       <find>liberty&quot;:</find>
       <find>north-texas</find>
       <find>troy&quot;:</find>
+      <find>navy&quot;:</find>
+      <find>bethune</find>
     </findStrings>
     <replaceStrings>
       <replace>international</replace>
@@ -304,7 +327,7 @@
             <path>
               <item name="sp plus visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="sp plus visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="png output" type="462c0819:PsiDirectoryNode" />
+              <item name="svg output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -445,13 +468,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531750812156</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Remainder of pre season data added.">
-      <created>1533581153237</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1533581153237</updated>
     </task>
     <task id="LOCAL-00042" summary="Remainder of pre season data added.">
       <created>1533581436522</created>
@@ -789,7 +805,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540744007601</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Updated for week 9. Fixed Notre Dame and Navy.">
+      <created>1540744711326</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1540744711326</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -798,18 +821,18 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.30580357" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.6235119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.43862522" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49925596" weight="0.3690888" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.43862522" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" weight="0.36824876" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32569557" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49841017" weight="0.23731588" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49776787" visible="true" weight="0.23240589" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32569557" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158983" side_tool="true" weight="0.35188216" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.23240589" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32893288" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -867,7 +890,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Fixed stupid damned ampersand that broke S&amp;P+ graphs." />
     <MESSAGE value="Fixed some faulty win prob values." />
     <MESSAGE value="Added FPI graphs for conferences." />
     <MESSAGE value="Minor graph fixes." />
@@ -892,7 +914,8 @@
     <MESSAGE value="Updated for week 7." />
     <MESSAGE value="Updated for week 8." />
     <MESSAGE value="Updated for week 9." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 9." />
+    <MESSAGE value="Updated for week 9. Fixed Notre Dame and Navy." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 9. Fixed Notre Dame and Navy." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -938,10 +961,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/new mexico state - sp+ - red-green.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simplified schedule.json" />
     <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/Schedule 8-23-2018" />
     <entry file="file://$PROJECT_DIR$/new_schedule.json" />
     <entry file="file://$PROJECT_DIR$/NCAA Full Schedule Pull.json">
@@ -1126,10 +1145,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/png output/sp+ - red-green/notre dame - sp+ - red-green.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/png output/sp+ - red-green/navy - sp+ - red-green.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+        <state relative-caret-position="401">
+          <caret line="70" column="27" selection-start-line="67" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <marker date="1540734002830" expanded="true" signature="154:278" ph="..." />
@@ -1139,8 +1164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="41398" column="35" selection-start-line="41398" selection-start-column="35" selection-end-line="41398" selection-end-column="35" />
+        <state relative-caret-position="85">
+          <caret line="13000" column="31" selection-start-line="13000" selection-start-column="31" selection-end-line="13000" selection-end-column="31" />
         </state>
       </provider>
     </entry>
