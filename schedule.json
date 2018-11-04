@@ -560,6 +560,18 @@
                 "startTime": "TBA",
                 "teamRank": "0",
                 "winner": "false"
+            },
+            {
+                "canceled": "false",
+                "home-away": "away",
+                "id": "",
+                "location": "Williams-Brice Stadium, Columbia, SC",
+                "opponent": "south carolina",
+                "scoreBreakdown": [],
+                "startDate": "2018-12-01",
+                "startTime": "TBA",
+                "teamRank": "0",
+                "winner": "false"
             }
         ],
         "secondaryColor": "#deb408",
@@ -15217,6 +15229,18 @@
                 "opponent": "cincinnati",
                 "scoreBreakdown": [],
                 "startDate": "2018-11-23",
+                "startTime": "TBA",
+                "teamRank": "0",
+                "winner": "false"
+            },
+            {
+                "canceled": "false",
+                "home-away": "away",
+                "id": "",
+                "location": "Wayne Day Family Field at Carter-Finley Stadium, Raleigh, NC",
+                "opponent": "north carolina state",
+                "scoreBreakdown": [],
+                "startDate": "2018-12-01",
                 "startTime": "TBA",
                 "teamRank": "0",
                 "winner": "false"
@@ -36774,10 +36798,10 @@
             {
                 "canceled": "false",
                 "home-away": "away",
-                "id": "2954146",
+                "id": "",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "notre dame",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [0,0,14,8],
                 "startDate": "2018-10-27",
                 "startTime": "8:00 PM ET",
                 "teamRank": "0",
@@ -39009,6 +39033,18 @@
                 "opponent": "north carolina",
                 "scoreBreakdown": [],
                 "startDate": "2018-11-24",
+                "startTime": "TBA",
+                "teamRank": "0",
+                "winner": "false"
+            },
+            {
+                "canceled": "false",
+                "home-away": "home",
+                "id": "",
+                "location": "Wayne Day Family Field at Carter-Finley Stadium, Raleigh, NC",
+                "opponent": "east carolina",
+                "scoreBreakdown": [],
+                "startDate": "2018-12-01",
                 "startTime": "TBA",
                 "teamRank": "0",
                 "winner": "false"
@@ -41842,10 +41878,10 @@
             {
                 "canceled": "false",
                 "home-away": "home",
-                "id": "2954146",
+                "id": "",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "navy",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [13, 14, 10, 7],
                 "startDate": "2018-10-27",
                 "startTime": "8:00 PM ET",
                 "teamRank": "12",
@@ -53752,6 +53788,18 @@
                 "opponent": "clemson",
                 "scoreBreakdown": [],
                 "startDate": "2018-11-24",
+                "startTime": "TBA",
+                "teamRank": "0",
+                "winner": "false"
+            },
+            {
+                "canceled": "false",
+                "home-away": "home",
+                "id": "",
+                "location": "Williams-Brice Stadium, Columbia, SC",
+                "opponent": "akron",
+                "scoreBreakdown": [],
+                "startDate": "2018-12-01",
                 "startTime": "TBA",
                 "teamRank": "0",
                 "winner": "false"
