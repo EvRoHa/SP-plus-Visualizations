@@ -486,9 +486,8 @@
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>7 - 6</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='527.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>36 - 26</text>
-<text text-anchor='end' alignment-baseline='middle' x='202.5' y='600' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+1.7</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='578.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>50.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='588.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-2.3%)</text>
+<text text-anchor='middle' alignment-baseline='central' x='180.0' y='577.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
+<text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>38 - 15</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='650' style='font-family:Arial;fill:rgb(255,77,77);font-size:8px;weight:bolder'>-0.3</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='628.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>54.9%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='180.0' y='638.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+2.1%)</text>
@@ -622,7 +621,7 @@
 <image x='110.0' y='560.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAACRUlEQVR42u3WS0hUURzH8TsmPS0UTCgpekGJFBLVoufGoBYFuiqJFqkVGinEkEG2qCACUyoIxIlcRC8FFxHag0J6iljgUsoWgUFQBEERPW7fv/yEyzCTzswtgs7ig473nnt+93/O+Y+e7/vev8xzAV1AF9AFdAFdQBfw/wz4bPC119rx0EzBcmxDNepRh0ps9do6H406Hbv9t2SjtLyu9dTiLY29+AA/iW/e5qqzo/jwp0SQg2U4g7f4hB4cRRlKUIh1GFS4H9gddsBp2IgGXFaIJ/iiCe+gCvlx4yZhD16hD19xwK6FEXAedqIeL9CNWqzGOVXsBBYmGb8e/ejEeQzrJb1MAtqybcIR7MJx3MIaXV+Bp2jGnMC4GajABhThKp7jMO7hJhYE50onYDb2K1AMN9CILF0vx33tq7Exq1Sdj/iOxxhAFJfwEjsSzZfpEufrwRF9tmVtw3RMVbV6tP/GTqa92EG0YARNyEs2Rxh7cCX2qbJZOomxQPv4HAg4oqUcqIhejNJu8sZrS+kGtCClqsY7LNLfa/BTYeznFVzXKe7W6bZ9GrEmPaFvkhQD5uqEDqkyHVgbWO73qtY1VbZF95bEPyvsgNZEj+ENHuiQzI27x1pKl06o9cMLqmBBomeGFdAma9fxt302O8l9M7FUvxepp5X97qUzCWj7aztO4hCWTHD5J2Ovetqs8e5PJ2Cuurq9+fwU+6KNqUzwFZZ5wKb2uzmmobmrEF4ailGQ6rje/iH3D6sL6AK6gC6gC+gC+t4vqKf/U52eKuMAAAAASUVORK5CYII='/>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-07</text>
-<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Time TBA</text>
+<text text-anchor='middle' alignment-baseline='middle' x='30.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>8:00 PM ET</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> DeKalb</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> IL</text>

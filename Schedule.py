@@ -460,6 +460,11 @@ class Schedule(object):
                     for i in range(len(self.data[away]['schedule'])):
                         if self.data[away]['schedule'][i]['id'] == game['id']:
                             found = True
+                            try:
+                                if self.data[away]['schedule'][i]['doNotUpdate']:
+                                    continue
+                            except KeyError:
+                                pass
                             for key in ['startDate', 'startTime']:
                                 self.data[away]['schedule'][i][key] = game[key]
                             for key in ['scoreBreakdown', 'teamRank', 'winner']:
@@ -498,6 +503,11 @@ class Schedule(object):
                     for i in range(len(self.data[home]['schedule'])):
                         if self.data[home]['schedule'][i]['id'] == game['id']:
                             found = True
+                            try:
+                                if self.data[home]['schedule'][i]['doNotUpdate']:
+                                    continue
+                            except KeyError:
+                                pass
                             for key in ['startDate', 'startTime']:
                                 self.data[home]['schedule'][i][key] = game[key]
                             for key in ['scoreBreakdown', 'teamRank', 'winner']:
@@ -668,5 +678,4 @@ class Schedule(object):
 
 s = Schedule(file='schedule.json')
 s.update_from_NCAA()
-s.update_spplus()
 s.save_to_file()

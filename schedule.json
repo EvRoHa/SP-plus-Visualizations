@@ -563,6 +563,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
                 "id": "",
                 "location": "Williams-Brice Stadium, Columbia, SC",
@@ -6851,6 +6852,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
                 "id": "",
                 "location": "Memorial Stadium (Lincoln, NE), Lincoln , NE",
@@ -9099,11 +9101,16 @@
                 "id": "2954445",
                 "location": "UB Stadium, Buffalo, NY",
                 "opponent": "kent state",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    21,
+                    13,
+                    14,
+                    0
+                ],
                 "startDate": "2018-11-06",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -15235,6 +15242,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
                 "id": "",
                 "location": "Wayne Day Family Field at Carter-Finley Stadium, Raleigh, NC",
@@ -21754,6 +21762,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
@@ -23219,6 +23228,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Jack Trice Stadium, Ames, IA",
@@ -24214,7 +24224,12 @@
                 "id": "2954445",
                 "location": "UB Stadium, Buffalo, NY",
                 "opponent": "buffalo",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    0,
+                    14
+                ],
                 "startDate": "2018-11-06",
                 "startTime": "7:30 PM ET",
                 "teamRank": "0",
@@ -25411,6 +25426,7 @@
             },
             {
                 "canceled": "true",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
@@ -25423,8 +25439,9 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
-                "id": "",
+                "id": "2953007",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "north texas",
                 "scoreBreakdown": [
@@ -25474,8 +25491,9 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
-                "id": "",
+                "id": "2953157",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "troy",
                 "scoreBreakdown": [
@@ -25491,6 +25509,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
@@ -31094,11 +31113,16 @@
                 "id": "2954092",
                 "location": "Fred C. Yager Stadium, Oxford, OH",
                 "opponent": "ohio",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    21,
+                    0,
+                    2
+                ],
                 "startDate": "2018-11-07",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -36797,11 +36821,17 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
-                "id": "",
+                "id": "2954146",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "notre dame",
-                "scoreBreakdown": [0,0,14,8],
+                "scoreBreakdown": [
+                    0,
+                    0,
+                    14,
+                    8
+                ],
                 "startDate": "2018-10-27",
                 "startTime": "8:00 PM ET",
                 "teamRank": "0",
@@ -37081,6 +37111,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Memorial Stadium (Lincoln, NE), Lincoln , NE",
@@ -38161,6 +38192,7 @@
         "schedule": [
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
                 "id": "",
                 "location": "Williams Stadium, Lynchburg, VA",
@@ -39039,6 +39071,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Wayne Day Family Field at Carter-Finley Stadium, Raleigh, NC",
@@ -39292,8 +39325,9 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
-                "id": "",
+                "id": "2953007",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "liberty",
                 "scoreBreakdown": [
@@ -39735,11 +39769,16 @@
                 "id": "2954419",
                 "location": "Brigham Field at Huskie Stadium, DeKalb, IL",
                 "opponent": "toledo",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    10,
+                    14,
+                    7
+                ],
                 "startDate": "2018-11-07",
-                "startTime": "TBA",
+                "startTime": "8:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -41860,6 +41899,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "2954149",
                 "location": "Notre Dame Stadium, South Bend, IN",
@@ -41877,15 +41917,21 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
-                "id": "",
+                "id": "2954146",
                 "location": "San Diego County Credit Union Stadium, San Diego, CA",
                 "opponent": "navy",
-                "scoreBreakdown": [13, 14, 10, 7],
+                "scoreBreakdown": [
+                    13,
+                    14,
+                    10,
+                    7
+                ],
                 "startDate": "2018-10-27",
                 "startTime": "8:00 PM ET",
                 "teamRank": "12",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",
@@ -42168,9 +42214,14 @@
                 "id": "2954092",
                 "location": "Fred C. Yager Stadium, Oxford, OH",
                 "opponent": "miami ohio",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    7,
+                    0,
+                    7,
+                    14
+                ],
                 "startDate": "2018-11-07",
-                "startTime": "TBA",
+                "startTime": "7:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -53794,6 +53845,7 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "",
                 "location": "Williams-Brice Stadium, Columbia, SC",
@@ -61886,9 +61938,14 @@
                 "id": "2954419",
                 "location": "Brigham Field at Huskie Stadium, DeKalb, IL",
                 "opponent": "northern illinois",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [
+                    3,
+                    6,
+                    0,
+                    6
+                ],
                 "startDate": "2018-11-07",
-                "startTime": "TBA",
+                "startTime": "8:00 PM ET",
                 "teamRank": "0",
                 "winner": "false"
             },
@@ -62170,8 +62227,9 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "away",
-                "id": "",
+                "id": "2953157",
                 "location": "Williams Stadium, Lynchburg, VA",
                 "opponent": "liberty",
                 "scoreBreakdown": [
