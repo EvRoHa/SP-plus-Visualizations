@@ -1,467 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 10. Various fixes. Finally got tired of whiny Notre Dame fans and fixed the NCAA's screw up so the graph is right.">
+    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 11.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/akron - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/akron - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/alabama - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/alabama - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/american athletic - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/american athletic - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/american athletic - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/american athletic - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/appalachian state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/appalachian state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/arizona - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/arizona - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/arizona state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/arizona state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/arkansas - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/arkansas - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/arkansas state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/arkansas state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/army - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/army - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/atlantic coast - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/auburn - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/auburn - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ball state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ball state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/baylor - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/baylor - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/big 12 - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/big 12 - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/big 12 - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/big 12 - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/big ten - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/boise state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/boise state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/boston college - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/boston college - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/bowling green - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/bowling green - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/buffalo - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/buffalo - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/byu - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/byu - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/california - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/california - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/central michigan - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/central michigan - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/charlotte - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/charlotte - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/cincinnati - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/cincinnati - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/clemson - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/clemson - sp+ - red-blue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/coastal carolina - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/coastal carolina - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/colorado - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/colorado - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/colorado state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/colorado state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/conference usa - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/duke - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/duke - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/east carolina - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/east carolina - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/eastern michigan - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/eastern michigan - sp+ - red-blue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/fbs - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/fbs - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida atlantic - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida atlantic - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida international - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida international - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/florida state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/fresno state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/fresno state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia southern - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia southern - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia tech - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/georgia tech - sp+ - red-blue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/gfive - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/gfive - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/hawaii - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/hawaii - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/houston - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/houston - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/illinois - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/illinois - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/independent - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/independent - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/indiana - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/indiana - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/iowa - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/iowa - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/iowa state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/iowa state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/kansas - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/kansas - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/kansas state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/kansas state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/kent state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/kent state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/kentucky - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/kentucky - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/liberty - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/liberty - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisiana - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisiana - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisiana monroe - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisiana monroe - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisiana tech - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisiana tech - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisville - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/louisville - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/lsu - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/lsu - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/marshall - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/marshall - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/maryland - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/maryland - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/memphis - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/memphis - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/miami - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/miami - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/miami ohio - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/miami ohio - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/michigan - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/michigan - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/michigan state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/michigan state - sp+ - red-blue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/mid american - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/mid american - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/mid american - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/mid american - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/middle tennessee - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/middle tennessee - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/minnesota - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/minnesota - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/mississippi state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/mississippi state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/missouri - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/missouri - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/mountain west - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/mountain west - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/mountain west - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/mountain west - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/navy - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/navy - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/nebraska - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/nebraska - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/nevada - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/nevada - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/new mexico - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/new mexico - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/new mexico state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/new mexico state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/north carolina - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/north carolina - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/north carolina state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/north carolina state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/north texas - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/north texas - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/northern illinois - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/northern illinois - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/northwestern - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/northwestern - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/notre dame - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/notre dame - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ohio - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ohio - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ohio state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ohio state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/oklahoma - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/oklahoma - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/oklahoma state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/oklahoma state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/old dominion - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/old dominion - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ole miss - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ole miss - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/oregon - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/oregon - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/oregon state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/oregon state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/pac 12 - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/pac 12 - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/pac 12 - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/pac 12 - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/penn state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/penn state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/pfive - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/pfive - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/pittsburgh - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/pittsburgh - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/purdue - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/purdue - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/rice - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/rice - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/rutgers - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/rutgers - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/san diego state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/san diego state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/san jose state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/san jose state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/smu - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/smu - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/south alabama - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/south alabama - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/south carolina - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/south carolina - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/south florida - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/south florida - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/southeastern - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/southern mississippi - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/southern mississippi - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/stanford - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/stanford - sp+ - red-blue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/sun belt - sp+ - red-blue using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/sun belt - sp+ - red-blue using sp+.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/sun belt - sp+ - red-blue using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/sun belt - sp+ - red-blue using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/syracuse - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/syracuse - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/tcu - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/tcu - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/temple - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/temple - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/tennessee - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/tennessee - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas am - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas am - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas tech - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/texas tech - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/toledo - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/toledo - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/troy - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/troy - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/tulane - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/tulane - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/tulsa - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/tulsa - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/uab - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/uab - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ucf - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ucf - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ucla - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ucla - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/uconn - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/uconn - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/umass - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/umass - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/unlv - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/unlv - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/usc - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/usc - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/ut san antonio - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/ut san antonio - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/utah - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/utah - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/utah state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/utah state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/utep - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/utep - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/vanderbilt - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/vanderbilt - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia tech - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/virginia tech - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/wake forest - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/wake forest - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/washington - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/washington - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/washington state - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/washington state - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/west virginia - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/west virginia - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/western kentucky - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/western kentucky - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/western michigan - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/western michigan - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/wisconsin - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/wisconsin - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/wyoming - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/wyoming - sp+ - red-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/Strength of Schedule using average SP+ of all FBS - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/Strength of Schedule using average SP+ of all FBS - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/Strength of Schedule using average SP+ of top 5 - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/Strength of Schedule using average SP+ of top 5 - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/air force - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/air force - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/akron - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/akron - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/alabama - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/alabama - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/american athletic - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/american athletic - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/american athletic - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/american athletic - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/appalachian state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/appalachian state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/arizona - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/arizona - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/arizona state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/arizona state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/arkansas - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/arkansas - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/arkansas state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/arkansas state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/army - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/army - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/atlantic coast - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/auburn - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/auburn - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ball state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ball state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/baylor - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/baylor - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/big 12 - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/big 12 - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/big 12 - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/big 12 - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/big ten - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/boise state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/boise state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/boston college - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/boston college - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/bowling green - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/bowling green - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/buffalo - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/buffalo - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/byu - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/byu - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/california - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/california - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/central michigan - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/central michigan - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/charlotte - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/charlotte - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/cincinnati - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/cincinnati - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/clemson - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/clemson - sp+ - red-green.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/coastal carolina - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/coastal carolina - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/colorado - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/colorado - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/colorado state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/colorado state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/conference usa - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/duke - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/duke - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/east carolina - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/east carolina - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/eastern michigan - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/eastern michigan - sp+ - red-green.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using sp+.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/fbs - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/florida - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/florida - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/florida atlantic - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/florida atlantic - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/florida international - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/florida international - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/florida state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/florida state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/fresno state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/fresno state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia southern - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia southern - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia tech - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/georgia tech - sp+ - red-green.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/gfive - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/gfive - sp+ - red-green using sp+.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/gfive - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/gfive - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/hawaii - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/hawaii - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/houston - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/houston - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/illinois - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/illinois - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/independent - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/independent - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/independent - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/independent - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/indiana - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/indiana - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/iowa - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/iowa - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/iowa state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/iowa state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/kansas - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/kansas - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/kansas state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/kansas state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/kent state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/kent state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/kentucky - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/kentucky - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/liberty - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/liberty - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/louisiana - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/louisiana - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/louisiana monroe - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/louisiana monroe - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/louisiana tech - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/louisiana tech - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/louisville - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/louisville - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/lsu - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/lsu - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/marshall - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/marshall - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/maryland - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/maryland - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/memphis - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/memphis - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/miami - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/miami - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/miami ohio - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/miami ohio - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/michigan - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/michigan - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/michigan state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/michigan state - sp+ - red-green.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/mid american - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/mid american - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/mid american - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/mid american - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/middle tennessee - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/middle tennessee - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/minnesota - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/minnesota - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/mississippi state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/mississippi state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/missouri - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/missouri - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/mountain west - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/mountain west - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/mountain west - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/mountain west - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/navy - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/navy - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/nebraska - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/nebraska - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/nevada - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/nevada - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/new mexico - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/new mexico - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/new mexico state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/new mexico state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/north carolina - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/north carolina - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/north carolina state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/north carolina state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/north texas - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/north texas - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/northern illinois - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/northern illinois - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/northwestern - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/northwestern - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/notre dame - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/notre dame - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ohio - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ohio - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ohio state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ohio state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/oklahoma - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/oklahoma - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/oklahoma state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/oklahoma state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/old dominion - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/old dominion - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ole miss - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ole miss - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/oregon - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/oregon - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/oregon state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/oregon state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pac 12 - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pac 12 - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pac 12 - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pac 12 - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/penn state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/penn state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pfive - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/pittsburgh - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/pittsburgh - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/purdue - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/purdue - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/rice - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/rice - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/rutgers - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/rutgers - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/san diego state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/san diego state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/san jose state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/san jose state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/smu - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/smu - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/south alabama - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/south alabama - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/south carolina - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/south carolina - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/south florida - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/south florida - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/southeastern - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/southern mississippi - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/southern mississippi - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/stanford - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/stanford - sp+ - red-green.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/sun belt - sp+ - red-green using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/sun belt - sp+ - red-green using sp+.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/sun belt - sp+ - red-green using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/sun belt - sp+ - red-green using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/syracuse - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/syracuse - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/tcu - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/tcu - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/temple - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/temple - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/tennessee - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/tennessee - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/texas - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/texas - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/texas am - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/texas am - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/texas state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/texas state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/texas tech - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/texas tech - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/toledo - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/toledo - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/troy - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/troy - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/tulane - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/tulane - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/tulsa - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/tulsa - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/uab - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/uab - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ucf - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ucf - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ucla - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ucla - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/uconn - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/uconn - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/umass - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/umass - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/unlv - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/unlv - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/usc - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/usc - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/ut san antonio - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/ut san antonio - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/utah - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/utah - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/utah state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/utah state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/utep - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/utep - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/vanderbilt - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/vanderbilt - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia tech - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/virginia tech - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/wake forest - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/wake forest - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/washington - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/washington - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/washington state - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/washington state - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/west virginia - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/west virginia - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/western kentucky - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/western kentucky - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/western michigan - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/western michigan - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/wisconsin - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/wisconsin - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-green/wyoming - sp+ - red-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-green/wyoming - sp+ - red-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/air force - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/air force - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/akron - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/akron - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/alabama - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/alabama - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/american athletic - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/american athletic - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/appalachian state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/appalachian state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/arizona - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/arizona - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/arizona state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/arizona state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/arkansas - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/arkansas - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/arkansas state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/arkansas state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/army - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/army - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/atlantic coast - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/atlantic coast - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/auburn - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/auburn - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ball state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ball state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/baylor - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/baylor - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/big 12 - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/big 12 - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/big ten - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/big ten - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/boise state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/boise state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/boston college - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/boston college - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/bowling green - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/bowling green - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/buffalo - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/buffalo - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/byu - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/byu - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/california - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/california - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/central michigan - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/central michigan - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/charlotte - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/charlotte - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/cincinnati - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/cincinnati - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/clemson - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/clemson - sp+ - team.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/coastal carolina - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/coastal carolina - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/colorado - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/colorado - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/colorado state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/colorado state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/conference usa - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/conference usa - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/duke - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/duke - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/east carolina - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/east carolina - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/eastern michigan - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/eastern michigan - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/florida - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/florida - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/florida atlantic - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/florida atlantic - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/florida international - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/florida international - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/florida state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/florida state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/fresno state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/fresno state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/georgia - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/georgia - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/georgia southern - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/georgia southern - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/georgia state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/georgia state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/georgia tech - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/georgia tech - sp+ - team.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/gfive - sp+ - team using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/gfive - sp+ - team using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/hawaii - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/hawaii - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/houston - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/houston - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/illinois - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/illinois - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/independent - sp+ - team using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/independent - sp+ - team using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/indiana - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/indiana - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/iowa - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/iowa - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/iowa state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/iowa state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/kansas - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/kansas - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/kansas state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/kansas state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/kent state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/kent state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/kentucky - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/kentucky - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/liberty - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/liberty - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/louisiana - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/louisiana - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/louisiana monroe - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/louisiana monroe - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/louisiana tech - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/louisiana tech - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/louisville - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/louisville - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/lsu - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/lsu - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/marshall - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/marshall - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/maryland - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/maryland - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/memphis - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/memphis - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/miami - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/miami - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/miami ohio - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/miami ohio - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/michigan - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/michigan - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/michigan state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/michigan state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/mid american - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/mid american - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/middle tennessee - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/middle tennessee - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/minnesota - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/minnesota - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/mississippi state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/mississippi state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/missouri - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/missouri - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/mountain west - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/mountain west - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/navy - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/navy - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/nebraska - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/nebraska - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/nevada - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/nevada - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/new mexico - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/new mexico - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/new mexico state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/new mexico state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/north carolina - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/north carolina - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/north carolina state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/north carolina state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/north texas - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/north texas - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/northern illinois - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/northern illinois - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/northwestern - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/northwestern - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/notre dame - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/notre dame - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ohio - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ohio - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ohio state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ohio state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/oklahoma - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/oklahoma - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/oklahoma state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/oklahoma state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/old dominion - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/old dominion - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ole miss - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ole miss - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/oregon - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/oregon - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/oregon state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/oregon state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/pac 12 - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/pac 12 - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/penn state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/penn state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/pfive - sp+ - team using sp+.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/pfive - sp+ - team using sp+.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/pittsburgh - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/pittsburgh - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/purdue - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/purdue - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/rice - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/rice - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/rutgers - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/rutgers - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/san diego state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/san diego state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/san jose state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/san jose state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/smu - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/smu - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/south alabama - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/south alabama - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/south carolina - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/south carolina - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/south florida - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/south florida - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/southeastern - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/southeastern - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/southern mississippi - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/southern mississippi - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/stanford - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/stanford - sp+ - team.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/sun belt - sp+ - team using winexp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/sun belt - sp+ - team using winexp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/syracuse - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/syracuse - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/tcu - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/tcu - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/temple - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/temple - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/tennessee - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/tennessee - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/texas - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/texas - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/texas am - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/texas am - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/texas state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/texas state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/texas tech - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/texas tech - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/toledo - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/toledo - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/troy - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/troy - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/tulane - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/tulane - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/tulsa - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/tulsa - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/uab - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/uab - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ucf - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ucf - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ucla - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ucla - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/uconn - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/uconn - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/umass - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/umass - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/unlv - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/unlv - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/usc - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/usc - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/ut san antonio - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/ut san antonio - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/utah - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/utah - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/utah state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/utah state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/utep - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/utep - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/vanderbilt - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/vanderbilt - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/virginia - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/virginia - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/virginia tech - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/virginia tech - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/wake forest - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/wake forest - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/washington - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/washington - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/washington state - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/washington state - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/west virginia - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/west virginia - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/western kentucky - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/western kentucky - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/western michigan - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/western michigan - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/wisconsin - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/wisconsin - sp+ - team.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg output/sp+ - team/wyoming - sp+ - team.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - team/wyoming - sp+ - team.svg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -473,12 +33,12 @@
     <session id="-2052528850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="97" />
+          <entry key="project.closed" value="98" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="8" />
-          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="6" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="2" />
@@ -492,7 +52,7 @@
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="9" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="99" />
+          <entry key="project.opened" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -500,16 +60,16 @@
           <entry key="Python Console" value="5" />
           <entry key="csv" value="1" />
           <entry key="fart" value="41" />
-          <entry key="json" value="1452" />
+          <entry key="json" value="1492" />
           <entry key="py" value="52639" />
           <entry key="svg" value="13" />
-          <entry key="txt" value="1119" />
+          <entry key="txt" value="1121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1452" />
-          <entry key="PLAIN_TEXT" value="1161" />
+          <entry key="JSON" value="1492" />
+          <entry key="PLAIN_TEXT" value="1163" />
           <entry key="Python" value="52644" />
           <entry key="SVG" value="13" />
         </counts>
@@ -543,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="969">
               <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -556,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schedule.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3159" column="22" lean-forward="true" selection-start-line="3159" selection-start-column="22" selection-end-line="3159" selection-end-column="22" />
+            <state relative-caret-position="38">
+              <caret line="13248" column="36" selection-start-line="13248" selection-start-column="36" selection-end-line="13248" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -574,7 +134,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="11220">
               <caret line="676" selection-start-line="676" selection-end-line="676" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -599,7 +159,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ut</find>
       <find>team</find>
       <find>monroe</find>
       <find>sp</find>
@@ -629,6 +188,7 @@
       <find>Liberty&quot;</find>
       <find>north-texas-lib</find>
       <find>notre dame&quot;:</find>
+      <find>carolina&quot;:</find>
     </findStrings>
     <replaceStrings>
       <replace>international</replace>
@@ -724,9 +284,9 @@
         <option value="$PROJECT_DIR$/cluster.py" />
         <option value="$PROJECT_DIR$/stadiums.json" />
         <option value="$PROJECT_DIR$/team.py" />
-        <option value="$PROJECT_DIR$/schedule.json" />
         <option value="$PROJECT_DIR$/scratch.py" />
         <option value="$PROJECT_DIR$/schedule.py" />
+        <option value="$PROJECT_DIR$/schedule.json" />
       </list>
     </option>
   </component>
@@ -901,13 +461,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531750812156</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Fixed stupid damned ampersand that broke S&amp;P+ graphs.">
-      <created>1534339601441</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1534339601441</updated>
     </task>
     <task id="LOCAL-00049" summary="Fixed stupid damned ampersand that broke S&amp;P+ graphs.">
       <created>1534339845193</created>
@@ -1245,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541721506727</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Updated for week 11.">
+      <created>1541958887507</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1541958887508</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1254,7 +814,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.14955357" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14955357" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.43862522" />
@@ -1323,7 +883,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Minor fixes to graphs." />
     <MESSAGE value="Updated graph output structure in team graphs." />
     <MESSAGE value="Updated team graphs as of 9/4/2018." />
     <MESSAGE value="Fixed Liberty's Graph." />
@@ -1348,7 +907,8 @@
     <MESSAGE value="Updated for week 10." />
     <MESSAGE value="Updated for week 10. Various fixes." />
     <MESSAGE value="Updated for week 10. Various fixes. Finally got tired of whiny Notre Dame fans and fixed the NCAA's screw up so the graph is right." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 10. Various fixes. Finally got tired of whiny Notre Dame fans and fixed the NCAA's screw up so the graph is right." />
+    <MESSAGE value="Updated for week 11." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 11." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1571,6 +1131,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1541950325055" expanded="true" signature="154:278" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cluster.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9010">
@@ -1580,7 +1151,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="11220">
           <caret line="676" selection-start-line="676" selection-end-line="676" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -1592,21 +1163,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1541950325055" expanded="true" signature="154:278" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3159" column="22" lean-forward="true" selection-start-line="3159" selection-start-column="22" selection-end-line="3159" selection-end-column="22" />
+        <state relative-caret-position="38">
+          <caret line="13248" column="36" selection-start-line="13248" selection-start-column="36" selection-end-line="13248" selection-end-column="36" />
         </state>
       </provider>
     </entry>

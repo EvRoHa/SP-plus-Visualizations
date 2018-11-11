@@ -13263,15 +13263,16 @@
             },
             {
                 "canceled": "false",
+                "doNotUpdate": "true",
                 "home-away": "home",
                 "id": "2953773",
                 "location": "Brooks Stadium, Conway, SC",
                 "opponent": "campbell",
-                "scoreBreakdown": [],
+                "scoreBreakdown": [7, 17, 21, 13],
                 "startDate": "2018-09-15",
                 "startTime": "7:00 PM ET",
                 "teamRank": "0",
-                "winner": "false"
+                "winner": "true"
             },
             {
                 "canceled": "false",

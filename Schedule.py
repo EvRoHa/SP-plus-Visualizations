@@ -678,4 +678,5 @@ class Schedule(object):
 
 s = Schedule(file='schedule.json')
 s.update_from_NCAA()
+s.update_spplus()
 s.save_to_file()
