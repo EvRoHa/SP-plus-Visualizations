@@ -19,6 +19,15 @@ class Schedule(object):
         self.file = file
         with open(file, 'r', encoding='utf8') as infile:
             self.data = json.load(infile)
+    def box_score(self, game):
+        opponent = game['opponent']
+
+        try:
+            opp_game = [x for x in self.data[opponent]['schedule'] if x['id'] == game['id']][0]
+        except IndexError:
+            raise IndexError
+        #TODO: make this spit out a boxscore
+
 
     @staticmethod
     def clean_team_name(name, display: bool = False):
@@ -398,6 +407,28 @@ class Schedule(object):
 
         return result
 
+    def report_week(self, week=-1):
+        if not week:
+            date = max(
+                datetime.strptime(w[1], '%Y-%m-%d') for w in WEEKS if
+                datetime.strptime(w[1], '%Y-%m-%d') <= datetime.now()).strftime('%Y-%m-%d')
+            week = [x[1] for x in WEEKS].index(date) + 1
+        elif 0 < week < len(WEEKS):
+            pass
+        else:
+            raise ValueError("invalid week")
+        output = []
+
+        teams = [x for x in self.data]
+        while len(teams) > 0:
+            game = self.data[teams[0]]['schedule'][week]
+            date = datetime.strptime(game['startDate'], '%Y=%m-%d')
+            if WEEKS[week][0] <= date <= WEEKS[week][1]:
+                output.append(self.boxscore(game))
+            if game['opponent'] in teams:
+                teams.pop(teams['opponent'])
+
+
     def swap_teams(self, team_a, team_b):
         # TODO: Tidy up this code
         data = dict(self.data)
@@ -677,6 +708,5 @@ class Schedule(object):
 
 
 s = Schedule(file='schedule.json')
-s.update_from_NCAA()
 s.update_spplus()
 s.save_to_file()
