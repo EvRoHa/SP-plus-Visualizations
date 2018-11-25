@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 11. Fixed Coastal Carolina.">
+    <list default="true" id="a9a1ca11-1f42-4190-bfb2-7e384c2adc43" name="Default" comment="Updated for week 12. Fixed Coastal Carolina.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg output/sp+ - red-blue/air force - sp+ - red-blue.svg" afterDir="false" />
@@ -474,7 +473,7 @@
     <session id="-2052528850">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="103" />
+          <entry key="project.closed" value="105" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="8" />
@@ -483,17 +482,17 @@
           <entry key="project.open.time.13" value="7" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.16" value="4" />
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.2" value="7" />
-          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.3" value="8" />
           <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="9" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="105" />
+          <entry key="project.opened" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -501,17 +500,17 @@
           <entry key="Python Console" value="5" />
           <entry key="csv" value="1" />
           <entry key="fart" value="41" />
-          <entry key="json" value="1574" />
-          <entry key="py" value="53592" />
+          <entry key="json" value="2409" />
+          <entry key="py" value="53634" />
           <entry key="svg" value="13" />
-          <entry key="txt" value="1147" />
+          <entry key="txt" value="1148" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1574" />
-          <entry key="PLAIN_TEXT" value="1189" />
-          <entry key="Python" value="53597" />
+          <entry key="JSON" value="2409" />
+          <entry key="PLAIN_TEXT" value="1190" />
+          <entry key="Python" value="53639" />
           <entry key="SVG" value="13" />
         </counts>
       </usages-collector>
@@ -521,7 +520,7 @@
           <entry key="csv" value="27" />
           <entry key="fart" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="json" value="138" />
+          <entry key="json" value="141" />
           <entry key="png" value="9" />
           <entry key="py" value="162" />
           <entry key="svg" value="21" />
@@ -531,7 +530,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="10" />
-          <entry key="JSON" value="139" />
+          <entry key="JSON" value="142" />
           <entry key="PLAIN_TEXT" value="75" />
           <entry key="Python" value="162" />
           <entry key="SVG" value="21" />
@@ -541,22 +540,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="307">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1542563242631" expanded="true" signature="154:278" ph="..." />
+                <marker date="1543172427023" expanded="true" signature="154:278" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schedule.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="79833" column="1" selection-start-line="79833" selection-start-column="1" selection-end-line="79833" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -571,17 +574,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="702" column="42" selection-start-line="702" selection-start-column="42" selection-end-line="702" selection-end-column="42" />
+            <state relative-caret-position="216">
+              <caret line="164" column="125" selection-start-line="164" selection-start-column="125" selection-end-line="164" selection-end-column="125" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#295#410#0" />
-                <element signature="e#4192#4778#0" />
-                <marker date="1542558465609" expanded="true" signature="491:695" ph="..." />
-                <marker date="1542558465609" expanded="true" signature="6711:9129" ph="..." />
-                <marker date="1542558465609" expanded="true" signature="11148:11945" ph="..." />
-                <marker date="1542558465609" expanded="true" signature="16242:17035" ph="..." />
-                <marker date="1542558465609" expanded="true" signature="17072:17081" ph="..." />
               </folding>
             </state>
           </provider>
@@ -604,20 +601,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&quot;liberty&quot;</find>
-      <find>nul</find>
-      <find>new mexico</find>
-      <find>liberty&quot;:</find>
-      <find>north-texas</find>
-      <find>troy&quot;:</find>
-      <find>navy&quot;:</find>
-      <find>bethune</find>
-      <find>null</find>
-      <find>akron&quot;:</find>
-      <find>east carolina&quot;:</find>
-      <find>&quot;notre dame&quot;:</find>
-      <find>liberty</find>
-      <find>&quot;id&quot;: &quot;&quot;,</find>
       <find>Liberty&quot;</find>
       <find>north-texas-lib</find>
       <find>notre dame&quot;:</find>
@@ -634,9 +617,22 @@
       <find>hawaii&quot;,</find>
       <find>western</find>
       <find>chat</find>
+      <find>alabama&quot;:</find>
+      <find>northern illinois&quot;:</find>
+      <find>utah&quot;:</find>
+      <find>Rice-Eccles Stadium, Salt Lake City, UTd</find>
+      <find>san jose</find>
+      <find>ucf</find>
+      <find>appalachian state&quot;:</find>
+      <find>louisiana&quot;:</find>
+      <find>north carolina state&quot;:</find>
+      <find>akron</find>
+      <find>ucf&quot;:</find>
+      <find>california&quot;:</find>
+      <find>13</find>
+      <find>download</find>
     </findStrings>
     <replaceStrings>
-      <replace>international</replace>
       <replace>louisiana</replace>
       <replace />
       <replace>florida international</replace>
@@ -666,6 +662,7 @@
       <replace>|</replace>
       <replace>2018-09-03</replace>
       <replace>team['name']</replace>
+      <replace>14</replace>
     </replaceStrings>
   </component>
   <component name="Git.Rebase.Settings">
@@ -729,13 +726,13 @@
         <option value="$PROJECT_DIR$/cluster.py" />
         <option value="$PROJECT_DIR$/stadiums.json" />
         <option value="$PROJECT_DIR$/team.py" />
-        <option value="$PROJECT_DIR$/schedule.json" />
-        <option value="$PROJECT_DIR$/schedule.py" />
         <option value="$PROJECT_DIR$/scratch.py" />
+        <option value="$PROJECT_DIR$/schedule.py" />
+        <option value="$PROJECT_DIR$/schedule.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -772,12 +769,6 @@
               <item name="sp plus visualization" type="b2602c69:ProjectViewProjectNode" />
               <item name="sp plus visualization" type="462c0819:PsiDirectoryNode" />
               <item name="svg output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp plus visualization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp plus visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="svg output" type="462c0819:PsiDirectoryNode" />
-              <item name="sp+ - red-green" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -917,13 +908,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531750812156</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Fixed some faulty win prob values.">
-      <created>1534432129927</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1534432129930</updated>
     </task>
     <task id="LOCAL-00051" summary="Added FPI graphs for conferences.">
       <created>1534432437482</created>
@@ -1261,16 +1245,22 @@
       <option name="project" value="LOCAL" />
       <updated>1541971228156</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Updated for week 12. Fixed Coastal Carolina.">
+      <created>1542564380740</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1542564380740</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14880952" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.3013393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.43862522" />
@@ -1279,7 +1269,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32569557" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49776787" visible="true" weight="0.23076923" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" sideWeight="0.49776787" visible="true" weight="0.22913256" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32569557" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.23240589" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32893288" />
@@ -1339,7 +1329,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated team graphs as of 9/4/2018." />
     <MESSAGE value="Fixed Liberty's Graph." />
     <MESSAGE value="Updated Conference Graphs." />
     <MESSAGE value="Fixed ACC graph." />
@@ -1364,19 +1353,20 @@
     <MESSAGE value="Updated for week 10. Various fixes. Finally got tired of whiny Notre Dame fans and fixed the NCAA's screw up so the graph is right." />
     <MESSAGE value="Updated for week 11." />
     <MESSAGE value="Updated for week 11. Fixed Coastal Carolina." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 11. Fixed Coastal Carolina." />
+    <MESSAGE value="Updated for week 12. Fixed Coastal Carolina." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for week 12. Fixed Coastal Carolina." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/schedule.py</url>
-          <line>234</line>
+          <line>235</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/schedule.py</url>
-          <line>660</line>
+          <line>661</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1386,7 +1376,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/schedule.py</url>
-          <line>301</line>
+          <line>302</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
@@ -1571,6 +1561,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/air force - sp+ - red-green.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/akron - sp+ - red-green.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/alabama - sp+ - red-green.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/cluster.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9010">
@@ -1581,43 +1580,32 @@
     <entry file="file://$PROJECT_DIR$/defs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/air force - sp+ - red-green.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/akron - sp+ - red-green.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svg output/sp+ - red-green/alabama - sp+ - red-green.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.py">
+    <entry file="file://$PROJECT_DIR$/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="702" column="42" selection-start-line="702" selection-start-column="42" selection-end-line="702" selection-end-column="42" />
+        <state relative-caret-position="307">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#295#410#0" />
-            <element signature="e#4192#4778#0" />
-            <marker date="1542558465609" expanded="true" signature="491:695" ph="..." />
-            <marker date="1542558465609" expanded="true" signature="6711:9129" ph="..." />
-            <marker date="1542558465609" expanded="true" signature="11148:11945" ph="..." />
-            <marker date="1542558465609" expanded="true" signature="16242:17035" ph="..." />
-            <marker date="1542558465609" expanded="true" signature="17072:17081" ph="..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1543172427023" expanded="true" signature="154:278" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.py">
+    <entry file="file://$PROJECT_DIR$/schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="216">
+          <caret line="164" column="125" selection-start-line="164" selection-start-column="125" selection-end-line="164" selection-end-column="125" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1542563242631" expanded="true" signature="154:278" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#295#410#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="79833" column="1" selection-start-line="79833" selection-start-column="1" selection-end-line="79833" selection-end-column="1" />
         </state>
       </provider>
     </entry>
