@@ -20,6 +20,8 @@ class Utils:
     def calculate_win_prob_from_spplus(a, b, loc):
         if loc == 'home':
             return norm.cdf((a - b + 2.5) / 17)
+        elif loc == 'neutral':
+            return norm.cdf((a - b) / 17)
         else:
             return norm.cdf((a - b - 2.5) / 17)
 

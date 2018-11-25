@@ -520,14 +520,14 @@
 <text text-anchor='middle' alignment-baseline='middle' x='680.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='680.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-0.4%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='704.0' y='750' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
-<rect x='705' y='705' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(147.4850892371145,15.021396781245357,69.26657413246687);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>40.2%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+1.1)%</text>
+<rect x='705' y='705' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(116.24535002732915,21.583168487410315,77.68275958167845);'/>
+<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>34.7%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='730.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.9)%</text>
 <text text-anchor='end' alignment-baseline='middle' x='754.0' y='750' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>100.0%</text>
 <rect x='755' y='705' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(219.0,0.0,50.0);'/>
-<text text-anchor='middle' alignment-baseline='middle' x='780.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>59.8%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='780.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-0.7%)</text>
-<text text-anchor='end' alignment-baseline='middle' x='804.0' y='750' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>59.8%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='780.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>65.3%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='780.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(-0.5%)</text>
+<text text-anchor='end' alignment-baseline='middle' x='804.0' y='750' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>65.3%</text>
 <rect x='805' y='705' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(0.0,46.0,109.0);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
@@ -536,7 +536,7 @@
 <text text-anchor='middle' alignment-baseline='middle' x='880.0' y='728.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='880.0' y='738.0' style='font-family:Arial;fill:rgb(255,255,255);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='904.0' y='750' style='font-family:Arial;fill:rgb(255,255,255);font-size:8px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='930.0' y='728.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>10.6</text>
+<text text-anchor='middle' alignment-baseline='middle' x='930.0' y='728.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>10.7</text>
 <text text-anchor='middle' alignment-baseline='middle' x='930.0' y='738.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0)</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='127.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>79 - 13</text>
@@ -563,8 +563,8 @@
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='677.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='692.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>31 - 13</text>
 <text text-anchor='end' alignment-baseline='middle' x='202.5' y='750' style='font-family:Arial;fill:rgb(0,205,0);font-size:8px;weight:bolder'>+9.9</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='728.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>59.8%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='738.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-1.4%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='728.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>65.3%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='180.0' y='738.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-1.3%)</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='73.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='230.0' y='87.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Wins</text>
 <text text-anchor='middle' alignment-baseline='middle' x='280.0' y='73.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>1</text>

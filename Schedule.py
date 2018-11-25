@@ -162,6 +162,7 @@ class Schedule(object):
         # Quick and dirty method to scrape schedule data
         for week in range(1, 20):
             # Pull the scoreboard, which contains links to the details for each game
+            # TODO: update to pull from here https://data.ncaa.com/casablanca/scoreboard/football/fbs/2018/14/scoreboard.json
             url = "http://data.ncaa.com/jsonp/scoreboard/football/fbs/{}/{}/scoreboard.json".format(year,
                                                                                                     "%02d" % week)
             response = requests.get(url)

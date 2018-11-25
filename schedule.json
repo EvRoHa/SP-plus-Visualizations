@@ -2344,14 +2344,14 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Mercedes-Benz Stadium, Atlanta, GA",
                 "opponent": "georgia",
                 "scoreBreakdown": [],
                 "startDate": "2018-12-01",
                 "startTime": "4:00 PM ET",
-                "teamRank": "1",
+                "teamRank": "",
                 "winner": "false"
             }
         ],
@@ -8316,7 +8316,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "home",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Albertson's Stadium, Boise, ID",
                 "opponent": "fresno state",
@@ -13464,7 +13464,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Bank of America Stadium, Charlotte, NC",
                 "opponent": "pittsburgh",
@@ -18657,7 +18657,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Albertson's Stadium, Boise, ID",
                 "opponent": "boise state",
@@ -20548,14 +20548,14 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Mercedes-Benz Stadium, Atlanta, GA",
                 "opponent": "alabama",
                 "scoreBreakdown": [],
                 "startDate": "2018-12-01",
                 "startTime": "4:00 PM ET",
-                "teamRank": "1",
+                "teamRank": "",
                 "winner": "false"
             }
         ],
@@ -30304,7 +30304,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Spectrum Stadium, Orlando, FL",
                 "opponent": "ucf",
@@ -35595,7 +35595,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "home",
+                "home-away": "neutralf",
                 "id": "",
                 "location": "Johnny “Red” Floyd Stadium, Murfreesboro, TN",
                 "opponent": "uab",
@@ -41659,7 +41659,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Lucas Oil Field, Indianapolis, IN",
                 "opponent": "ohio state",
@@ -45492,7 +45492,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Lucas Oil Field, Indianapolis, IN",
                 "opponent": "northwestern",
@@ -47239,7 +47239,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "AT&T Stadium, Dallas, TX",
                 "opponent": "texas",
@@ -52548,6 +52548,18 @@
             {
                 "canceled": "false",
                 "home-away": "away",
+                "id": "",
+                "location": "Bank of America Stadium, Charlotte, NC",
+                "opponent": "clemson",
+                "scoreBreakdown": [],
+                "startDate": "2018-12-01",
+                "startTime": "8:00 PM ET",
+                "teamRank": "",
+                "winner": "false"
+            },
+            {
+                "canceled": "false",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Bank of America Stadium, Charlotte, NC",
                 "opponent": "clemson",
@@ -62312,7 +62324,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "AT&T Stadium, Dallas, TX",
                 "opponent": "oklahoma",
@@ -65247,7 +65259,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Johnny “Red” Floyd Stadium, Murfreesboro, TN",
                 "opponent": "middle tennessee",
@@ -67035,7 +67047,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Spectrum Stadium, Orlando, FL",
                 "opponent": "memphis",
@@ -69963,7 +69975,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Levi's Stadium, Santa Clara, CA",
                 "opponent": "washington",
@@ -74721,7 +74733,7 @@
             },
             {
                 "canceled": "false",
-                "home-away": "away",
+                "home-away": "neutral",
                 "id": "",
                 "location": "Levi's Stadium, Santa Clara, CA",
                 "opponent": "utah",
