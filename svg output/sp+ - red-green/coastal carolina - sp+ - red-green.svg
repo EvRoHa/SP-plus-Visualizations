@@ -9,9 +9,9 @@
 <image x='10.0' y='10.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAI50lEQVR42tVYaVCT+RnnFuQUD9jlTMhBgEAgHCEQjoQjHOEQIZBwBAIkhBCSkIB1tS3Ldi2VFbY7u9bOYlu7nY6tI5Xxg/3QrjPO6Hb6qU610/GLI9PqjlPH1mM7Hvv0ef6YCK4ubo1Om5n/hDfvG95fnv/zO57XDwD8/peX3/8dwAsXLvgtLi76bJ04cSL8+vXrFXfu3On+561bhju3b2vOnz+fcuTIked+hzA8F+Ds7KyfL15ZWVkcp8PxiyGj8V5edg6kpaSylc7jQ1NDI0w4HJd0Ol1PcHBwwNPfJQyvFKBara4dHRn5XMDhQm1xDphaFDClr4K9fTXg6lKBrlYGknQ+lMlLYNI9ufg0yFcKsLKyUt7W0vrvgqx0mB5Qw/u25meuOYsGlIViyM7MArPZvPu1ANyyZUu4y+n8cwYvDb7T/3xwnjVrboBckQBGzSM3k5OTt/sUYFhYWJDJZNpjt9kuWczmB7ZR652Z6bf/IhZlQEdV4YbgPMuoKYFMYTr09vYO+hTgwsLC25Mu1xeSLDG0VEhhuLkU2lUFkCXggUNb+bWgvo+Ve3e4Hhbw72mjmpGn32CY9xlArF5AQkJCdGxsbOg7M+8cFKeLwNmpXL25qQG+hzd/GtT8WBN0q2VsSz2MFuOP6aop8gBc9GkFpVKpyD0x8UeXw3lPXlgETWV5X1u1XcoCLzBatK1Ufc9xf3//ez4FOOlyfybLf3LTOrkEBptKWUU6VIWgRykZbl6VF1eXEnhrwA0bB69otdpdGo2m6ltTu39HfavX6/t8CvDYsWMfnTp16nRrU9O6ynA5aZCcKYaEXClbyVnZwE9LWyfUBoPBCyYvL48394MDdwUCQYJPANbW1qomHM5zmvqGL9lNUznwRmExRDe3QcjgCPg7psDPuRvCegcgXlYC25TVEGyyQlh3P8TLFSBEgFaL5R9Wq3U6PDw8BPs58PDhw++/tA7iPwp2OpwLDeq6hx5gO8orYdOAiQFauwJHHZCKPbatspoBTBJnQ3hnDzu3uauXVVVUJINv7923XF5eLkQN3PFSAKOjozdPTU4uZwiEbJvezC+EEKP5K8A8i0BH7uzwHof2GoGHtrdNWQMBNheraNDIOHDRo90u1y9f2ot3T00tUiMTuG2qGvC3Tz4TmP+4C7fSADGaFrY26/sYIDonbdCAwzYOiZI8tt07yiphe7kSnHbH9YCAAP//GiCyrZ1khMAlZUtWGx9JEFtTz7aSbh5kGmNbyUnjryNMQl4+ROzqgoCxCdis64PFjz+GM7//FFIlucDBFtAo8qAoLxfs4+PvIshvDjAqKir0N0tLnx768KOH1UoV66vopp1YKbe3ahHtXcDhCVhPJqOu0TWr4AogXNsNxWUyaFUWQmltOSRJ84FXooCUYjm0oS6S+0yiDGnU6kdtO3c2f2OACoVCsnfPngsivgDii0shwOpct6VURSLAapWcrKIc/qpTELh8aQ5oa+TwydGjMO0eg4HGEqaNZHPz1iaviJNm4lb/NTAw0P+FAWZnZ/OsI5a/082oX57uu816A2ytqfP2GJMW7C0ukuGNIjmEGoagMl8M/Ttr4dfHfgU3btyA354+DVZjD5hby+C9UY0XIOVElC3IyMhIeSGA8fHxMWhjFwlcckYm6yEiwFqAwcPWr5CEPovc1ek9TkQp6a0vBvfoEPz4g3nYv88NbSoZcx3yYR26zn707llzI5TKiqGkpET6QgDHrNb9HknhoLBS83O5aazHqJpUHY98PIvNJCNbq+tw+3NAyOUyMlAEo/cSCaoBtkESaiFVm5K1W6eCGlUVoKsINwSIw0ykaXDoXzRH9Oq7vxy3jt3EQPk5fvZAVvDEe3coKtjaXqFcBy6qtR1EQgHrq+9ioqYUQ9tIHk3xP5Of5tVI2pmYxhYQohXi7PIoLi4uckOAV69erXNNuH6OA02nSCRKjYiICMKZwT81NXU7Mq3JMjLyE5228wvmu9xVjyVQq4zWQaaAz3pqbZLZ3V0FNALQPELXkyVuQqEP6xlgLUHKkI4FsdvtsxsCnJub898oKKCxJ0663T8repxmUgXpyGA7e7d3PAmrB5GpxFqKYrTFXoBDFtTFXogrLYcUzJKJqK0Etq6h8REmHLVP0gxJgnXUOqMolrPQQK6QnymEhbEnleutKwZ5TgYUidOhr17Oeo2uDbSMM8dJSV91J3IXkqqt1WrAUfWzAwcO+GZoIvUft9lmSSep4YkAc2vko7UinwVVPofDKkl9SaTzSBaxnqpO3yWniejQgQrJcvbsWbHPpjoKEjardYUqQYwdwtBKwXUIXUKSLoAerCKdK83NBF4ab12IoBXT0IzuI2KiTzbK5fLg2rVrfT4dO03DwxMU4fe9tZeRgfqNBiiaQTKQNHRjyoxRCM7j354VNGKDRPR4qmZsbT37MVeuXJnwKUCJRMKfsDse/ejQoR/26PT3eOjLNJCLUeQj27QMyJsFRZgflUiMMqaTkW0o6I/DbYK0AKJadjFnIoCoJE6fAkTC+B0/fvynRBwej5dgHBgwLBycv0vBNNDqYCnbY4lEBKoUgaLoRp9tqW9iJCMfF2IbrKystPsUYEhIiH9SUlKM53jUYpkuxcRC/RTe2c2ChDczPiaIv90NiTm5bIuDUXZoPHA5ndDVoX24tLSU8EofHtlt4yuebBiHc0jw8ChKi30dUNK9LXUaJu50TBnzzJkzf6KHSa/86Ray+iZtHwXcVL6QEYDSNW2vByCdp74jJ9mE3k4Vn5mZMaPdRb1ygI5x+x+SM7KYttE2EntDDYOszxhzzTYkjYwFX8qYdA1u7yXPY7jX8XxQpe/sukuJJVbdwCq5qd/EHIOYG2QeY4JNrKYfMmDov6EoLZW9tgeY9CooKMhE2/qkvqb2Ic0rBIbGgu0VKtaX+TiXYFL6G16zLBaL017rE9a1Vqjt6ND2dffczsLRYNg4+KBCoQBlWTns3fPW0Wc9/t0Q4OXLl/1Onjzp03Xx4sXE+/fvV507dy4Co7/k1q1bucvLy8+9njB48PwHFIy+iyEH0pwAAAAASUVORK5CYII='/>
 <text text-anchor='left' alignment-baseline='middle' x='55' y='20.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>SP+: -14.2</text>
 <text text-anchor='left' alignment-baseline='middle' x='55' y='30.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>as of 2018-11-25</text>
-<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-11-18: -0.4</text>
+<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-11-25: 0.0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='530.0' y='26.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Total Wins as projected by SP+</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 13 games)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 0 games)</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>When?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Where?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='130.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>OPP</text>
@@ -436,11 +436,11 @@
 <text text-anchor='end' alignment-baseline='middle' x='454.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='455' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(77,255,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='480.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>100.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+50.0)%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='480.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='504.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='505' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255,77,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='530.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-50.0%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='554.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>0.0%</text>
 <rect x='555' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255,77,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='580.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
@@ -466,8 +466,8 @@
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='854.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:13px;weight:normal'>5.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-0.5)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>5.0</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0)</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='127.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>15 - 49</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='177.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
@@ -557,6 +557,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='122.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 1</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='132.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-01</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='172.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='182.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Conway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -564,6 +568,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='172.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 2</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='182.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-08</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Conway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -571,6 +579,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 3</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-15</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Lafayette</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> LA</text>
@@ -578,6 +590,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Troy</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> AL</text>
@@ -585,6 +601,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 5</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-29</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>3:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Conway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -592,6 +612,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 6</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-13</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>6:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Amherst</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MA</text>
@@ -599,6 +623,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 7</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-20</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>3:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Atlanta</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> GA</text>
@@ -606,6 +634,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 8</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-27</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Conway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -613,6 +645,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 9</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-03</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>5:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Conway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -620,6 +656,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>5:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Conway</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -627,6 +667,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 11</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-17</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>5:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='672.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='682.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Mobile</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='692.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> AL</text>

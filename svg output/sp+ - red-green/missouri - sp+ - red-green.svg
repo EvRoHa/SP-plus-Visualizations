@@ -9,9 +9,9 @@
 <image x='10.0' y='10.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,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'/>
 <text text-anchor='left' alignment-baseline='middle' x='55' y='20.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>SP+: +14.5</text>
 <text text-anchor='left' alignment-baseline='middle' x='55' y='30.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>as of 2018-11-25</text>
-<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-11-18: +1.7</text>
+<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-11-25: 0.0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='530.0' y='26.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Total Wins as projected by SP+</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 13 games)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 0 games)</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>When?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Where?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='130.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>OPP</text>
@@ -444,11 +444,11 @@
 <text text-anchor='end' alignment-baseline='middle' x='554.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='555' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255,77,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='580.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-14.9%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='604.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='605' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(77,255,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='630.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>100.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+14.9)%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='654.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='655' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255,77,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='680.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
@@ -466,8 +466,8 @@
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='854.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:13px;weight:normal'>8.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(0,205,0);font-size:10px;weight:bolder'>(+0.1)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>8.0</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0)</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='127.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>51 - 14</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='177.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
@@ -557,6 +557,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='122.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 1</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='132.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-01</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>4:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='172.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='182.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MO</text>
@@ -564,6 +568,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='172.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 2</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='182.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-08</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> West Lafayette</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> IN</text>
@@ -571,6 +579,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 3</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-15</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MO</text>
@@ -578,6 +590,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> SC</text>
@@ -585,6 +601,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 5</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-06</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Tuscaloosa</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> AL</text>
@@ -592,6 +612,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 6</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-13</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MO</text>
@@ -599,6 +623,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 7</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-20</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>4:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MO</text>
@@ -606,6 +634,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 8</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-27</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>4:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Gainesville</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> FL</text>
@@ -613,6 +645,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 9</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-03</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>4:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MO</text>
@@ -620,6 +656,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Knoxville</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> TN</text>
@@ -627,6 +667,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 11</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-17</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>3:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='672.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='682.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Columbia</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='692.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> MO</text>

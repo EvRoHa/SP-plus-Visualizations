@@ -9,9 +9,9 @@
 <image x='10.0' y='10.0' width='40px' height='40px' xlink:href='data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAACqklEQVR42u3Xb2hNcRzH8Yu5hOYRk7Tyr63WEk8sD7YSHsjaJGojuYiirPxvxQPlz1qWB4pSWyQkYshNiIRaJFsiyRZiJf//zdh2vX/zufp1Ouf+ce6Wch681to5u+dzfr/v7/v73VAsFgv9y0JBwCBgEDAIGAQMAvoLmFda3ZeWoQ7DndcOnb6RWsBQ4XK/8jAWQ12ubUEMzZhnX6upj2Ys4ECMwEiMQyFmohKbcFkhjO94h1d4jhZ8sK7fwkJkZTLgEDTih/WgVO3GGOzFJ+vv9+eu2beKkGETNBE7yCCMxyysw0E04etfBIt7iDCyUYQ2x/WnWKlnuw8QPwbLDOzETXQnefBHPMFtXMQJHNcUvkCPdW8VpuFtgs+7rlp2DegmF3twD4exEWUoUC1OxiLdc14j4/VSpi7PJnnhN2jHxFQDeinQoujxMe1uNiCKu6rZtAIOU4uo06rsynC4mGr9HC7hMRar7DwDmrYyH0fxOsEHm5F8hiu4g5f46TNst9U7F9ihslRnxxKs3G+4hu2owGa1oPj9HVoopq1EUKr6NC3mgbi9wBfU60Xj7ay9d+Xzo1jOqMn2uIQ6pQfmqF004L21os1IL8Fox0xMwByt5Av47PHi29SKzCIpx1VlOek2vWbLmoTZvUP8+x8HaNU26wM7NXJlji3OtKr9atBmRqr1oGTTWqtusFa1N12DkdYqNvvtUuxCvuPaFM1AfPR36IHp1l+HNohyNXjfhwWzA2x12Qa7PIrfzMARM6WjiqtWc6qpRAUiWK+TTyMOINucevwGDGsaOxOMSpteIr+vTjOpKNIWZwcztbfiTz9z6O+AxlSr3TzSsczz/pQDJjvupKMkUmOmu5Xfc5Ld29TS2v/fSWoborkUdknwrS4IGAQMAgYB/6OAvwACYJGHK61WiwAAAABJRU5ErkJggg=='/>
 <text text-anchor='left' alignment-baseline='middle' x='55' y='20.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>SP+: -0.6</text>
 <text text-anchor='left' alignment-baseline='middle' x='55' y='30.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>as of 2018-11-25</text>
-<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-11-18: -1.1</text>
+<text text-anchor='left' alignment-baseline='middle' x='55' y='40.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>Change from 2018-11-25: 0.0</text>
 <text text-anchor='middle' alignment-baseline='middle' x='530.0' y='26.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Total Wins as projected by SP+</text>
-<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 13 games)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='530.0' y='39.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>(change after week 0 games)</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>When?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>Where?</text>
 <text text-anchor='middle' alignment-baseline='middle' x='130.0' y='80.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>OPP</text>
@@ -444,11 +444,11 @@
 <text text-anchor='end' alignment-baseline='middle' x='554.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='555' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(77,255,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='580.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>100.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+77.4)%</text>
+<text text-anchor='middle' alignment-baseline='middle' x='580.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='604.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>100.0%</text>
 <rect x='605' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255,77,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='630.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(-77.4%)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='630.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='654.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>0.0%</text>
 <rect x='655' y='655' width='50' height='50' style='stroke-width:1;stroke:none;fill:rgb(255,77,77);'/>
 <text text-anchor='middle' alignment-baseline='middle' x='680.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
@@ -466,8 +466,8 @@
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>0.0%</text>
 <text text-anchor='middle' alignment-baseline='middle' x='830.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0%)</text>
 <text text-anchor='end' alignment-baseline='middle' x='854.0' y='700' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>0.0%</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:13px;weight:normal'>7.0</text>
-<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(255,77,77);font-size:10px;weight:bolder'>(-0.8)</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='678.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>7.0</text>
+<text text-anchor='middle' alignment-baseline='middle' x='880.0' y='688.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>(+0.0)</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='127.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>WON</text>
 <text text-anchor='middle' alignment-baseline='baseline' x='180.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>72 - 19</text>
 <text text-anchor='middle' alignment-baseline='central' x='180.0' y='177.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:12px;weight:normal'>LOST</text>
@@ -557,6 +557,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='122.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 1</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='132.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-08-31</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='142.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>9:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='172.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='182.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Nashville</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> TN</text>
@@ -564,6 +568,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='172.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 2</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='182.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-08</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='192.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Reno</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NV</text>
@@ -571,6 +579,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='222.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 3</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='232.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-15</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='242.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>7:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Toledo</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> OH</text>
@@ -578,6 +590,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='272.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 4</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='282.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-22</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='292.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> U.S. Air Force Academy</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> CO</text>
@@ -585,6 +601,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='322.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 5</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='332.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-09-29</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='342.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>4:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Reno</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NV</text>
@@ -592,6 +612,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='372.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 6</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='382.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-06</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='392.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>10:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Reno</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NV</text>
@@ -599,6 +623,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='422.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 7</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='432.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-13</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='442.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>10:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Honolulu</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> HI</text>
@@ -606,6 +634,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='472.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 8</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='482.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-21</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='492.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>12:00 AM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Reno</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NV</text>
@@ -613,6 +645,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='522.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 9</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='532.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-10-27</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='542.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>10:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>HOME</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Reno</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NV</text>
@@ -620,6 +656,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='572.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='582.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-10</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='592.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>10:30 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> San Jose</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> CA</text>
@@ -627,6 +667,10 @@
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='622.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:10px;weight:normal'>Week 11</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='632.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>2018-11-17</text>
 <text text-anchor='middle' alignment-baseline='middle' x='30.0' y='642.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'>3:00 PM ET</text>
+<rect x='5' y='55' width='900' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='55' width='700' height='650' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='5' y='55' width='900' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
+<rect x='205' y='5' width='650' height='50' style='stroke-width:2;stroke:rgb(0,0,0);fill:none;'/>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='672.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:13px;weight:normal'>AWAY</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='682.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> Las Vegas</text>
 <text text-anchor='middle' alignment-baseline='middle' x='80.0' y='692.0' style='font-family:Arial;fill:rgb(0,0,0);font-size:8px;weight:normal'> NV</text>

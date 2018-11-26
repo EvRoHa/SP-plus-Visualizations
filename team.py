@@ -368,53 +368,53 @@ class Team:
             graph.add_text(margin + hstep * (len(record) + 5.5), margin + vstep * 1.5 + 10, alignment='middle', size=10,
                            text='(change)'.format(j))
 
-            for i in range(2, rows + 1):
-                # add the horizontal lines between the rows
-                graph.add_line(x1=margin, y1=margin + vstep * i, x2=margin + hstep * cols, y2=vstep * i + margin)
-            for j in range(1, cols):
-                # add the vertical lines between the columns
-                graph.add_line(x1=margin + hstep * j, y1=margin + vstep, x2=margin + hstep * j,
-                               y2=vstep * (rows + 1) + margin)
+        for i in range(2, rows + 1):
+            # add the horizontal lines between the rows
+            graph.add_line(x1=margin, y1=margin + vstep * i, x2=margin + hstep * cols, y2=vstep * i + margin)
+        for j in range(1, cols):
+            # add the vertical lines between the columns
+            graph.add_line(x1=margin + hstep * j, y1=margin + vstep, x2=margin + hstep * j,
+                           y2=vstep * (rows + 1) + margin)
 
-            # Add the home / away data
-            for i in range(0, rows - 1):
-                if self.schedule[self.name]['schedule'][i]['home-away'] == 'home':
-                    loc = 'HOME'
-                else:
-                    loc = 'AWAY'
+        # Add the home / away data
+        for i in range(0, rows - 1):
+            if self.schedule[self.name]['schedule'][i]['home-away'] == 'home':
+                loc = 'HOME'
+            else:
+                loc = 'AWAY'
 
-                graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) - 8, alignment='middle', size=13,
-                               text=loc)
+            graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) - 8, alignment='middle', size=13,
+                           text=loc)
 
-                # Get the game location
-                loc = self.schedule[self.name]['schedule'][i]['location'].split(',')[-2:]
-                graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 2, alignment='middle', size=8,
-                               text=loc[0])
-                graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 12, alignment='middle', size=8,
-                               text=loc[1])
+            # Get the game location
+            loc = self.schedule[self.name]['schedule'][i]['location'].split(',')[-2:]
+            graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 2, alignment='middle', size=8,
+                           text=loc[0])
+            graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 12, alignment='middle', size=8,
+                           text=loc[1])
 
-                # Add the opponent logo
-                try:
-                    opponent = self.schedule[self.name]['schedule'][i]['opponent']
-                    graph.add_image(2 * hstep + margin + (hstep - logowidth) / 2,
-                                    vstep * (2 + i) + margin + (vstep - logoheight) / 2, logowidth, logoheight,
-                                    self.schedule[opponent]['logoURI'])
-                except KeyError:
-                    pass
+            # Add the opponent logo
+            try:
+                opponent = self.schedule[self.name]['schedule'][i]['opponent']
+                graph.add_image(2 * hstep + margin + (hstep - logowidth) / 2,
+                                vstep * (2 + i) + margin + (vstep - logoheight) / 2, logowidth, logoheight,
+                                self.schedule[opponent]['logoURI'])
+            except KeyError:
+                pass
 
-                # Add the row week label
-                graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i) - 8, alignment='middle', size=10,
-                               text='Week ' + str(i + 1))
+            # Add the row week label
+            graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i) - 8, alignment='middle', size=10,
+                           text='Week ' + str(i + 1))
 
-                # Add the date and time
-                d = self.schedule[self.name]['schedule'][i]['startDate']
-                t = self.schedule[self.name]['schedule'][i]['startTime']
-                graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i) + 2, alignment='middle', size=8,
-                               text=d)
-                if t == 'TBA':
-                    t = 'Time TBA'
-                graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i) + 12, alignment='middle', size=8,
-                               text=t)
+            # Add the date and time
+            d = self.schedule[self.name]['schedule'][i]['startDate']
+            t = self.schedule[self.name]['schedule'][i]['startTime']
+            graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i) + 2, alignment='middle', size=8,
+                           text=d)
+            if t == 'TBA':
+                t = 'Time TBA'
+            graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i) + 12, alignment='middle', size=8,
+                           text=t)
 
             # Draw the outline box for the table
             graph.add_rect(margin, margin + vstep, hstep * cols, vstep * (rows), fill='none', stroke_width=2)
@@ -431,11 +431,14 @@ class Team:
 
         graph.write_file()
 
-    def project_win_totals(self, week=-1):
-        if (week < 0) or (week > len(self.win_probabilities)):
+    def project_win_totals(self, week=None, date=None):
+        if not week or (week > len(self.win_probabilities)):
             week = -1
 
-        best_match = self.get_best_sp_match(week)
+        if not date:
+            best_match = self.get_best_sp_match(week)
+        else:
+            best_match = date
 
         win_probs = [x for x in self.win_probabilities[best_match]]
 
@@ -450,6 +453,163 @@ class Team:
                 record[i][j + 1] += record[i - 1][j] * (win_probs[i])  # newest game was a win
 
         return record
+
+    def make_retrospective_projection_graph(self, file='out', hstep=50, vstep=50, margin=5, logowidth=40, logoheight=40,
+                                   menuheight=40, absolute=False, method='sp+', scale='red-green'):
+        win_probs = []
+        for date in self.spplus:
+            win_probs.append([date, self.spplus[date], self.project_win_totals(date=date)[-1]])
+
+        width = max([len(x[2]) for x in win_probs])
+        length = len(win_probs)
+        if not os.path.exists(".\svg output\{} - {}".format(method, scale)):
+            os.makedirs(".\svg output\{} - {}".format(method, scale))
+        path = os.path.join(".\svg output\{} - {}".format(method, scale),
+                            '{} - {} - {} - RETROSPECTIVE.svg'.format(file, method, scale))
+
+        rows = 1 + length
+        cols = 3 + width
+
+        graph = Graph(path=path, width=hstep * cols + 2 * margin, height=vstep * rows + 4 * margin + menuheight)
+
+        # Add the team logo
+        try:
+            graph.add_image(margin + (hstep - logowidth) / 2,
+                            margin + (vstep - logoheight) / 2,
+                            logowidth,
+                            logoheight,
+                            self.schedule[self.name]['logoURI'])
+        except IndexError:
+            pass
+        # TODO: change this block to give the gradient
+        '''
+        # Add the S&P+ value
+        if cur_sp > 0:
+            txt = '+{}'.format(cur_sp)
+        else:
+            txt = str(cur_sp)
+        graph.add_text(margin + hstep,
+                       margin + vstep / 2 - 10,
+                       size=13,
+                       alignment='middle', anchor='left', text='SP+: {}'.format(txt))
+        graph.add_text(margin + hstep,
+                       margin + vstep / 2,
+                       size=8,
+                       alignment='middle', anchor='left', text='as of {}'.format(cur_date))
+        if cur_sp - last_sp > 0:
+            txt = '+' + str(round(cur_sp - last_sp, 1))
+        else:
+            txt = str(round(cur_sp - last_sp, 1))
+        graph.add_text(margin + hstep,
+                       margin + vstep / 2 + 10,
+                       size=8,
+                       alignment='middle', anchor='left', text='Change from {}: {}'.format(last_date, txt))
+        '''
+        # Add the horizontal header label; it is at the very top of the svg and
+        # covers the right 16 columns, with centered text
+        graph.add_text(margin + hstep * (cols - (cols - 1) / 2),
+                       margin + vstep * 0.5, size=13,
+                       alignment='middle', text='End of Year Total Wins as Projected by {}'.format(method.upper()))
+
+        graph.add_text(margin + hstep * 0.5, margin + vstep * 1.5, alignment='middle', size=13, text='Date')
+        graph.add_text(margin + hstep * 1.5, margin + vstep * 1.5, alignment='middle', size=13, text='SP+')
+
+        # Make the color-coded body of the table
+        for i in range(0, rows - 1):
+            # find the max and min in this week to determine color of cell
+            # The rows can be color coded by giving scaling to the maximum likelihood within the week (relative)
+            # or by absolute likelihood (max=1.0). Default is relative.
+            if absolute:
+                upper, lower = 1, 0
+            else:
+                upper, lower = max(win_probs[i][2]), min(win_probs[i][2])
+
+            for j in range(0, len(win_probs)):
+                # where wins <= games played, make the table
+                if j < len(win_probs[i][2]):
+                    if absolute:
+                        r, g, b = Utils.gradient_color(0, 1, win_probs[i][2][j], scale=scale,
+                                                       primaryColor=self.primary_color,
+                                                       secondaryColor=self.secondary_color)
+                    else:
+                        r, g, b = Utils.gradient_color(lower, upper, win_probs[i][2][j], scale=scale,
+                                                       primaryColor=self.primary_color,
+                                                       secondaryColor=self.secondary_color)
+
+                    # Draw the color-coded box
+                    graph.add_rect(margin + hstep * (2 + j), margin + vstep * (2 + i), hstep, vstep, color='none',
+                                   fill=(r, g, b))
+
+                    # Should the text be white or black?
+                    text_color = Utils.get_text_contrast_color(r, g, b)
+
+                    graph.add_text(margin + hstep * (2.5 + j),
+                                   margin + vstep * (2.5 + i) - 2,
+                                   alignment='middle', color=text_color,
+                                   text=str(round(100 * win_probs[i][2][j], 1)) + '%')
+
+            j = width
+            new_xw = Team.expected_wins(win_probs[i][2])
+            # What's the win expectation?
+            graph.add_text(margin + hstep * (2.5 + j), margin + vstep * (2.5 + i) - 2, alignment='middle',
+                           color=(0, 0, 0), size=13,
+                           text=round(new_xw, 1))
+
+        for j in range(0, width):
+            if j != 1:
+                txt = 'Wins'
+            else:
+                txt = 'Win'
+            # Add the column label
+            graph.add_text(margin + hstep * (2.5 + j), margin + vstep * 1.5 - 7, alignment='middle', size=13,
+                           text=j)
+            graph.add_text(margin + hstep * (2.5 + j),
+                           margin + vstep * 1.5 + 7,
+                           size=13,
+                           alignment='middle',
+                           text=txt)
+
+        graph.add_text(margin + hstep * (2.5 + width),
+                       margin + vstep * 1.5 - 7,
+                       size=11,
+                       alignment='middle',
+                       text='Expected')
+        graph.add_text(margin + hstep * (2.5 + width),
+                       margin + vstep * 1.5 + 7,
+                       size=11,
+                       alignment='middle',
+                       text='Wins')
+
+        for i in range(2, rows + 1):
+            # add the horizontal lines between the rows
+            graph.add_line(x1=margin, y1=margin + vstep * i, x2=margin + hstep * cols, y2=vstep * i + margin)
+        for j in range(1, cols):
+            # add the vertical lines between the columns
+            graph.add_line(x1=margin + hstep * j, y1=margin + vstep, x2=margin + hstep * j,
+                           y2=vstep * (rows + 1) + margin)
+
+        for i in range(0, rows - 1):
+            graph.add_text(margin + hstep * 0.5, margin + vstep * (2.5 + i), alignment='middle', size=13,
+                           text='/'.join(win_probs[i][0].split('-')[1:]))
+
+            # Add the row week label
+            graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i), alignment='middle', size=13,
+                           text=win_probs[i][1])
+
+        # Draw the outline box for the table
+        graph.add_rect(margin, margin + vstep, hstep * cols, vstep * (rows), fill='none', stroke_width=2)
+
+        # Draw the outline box for the win total sub-table
+        graph.add_rect(margin + hstep * 2, margin + vstep, hstep * (cols - 3), vstep * (rows), fill='none',
+                       stroke_width=2)
+
+        # Draw the outline box for the column headers
+        graph.add_rect(margin, margin + vstep, hstep * cols, vstep, fill='none', stroke_width=2)
+
+        # Draw the outline box for the win total header label
+        graph.add_rect(margin + hstep * 2, margin, hstep * (cols - 3), vstep, fill='none', stroke_width=2)
+
+        graph.write_file()
 
     def write_win_probability_csv(self, file='out'):
         record = self.project_win_totals()

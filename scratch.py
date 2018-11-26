@@ -55,19 +55,30 @@ def make_team_graphs(old=True, scale=None, week=-1):
             else:
                 val.make_win_probability_graph(absolute=False, file=team, old=old, scale=scale, method='sp+')
 
+def make_retrospective_graphs(old=None, scale=None):
+    for team in schedule:
+        if schedule[team]['conference'] in FBS:
+            val = Team(name=team, schedule=schedule)
+            if not scale:
+                for color in ['team', 'red-green', 'red-blue']:
+                    val.make_retrospective_projection_graph(absolute=False, file=team, scale=color, method='sp+')
+            else:
+                val.make_win_probability_graph(absolute=False, file=team, scale=scale, method='sp+')
+
 
 load_schedule()
 
 groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
+make_retrospective_graphs(scale='red-green')
+
 current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
-current.write_expected_win_csv()
 
 current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
 current.make_schedule_ranking_graph(spplus='top5')
 current.make_schedule_ranking_graph(spplus='average')
 
-make_conf_graphs(old=True, week=14, order='sp+')
-make_conf_graphs(old=True, week=14, order='winexp')
-make_cluster_graphs(old=True, week=14, order='sp+')
-make_cluster_graphs(old=True, week=14, order='winexp')
-make_team_graphs(old=True, week=14)
+make_conf_graphs(scale='red-green', old=True, week=14, order='sp+')
+make_conf_graphs(scale='red-green', old=True, week=14, order='winexp')
+make_cluster_graphs(scale='red-green', old=True, week=14, order='sp+')
+make_cluster_graphs(scale='red-green', old=True, week=14, order='winexp')
+make_team_graphs(scale='red-green', old=True, week=14)
