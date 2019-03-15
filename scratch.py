@@ -1,3 +1,4 @@
+import csv
 import json
 
 from cluster import Cluster
@@ -7,13 +8,13 @@ from team import Team
 
 
 def load_schedule():
-    with open("schedule.json", "r", encoding='utf8') as file:
+    with open("2019foo.json", "r", encoding='utf8') as file:
         global schedule
         schedule = json.load(file)
 
 
 def make_cluster_graphs(absolute=False, old=None, scale=None, week=-1, order='winexp'):
-    groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
+    groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['FBS Independents']}
     for cluster in groups:
         current = Cluster(schedule=schedule,
                           teams=[x for x in schedule if schedule[x]['conference'] in groups[cluster]])
@@ -55,6 +56,7 @@ def make_team_graphs(old=True, scale=None, week=-1):
             else:
                 val.make_win_probability_graph(absolute=False, file=team, old=old, scale=scale, method='sp+')
 
+
 def make_retrospective_graphs(old=None, scale=None):
     for team in schedule:
         if schedule[team]['conference'] in FBS:
@@ -66,19 +68,31 @@ def make_retrospective_graphs(old=None, scale=None):
                 val.make_win_probability_graph(absolute=False, file=team, scale=scale, method='sp+')
 
 
+def export_retrospective_data():
+    wins = ['0 wins', '1 win']
+    wins.extend([str(x) + ' wins' for x in range(2, 13)])
+    data = [['Team', 'Date', 'S&P+', *wins]]
+    for team in schedule:
+        if schedule[team]['conference'] in FBS:
+            data.extend(Team(name=team, schedule=schedule).export_retrospective_data())
+    with open('retrospective.csv', 'w+', newline='') as file:
+        cw = csv.writer(file)
+        for row in data:
+            cw.writerow(row)
+
+
 load_schedule()
 
-groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['independent']}
-make_retrospective_graphs(scale='red-green')
+groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['FBS Independents']}
 
-current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
+#current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
+#current.write_schedule_swap_matrix()
+#current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
+#current.make_schedule_ranking_graph(spplus='top5')
+#current.make_schedule_ranking_graph(spplus='average')
 
-current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
-current.make_schedule_ranking_graph(spplus='top5')
-current.make_schedule_ranking_graph(spplus='average')
-
-make_conf_graphs(scale='red-green', old=True, week=14, order='sp+')
-make_conf_graphs(scale='red-green', old=True, week=14, order='winexp')
-make_cluster_graphs(scale='red-green', old=True, week=14, order='sp+')
-make_cluster_graphs(scale='red-green', old=True, week=14, order='winexp')
-make_team_graphs(scale='red-green', old=True, week=14)
+#make_conf_graphs(scale='red-green', old=True, week=-1, order='sp+')
+#make_cluster_graphs(scale='red-green', old=True, week=-1, order='sp+')
+make_conf_graphs(scale='red-green', old=True, week=-1, order='winexp')
+make_cluster_graphs(scale='red-green', old=True, week=-1, order='winexp')
+#make_team_graphs(scale='red-green', old=True, week=-1)

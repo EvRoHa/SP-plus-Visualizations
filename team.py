@@ -15,7 +15,7 @@ class Team:
             self.name = ""
         else:
             assert isinstance(name, str), "Name is not a string!"
-            self.name = name.lower()
+            self.name = name
             self.conference = self.schedule[self.name]['conference']
             self.logo_URI = self.schedule[self.name]['logoURI']
             self.spplus = self.schedule[self.name]['sp+']
@@ -390,8 +390,8 @@ class Team:
             loc = self.schedule[self.name]['schedule'][i]['location'].split(',')[-2:]
             graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 2, alignment='middle', size=8,
                            text=loc[0])
-            graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 12, alignment='middle', size=8,
-                           text=loc[1])
+            #graph.add_text(margin + hstep * 1.5, margin + vstep * (2.5 + i) + 12, alignment='middle', size=8,
+            #               text=loc[1])
 
             # Add the opponent logo
             try:
@@ -453,6 +453,13 @@ class Team:
                 record[i][j + 1] += record[i - 1][j] * (win_probs[i])  # newest game was a win
 
         return record
+
+    def export_retrospective_data(self):
+        win_probs = []
+        for date in self.spplus:
+            win_probs.append([date, self.spplus[date], *self.project_win_totals(date=date)[-1]])
+
+        return [[self.name, *x] for x in win_probs]
 
     def make_retrospective_projection_graph(self, file='out', hstep=50, vstep=50, margin=5, logowidth=40, logoheight=40,
                                    menuheight=40, absolute=False, method='sp+', scale='red-green'):

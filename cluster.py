@@ -1,8 +1,9 @@
 import csv
+import itertools
 import os
-from defs import FBS
 from datetime import datetime
 
+from defs import FBS
 from graph import Graph
 from team import Team
 from utils import Utils
@@ -20,7 +21,7 @@ class Cluster:
         for team in self.schedule:
             if self.schedule[team]['conference'] in FBS:
                 date = max(datetime.strptime(dt, '%Y-%m-%d') for dt in self.schedule[team]['sp+'].keys()).strftime(
-                '%Y-%m-%d')
+                    '%Y-%m-%d')
                 sp.append(self.schedule[team]['sp+'][date])
         sp.sort(reverse=True)
         if upper == -1:
@@ -535,9 +536,38 @@ class Cluster:
         for team in self.teams:
             for w in range(0, 13):
                 rec = team.project_win_totals(w)[-1]
-                row = [team.name.title(),w,Team.expected_wins(rec)]
+                row = [team.name.title(), w, Team.expected_wins(rec)]
                 result.append(row)
         with open("{}.csv".format(file), 'w', newline='') as outfile:
             writer = csv.writer(outfile)
             for r in result:
                 writer.writerow(r)
+
+    def write_schedule_swap_matrix(self, file='swapped schedules.csv'):
+        data = {x.name: {x.name: 1} for x in self.teams}
+        for tA, tB in itertools.combinations(self.teams, 2):
+            A, B = tA.name, tB.name
+            # swap the values
+            self.schedule[A]['schedule'], self.schedule[B]['schedule'] = self.schedule[B]['schedule'], self.schedule[A][
+                'schedule']
+
+            wA, wB = tA.expected_wins(tA.project_win_totals()[-1]), tB.expected_wins(tB.project_win_totals()[-1])
+            teamA = Team(name=A, schedule=self.schedule)
+
+            data[A][B] = teamA.expected_wins(teamA.project_win_totals()[-1]) / wA
+
+            teamB = Team(name=B, schedule=self.schedule)
+
+            data[B][A] = teamB.expected_wins(teamB.project_win_totals()[-1]) / wB
+
+            # unswap the values
+            self.schedule[A]['schedule'], self.schedule[B]['schedule'] = self.schedule[B]['schedule'], self.schedule[A][
+                'schedule']
+
+        with open(file, 'w+', newline='') as outfile:
+            cw = csv.writer(outfile)
+            cw.writerow(['', *sorted(list(data.keys()))])
+            keys = sorted(list(data.keys()))
+            for team in keys:
+                row = [data[team][x] for x in keys]
+                cw.writerow([team, *row])

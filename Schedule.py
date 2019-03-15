@@ -15,10 +15,22 @@ from utils import Utils
 
 
 class Schedule(object):
-    def __init__(self, file):
-        self.file = file
-        with open(file, 'r', encoding='utf8') as infile:
-            self.data = json.load(infile)
+    def __init__(self, file=None, year=datetime.now().year):
+        if file:
+            self.file = file
+            with open(file, 'r', encoding='utf8') as infile:
+                self.data = json.load(infile)
+        else:
+            self.url = 'https://api.collegefootballdata.com/games?year={}'.format(year)
+            self.download_schedules()
+
+    def add_game(self, team, **kwargs):
+        g = {x: kwargs[x] if x in kwargs else [] if x == "scoreBreakdown" else "" for x in
+             ["canceled", "home-away", "id", "location", "opponent", "scoreBreakdown",
+              "startDate", "startTime", "teamRank", "winner"] if x in kwargs}
+
+        self.data[team]['schedule'].append(g)
+
     def box_score(self, game):
         opponent = game['opponent']
 
@@ -26,8 +38,7 @@ class Schedule(object):
             opp_game = [x for x in self.data[opponent]['schedule'] if x['id'] == game['id']][0]
         except IndexError:
             raise IndexError
-        #TODO: make this spit out a boxscore
-
+        # TODO: make this spit out a boxscore
 
     @staticmethod
     def clean_team_name(name, display: bool = False):
@@ -156,36 +167,67 @@ class Schedule(object):
                 new[t] = self.data[t]
         self.data = new
 
-    @staticmethod
-    def download_schedules(year=datetime.now().year) -> None:
-        result = []
-        # Quick and dirty method to scrape schedule data
-        for week in range(1, 20):
-            # Pull the scoreboard, which contains links to the details for each game
-            # TODO: update to pull from here https://data.ncaa.com/casablanca/scoreboard/football/fbs/2018/14/scoreboard.json
-            url = "http://data.ncaa.com/jsonp/scoreboard/football/fbs/{}/{}/scoreboard.json".format(year,
-                                                                                                    "%02d" % week)
-            response = requests.get(url)
-            if response.status_code == 404:
-                continue
-            else:
-                # look in the scoreboard dictionary, iterate over the days with games that week
-                for day in json.loads(response.text[response.text.index("(") + 1: response.text.rindex(")")])[
-                    'scoreboard']:
-                    # iterate over the games for that day
-                    for game in day['games']:
-                        url = "http://data.ncaa.com/jsonp/{}".format(game)
-                        response = requests.get(url)
-                        if response.status_code == 404:
-                            continue
-                        else:
-                            try:
-                                result += [json.loads(response.text)]
-                            except json.decoder.JSONDecodeError:
-                                continue
-        with open('{} schedule.json'.format(year), 'w+') as file:
-            json.dump(result, file, indent=4, sort_keys=True)
-        return result
+    def download_schedules(self, year=datetime.now().year) -> None:
+        # get the schedule
+        games = json.loads(requests.get(self.url).text)
+
+        # build a list of teams
+        self.data = {x: {} for x in set([y[z] for y in games for z in ['home_team', 'away_team']])}
+
+        # populate the team data
+        teams = json.loads(requests.get('https://api.collegefootballdata.com/teams').text)
+
+        k = self.data.keys()
+
+        for t in teams:
+            if t['school'] in k:
+                self.data[t['school']] = {x: t[x] for x in ['mascot', 'conference', 'division', 'color', 'alt_color']}
+                self.data[t['school']]['schedule'] = []
+                self.data[t['school']]['sp+'] = {}
+                try:
+                    self.data[t['school']]['logo'] = t['logos'][0]
+                    response = requests.get(self.data[t['school']]['logo'], stream=True)
+                    self.data[t['school']]['logoURI'] = base64.b64encode(response.raw.read()).decode()
+
+                except TypeError:
+                    print("no logo available for {}".format(t['school']))
+                    pass
+
+        # populate the team schedules
+        for g in games:
+            h = g['home_team']
+            a = g['away_team']
+            f = datetime.strptime(g['start_date'], '%Y-%m-%dT%X.000Z')
+            d = f.strftime('%Y-%m-%d')
+            t = f.strftime('%X')
+
+            self.data[h]['schedule'].append({'canceled': 'false',
+                                             'home-away': 'home',
+                                             'id': g['id'],
+                                             'location': g['venue'],
+                                             'opponent': a,
+                                             'scoreBreakdown': [x for x in g['home_line_scores']] if g[
+                                                 'home_line_scores'] else [],
+                                             'startDate': d,
+                                             'startTime': t,
+                                             'winner': 'true' if g['home_line_scores'] and g[
+                                                 'away_line_scores'] and sum(
+                                                 g['home_line_scores']) > sum(
+                                                 g['away_line_scores']) else 'false'})
+
+            self.data[a]['schedule'].append({'canceled': 'false',
+                                             'home-away': 'away',
+                                             'id': g['id'],
+                                             'location': g['venue'],
+                                             'opponent': h,
+                                             'scoreBreakdown': [x for x in g['away_line_scores']] if g[
+                                                 'away_line_scores'] else [],
+                                             'startDate': d,
+                                             'startTime': t,
+                                             'winner': 'true' if g['away_line_scores'] and g[
+                                                 'home_line_scores'] and sum(
+                                                 g['away_line_scores']) > sum(
+                                                 g['home_line_scores']) else 'false'})
 
     @staticmethod
     def export_game_times_from_raw(file, year=None):
@@ -301,7 +343,8 @@ class Schedule(object):
                 name = Schedule.clean_team_name(team, display=True)
                 result[name] = []
                 for i in range(len(self.data[team]['schedule'])):
-                    if self.data[team]['schedule'][i]['home-away'] == 'home'and self.data[team]['schedule'][i]['location'] not in result[name]:
+                    if self.data[team]['schedule'][i]['home-away'] == 'home' and self.data[team]['schedule'][i][
+                        'location'] not in result[name]:
                         result[name].append(self.data[team]['schedule'][i]['location'])
         with open(file, 'w+') as outfile:
             json.dump(result, outfile, indent=4, sort_keys=True)
@@ -329,6 +372,22 @@ class Schedule(object):
             cw.writerow(['team', 'conference', 'division'])
             for row in result:
                 cw.writerow(row)
+
+    @staticmethod
+    def make_blank_schedule(year=None):
+        with open('schedule.json', 'r', encoding='utf8') as infile:
+            s = json.load(infile)
+        for x in s:
+            del s[x]['rankings']
+            s[x]['schedule'] = []
+            s[x]['sp+'] = {}
+
+        if year:
+            n = '{} schedule.json'.format(year)
+        else:
+            n = 'new schedule.json'
+        with open(n, 'w+') as outfile:
+            json.dump(s, outfile, indent=4, sort_keys=True)
 
     def normalize_schedule(self, method: str = 'spplus', week: int = -1):
         # A method to ensure that all games have a total win probability equal to one
@@ -428,47 +487,6 @@ class Schedule(object):
                 output.append(self.boxscore(game))
             if game['opponent'] in teams:
                 teams.pop(teams['opponent'])
-
-
-    def swap_teams(self, team_a, team_b):
-        # TODO: Tidy up this code
-        data = dict(self.data)
-
-        for team in self.data:
-            if team == team_a:
-                data[team_b]['schedule'] = self.data[team]['schedule']
-            elif team == team_b:
-                data[team_a]['schedule'] = self.data[team]['schedule']
-
-        tmp = sp[team_a]['sp+']
-        data[team_b]['sp+'] = sp[team_b]['sp+']
-        data[team_a]['sp+'] = tmp
-
-        tmp = self.data[team_a]['logoURI']
-        data[team_b]['logoURI'] = self.data[team_b]['logoURI']
-        data[team_a]['logoURI'] = tmp
-
-        for team in data:
-            for game in range(len(data[team]['schedule'])):
-                if data[team]['schedule'][game]['opponent'] == team_a:
-                    data[team]['schedule'][game]['opponent'] = team_b
-                elif data[team]['schedule'][game]['opponent'] == team_b:
-                    data[team]['schedule'][game]['opponent'] = team_a
-                try:
-                    team_a_spplus = sp[team]['sp+']
-                except KeyError:
-                    team_a_spplus = -10
-                try:
-                    team_b_spplus = sp[data[team]['schedule'][game]['opponent']]['sp+']
-                except KeyError:
-                    team_b_spplus = -10
-                loc = data[team]['schedule'][game]['home-away']
-                if loc == 'home':
-                    data[team]['schedule'][game]['sp+'] = [
-                        Utils.calculate_win_prob_from_spplus(team_a_spplus, team_b_spplus, 'home')]
-                else:
-                    data[team]['schedule'][game]['sp+'] = [
-                        Utils.calculate_win_prob_from_spplus(team_a_spplus, team_b_spplus, 'away')]
 
     def update_from_NCAA(self, new=None):
         def find(t):
@@ -708,6 +726,12 @@ class Schedule(object):
                     csvwriter.writerow(row)
 
 
+s = Schedule(file='2019foo.json')
+for t in s.data:
+    if len(s.data[t]['sp+'])==0:
+        print(t)
+'''
 s = Schedule(file='schedule.json')
 s.update_spplus()
 s.save_to_file()
+'''
