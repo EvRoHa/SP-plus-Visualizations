@@ -120,10 +120,10 @@ class Team:
 
         if old:
             prior = self.project_win_totals(week - 1)
-        if not os.path.exists(".\svg output\{} - {}".format(method, scale)):
-            os.makedirs(".\svg output\{} - {}".format(method, scale))
-        path = os.path.join(".\svg output\{} - {}".format(method, scale),
-                            '{} - {} - {}.svg'.format(file, method, scale))
+        if not os.path.exists(".\svg output\{} ~ {}".format(method, scale)):
+            os.makedirs(".\svg output\{} ~ {}".format(method, scale))
+        path = os.path.join(".\svg output\{} ~ {}".format(method, scale),
+                            '{} ~ {} ~ {}.svg'.format(file, method, scale))
 
         if not old:
             rows = 1 + len(cur_win_prob)
@@ -469,10 +469,10 @@ class Team:
 
         width = max([len(x[2]) for x in win_probs])
         length = len(win_probs)
-        if not os.path.exists(".\svg output\{} - {}".format(method, scale)):
-            os.makedirs(".\svg output\{} - {}".format(method, scale))
-        path = os.path.join(".\svg output\{} - {}".format(method, scale),
-                            '{} - {} - {} - RETROSPECTIVE.svg'.format(file, method, scale))
+        if not os.path.exists(".\svg output\{} ~ {}".format(method, scale)):
+            os.makedirs(".\svg output\{} ~ {}".format(method, scale))
+        path = os.path.join(".\svg output\{} ~ {}".format(method, scale),
+                            '{} ~ {} ~ {} ~ RETROSPECTIVE.svg'.format(file, method, scale))
 
         rows = 1 + length
         cols = 3 + width

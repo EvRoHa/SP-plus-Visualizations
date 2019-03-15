@@ -54,10 +54,10 @@ class Conference:
         # get the records for the final week for each team
         record = self.get_record_array(week=week, order=order)
 
-        if not os.path.exists(".\svg output\{} - {}".format(method, scale)):
-            os.makedirs(".\svg output\{} - {}".format(method, scale))
-        path = os.path.join(".\svg output\{} - {}".format(method, scale),
-                            '{} - {} - {} using {}.svg'.format(file, method, scale, order))
+        if not os.path.exists(".\svg output\{} ~ {}".format(method, scale)):
+            os.makedirs(".\svg output\{} ~ {}".format(method, scale))
+        path = os.path.join(".\svg output\{} ~ {}".format(method, scale),
+                            '{} ~ {} ~ {} using {}.svg'.format(file, method, scale, order))
 
         if not old:
             rows, cols = len(record) + 2, max([len(x[1]) for x in record]) + 1

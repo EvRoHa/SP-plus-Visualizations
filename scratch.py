@@ -8,7 +8,7 @@ from team import Team
 
 
 def load_schedule():
-    with open("2019foo.json", "r", encoding='utf8') as file:
+    with open("schedule.json", "r", encoding='utf8') as file:
         global schedule
         schedule = json.load(file)
 
@@ -85,14 +85,14 @@ load_schedule()
 
 groups = {'fbs': FBS, 'pfive': PFIVE, 'gfive': GFIVE, 'independent': ['FBS Independents']}
 
-#current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
-#current.write_schedule_swap_matrix()
-#current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
-#current.make_schedule_ranking_graph(spplus='top5')
-#current.make_schedule_ranking_graph(spplus='average')
+current = Cluster(schedule=schedule, teams=[x for x in schedule if schedule[x]['conference'] in FBS])
+current.write_schedule_swap_matrix()
+current.rank_schedules(spplus=current.get_avg_spplus(0, 25), txtoutput=True)
+current.make_schedule_ranking_graph(spplus='top5')
+current.make_schedule_ranking_graph(spplus='average')
 
-#make_conf_graphs(scale='red-green', old=True, week=-1, order='sp+')
-#make_cluster_graphs(scale='red-green', old=True, week=-1, order='sp+')
+make_conf_graphs(scale='red-green', old=True, week=-1, order='sp+')
+make_cluster_graphs(scale='red-green', old=True, week=-1, order='sp+')
 make_conf_graphs(scale='red-green', old=True, week=-1, order='winexp')
 make_cluster_graphs(scale='red-green', old=True, week=-1, order='winexp')
-#make_team_graphs(scale='red-green', old=True, week=-1)
+make_team_graphs(scale='red-green', old=True, week=-1)

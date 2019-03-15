@@ -4,6 +4,7 @@ import os
 import re
 import urllib.parse
 from colorsys import hls_to_rgb
+from defs import PFIVE, GFIVE, FBS
 from datetime import datetime
 
 from subprocess import Popen
@@ -125,10 +126,7 @@ class Utils:
         with open("schedule.json", "r") as file:
             schedule = json.load(file)
 
-        pfive = ['atlantic coast', 'big ten', 'big 12', 'pac 12', 'southeastern']
-        gfive = ['american athletic', 'conference usa', 'mid american', 'mountain west', 'sun belt']
-        fbs = pfive + gfive + ['independent']
-        scale = ['red-green', 'red-blue', 'team']
+        scale = ['red-green']
         result = {}
         out = ''
         for j in scale:
@@ -140,7 +138,7 @@ class Utils:
             links = bs(r.text).findAll('a', href=re.compile(search_url + '*'))
 
             for x in links:
-                name = x.text.split('-')[0].strip().title()
+                name = x.text.split('~')[0].strip().title()
                 url = re.sub('/blob', '', 'https://raw.githubusercontent.com' + x.attrs['href'])
                 try:
                     result[name] = {'scale': j.title(), 'url': url}
@@ -148,7 +146,7 @@ class Utils:
                     result[name] = [{'scale': j.title(), 'url': url}]
 
             with open('{} reddit table.txt'.format(j), 'w+') as outfile:
-                for conf in fbs:
+                for conf in FBS:
                     outfile.write('{}\n\n|S&P+ in {}|\n|:-:|\n'.format(conf.title(), j.title()))
                     outfile.write('|[{} in {}]({})|\n'.format(conf.title(), result[conf.title()]['scale'], result[conf.title()]['url']))
                     for team in result:
@@ -177,3 +175,6 @@ class Utils:
         else:
             spplus = [x['s&p+'] for x in Utils.scrape_spplus(url)]
         return (sum([(x - sum(spplus) / len(spplus)) ** 2 for x in spplus]) / len(spplus)) ** 0.5
+
+
+Utils.scrape_png_links()
